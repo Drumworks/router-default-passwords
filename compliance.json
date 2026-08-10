@@ -1,0 +1,1352 @@
+{
+  "name": "Router Default-Credential Compliance Index",
+  "description": "Share of tracked router models that no longer ship a universal default password. `static` is the pattern the UK PSTI Act (in force April 2024) prohibits on consumer connectable products and the EU Cyber Resilience Act targets.",
+  "source": "https://ssid.ai/compliance",
+  "live_feed": "https://ssid.ai/compliance/data.json",
+  "license": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
+  "generated_at": "2026-08-08",
+  "model_count": 293,
+  "by_credential_type": {
+    "set-on-setup": 96,
+    "label-unique": 76,
+    "app-only": 38,
+    "static": 83,
+    "unknown": 0
+  },
+  "no_universal_default_pct": 72,
+  "universal_default_pct": 28,
+  "by_brand": [
+    {
+      "brand": "Netgear",
+      "models": 29,
+      "universal_default_models": 12,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Linksys",
+      "models": 11,
+      "universal_default_models": 9,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Peplink",
+      "models": 9,
+      "universal_default_models": 9,
+      "no_universal_default": false
+    },
+    {
+      "brand": "D-Link",
+      "models": 8,
+      "universal_default_models": 6,
+      "no_universal_default": false
+    },
+    {
+      "brand": "DrayTek",
+      "models": 6,
+      "universal_default_models": 6,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Ubiquiti",
+      "models": 12,
+      "universal_default_models": 5,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Netgate",
+      "models": 5,
+      "universal_default_models": 5,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Zyxel",
+      "models": 9,
+      "universal_default_models": 4,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Belkin",
+      "models": 4,
+      "universal_default_models": 4,
+      "no_universal_default": false
+    },
+    {
+      "brand": "TP-Link",
+      "models": 30,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
+      "brand": "SaskTel",
+      "models": 4,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Buffalo",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "ASUS",
+      "models": 23,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "ARRIS",
+      "models": 3,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Motorola",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Telstra",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Comfast",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Ruckus",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Actiontec",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Airtel",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Etisalat by e&",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "BSNL",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "EnGenius",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Wavlink",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Totolink",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Rogers",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Edimax",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "NOW Broadband",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "AVM",
+      "models": 10,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "MikroTik",
+      "models": 8,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Tenda",
+      "models": 7,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Verizon",
+      "models": 5,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Keenetic",
+      "models": 5,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Deutsche Telekom",
+      "models": 4,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "eero",
+      "models": 4,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Synology",
+      "models": 4,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "GL.iNet",
+      "models": 4,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "AT&T",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Virgin Media",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Mercusys",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Firewalla",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Grandstream",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Xiaomi",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Huawei",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Google",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Xfinity (Comcast)",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Plusnet",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "EE",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Vodafone",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Orange",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Aruba (HPE)",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Bell",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Turris",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Devolo",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Ruijie Reyee",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Amazon",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Cox",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Spectrum (Charter)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "CenturyLink",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Brightspeed",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Frontier",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Optimum (Altice)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "BT",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Sky",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "TalkTalk",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Vilo",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Meshforce",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Jio",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Nokia",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Cisco Meraki",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Cudy",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Netis",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Reyee (Ruijie)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Optus",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "T-Mobile",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "o2",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "TELUS",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Free",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Starlink",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Ziply Fiber",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "iiNet",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "TPG",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Three",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    }
+  ],
+  "still_shipping_universal_default": [
+    {
+      "brand": "Actiontec",
+      "model": "MI424WR (Verizon FiOS)",
+      "slug": "actiontec-mi424wr",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://www.verizon.com/content/dam/verizon/support/consumer/documents/actiontecr1408usermanual.pdf",
+      "source_name": "Verizon Actiontec Router User Manual (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/actiontec-mi424wr"
+    },
+    {
+      "brand": "Airtel",
+      "model": "Xstream Fiber Router",
+      "slug": "airtel-xstream-fiber",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://www.airtel.in/blog/broadband/use-ip-address-to-login-to-router-settings/",
+      "source_name": "Airtel — Use IP address to login to router settings",
+      "ssid_url": "https://ssid.ai/routers/airtel-xstream-fiber"
+    },
+    {
+      "brand": "ARRIS",
+      "model": "SURFboard SBG7600AC2",
+      "slug": "arris-surfboard-sbg7600ac2",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://www.surfboard.com/support/resources/",
+      "source_name": "ARRIS SURFboard official support (SBG7600AC2 user guide)",
+      "ssid_url": "https://ssid.ai/routers/arris-surfboard-sbg7600ac2"
+    },
+    {
+      "brand": "ASUS",
+      "model": "RT-AC68U",
+      "slug": "asus-rt-ac68u",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.asus.com/support/faq/1005263/",
+      "source_name": "ASUS official Support FAQ 1005263",
+      "ssid_url": "https://ssid.ai/routers/asus-rt-ac68u"
+    },
+    {
+      "brand": "Belkin",
+      "model": "F-Series Wi-Fi Router",
+      "slug": "belkin-f-series",
+      "default_username": null,
+      "default_password": null,
+      "source_url": "https://www.belkin.com/support-article/?articleNum=80321",
+      "source_name": "Belkin Official Support — Accessing 192.168.2.1",
+      "ssid_url": "https://ssid.ai/routers/belkin-f-series"
+    },
+    {
+      "brand": "Belkin",
+      "model": "RT1800 (WiFi 6 AX1800)",
+      "slug": "belkin-rt1800",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://www.belkin.com/support-article/?articleNum=333517",
+      "source_name": "Belkin Official Support — RT1800 setup / default settings",
+      "ssid_url": "https://ssid.ai/routers/belkin-rt1800"
+    },
+    {
+      "brand": "Belkin",
+      "model": "RT3200 (WiFi 6 AX3200)",
+      "slug": "belkin-rt3200",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://s3.belkin.com/support/assets/belkin/userguide/RT3200_USERGUIDE_LNKPG-00736%20RevB00.pdf",
+      "source_name": "Belkin Official Support — RT3200 User Guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/belkin-rt3200"
+    },
+    {
+      "brand": "Belkin",
+      "model": "Legacy N & AC routers (192.168.2.1 models, e.g. F9K/N600/N750)",
+      "slug": "belkin-n-ac-legacy",
+      "default_username": null,
+      "default_password": null,
+      "source_url": "https://www.belkin.com/support-article/?articleNum=80321",
+      "source_name": "Belkin Official Support — Accessing 192.168.2.1 (default password / login)",
+      "ssid_url": "https://ssid.ai/routers/belkin-n-ac-legacy"
+    },
+    {
+      "brand": "BSNL",
+      "model": "Broadband ADSL Modem (Type-2 WA3002-G4)",
+      "slug": "bsnl-wa3002-g4",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.chennai.bsnl.co.in/BB/Wireless/WirelessSecurity.htm",
+      "source_name": "BSNL Chennai Telephones — Modem Configuration / Wireless Security",
+      "ssid_url": "https://ssid.ai/routers/bsnl-wa3002-g4"
+    },
+    {
+      "brand": "Buffalo",
+      "model": "AirStation WHR-1166D",
+      "slug": "buffalo-airstation-whr-1166d",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://manual.buffalo.jp/buf-doc/35020394-01_EN.pdf",
+      "source_name": "Buffalo — AirStation WHR-1166D User Manual (PDF, manual.buffalo.jp)",
+      "ssid_url": "https://ssid.ai/routers/buffalo-airstation-whr-1166d"
+    },
+    {
+      "brand": "Buffalo",
+      "model": "AirStation WSR-1166DHP",
+      "slug": "buffalo-airstation-wsr-1166dhp",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://manual.buffalo.jp/buf-doc/35020394-01_EN.pdf",
+      "source_name": "Buffalo — AirStation User Manual (PDF, manual.buffalo.jp)",
+      "ssid_url": "https://ssid.ai/routers/buffalo-airstation-wsr-1166dhp"
+    },
+    {
+      "brand": "Comfast",
+      "model": "CF-WR773BE V2",
+      "slug": "comfast-cf-wr773be-v2",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://www.comfast.cn/uploadfile/2022/0321/CF-WR773BEV2Manual.pdf",
+      "source_name": "COMFAST (Shenzhen Four Seas Global Link Network Technology) — Wireless Extender/Repeater Quick Installation Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/comfast-cf-wr773be-v2"
+    },
+    {
+      "brand": "D-Link",
+      "model": "DIR-615",
+      "slug": "d-link-dir-615",
+      "default_username": "admin",
+      "default_password": null,
+      "source_url": "https://www.dlink.com/us/en/support/faq/routers/how-do-i-log-into-my-router",
+      "source_name": "D-Link Support FAQ — How do I log into my router",
+      "ssid_url": "https://ssid.ai/routers/d-link-dir-615"
+    },
+    {
+      "brand": "D-Link",
+      "model": "DIR-655",
+      "slug": "d-link-dir-655",
+      "default_username": "admin",
+      "default_password": null,
+      "source_url": "https://global.dlink.com.sg/site_support/DIR-655/QIG/DIR-655_QIG_v200.pdf",
+      "source_name": "D-Link DIR-655 Quick Install Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/d-link-dir-655"
+    },
+    {
+      "brand": "D-Link",
+      "model": "DIR-825",
+      "slug": "d-link-dir-825",
+      "default_username": "admin",
+      "default_password": null,
+      "source_url": "https://www.dlink.com/-/media/Consumer_Products/DIR/DIR%20825/Manual/DIR825C1manual11301130EN.pdf",
+      "source_name": "D-Link DIR-825 User Manual (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/d-link-dir-825"
+    },
+    {
+      "brand": "D-Link",
+      "model": "ADSL Modem/Router (DSL series)",
+      "slug": "d-link-adsl-dsl-series",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.dlink.com/us/en/support/faq/modems/dsl-modems/dsl-series/what-is-the-default-username-and-password-for-my-adsl-modem-router",
+      "source_name": "D-Link — Default username and password for my ADSL modem/router",
+      "ssid_url": "https://ssid.ai/routers/d-link-adsl-dsl-series"
+    },
+    {
+      "brand": "D-Link",
+      "model": "DIR-X5460 (EXO AX5400)",
+      "slug": "d-link-dir-x5460",
+      "default_username": null,
+      "default_password": "password",
+      "source_url": "https://support.dlink.com/resource/PRODUCTS/DIR-X5460/REVA/DIR-X5460_REVA_QIG_v1.10_US.pdf",
+      "source_name": "D-Link DIR-X5460 Quick Installation Guide v1.10 — official PDF",
+      "ssid_url": "https://ssid.ai/routers/d-link-dir-x5460"
+    },
+    {
+      "brand": "D-Link",
+      "model": "DIR-X1870 (EXO AX1800)",
+      "slug": "d-link-dir-x1870",
+      "default_username": null,
+      "default_password": "password",
+      "source_url": "https://support.dlink.com/resource/PRODUCTS/DIR-X1870/REVA/DIR-X1870_A1_QIG_v1.01(CA)(press)_90x130.pdf",
+      "source_name": "D-Link DIR-X1870 Quick Installation Guide v1.01 — official PDF",
+      "ssid_url": "https://ssid.ai/routers/d-link-dir-x1870"
+    },
+    {
+      "brand": "DrayTek",
+      "model": "Vigor2927",
+      "slug": "draytek-vigor2927",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2927_Wired_V1.82.pdf",
+      "source_name": "DrayTek Vigor2927 Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/draytek-vigor2927"
+    },
+    {
+      "brand": "DrayTek",
+      "model": "Vigor2865",
+      "slug": "draytek-vigor2865",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2865_Wired_V2.0.pdf",
+      "source_name": "DrayTek Vigor2865 Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/draytek-vigor2865"
+    },
+    {
+      "brand": "DrayTek",
+      "model": "Vigor2765",
+      "slug": "draytek-vigor2765",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2765_Wired_V1.8.pdf",
+      "source_name": "DrayTek Vigor2765 35b Series Quick Start Guide v1.8 (official)",
+      "ssid_url": "https://ssid.ai/routers/draytek-vigor2765"
+    },
+    {
+      "brand": "DrayTek",
+      "model": "Vigor2135",
+      "slug": "draytek-vigor2135",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2135_RF_V1.1_(01).pdf",
+      "source_name": "DrayTek Vigor2135 Series Quick Start Guide v1.1 (official)",
+      "ssid_url": "https://ssid.ai/routers/draytek-vigor2135"
+    },
+    {
+      "brand": "DrayTek",
+      "model": "Vigor3910",
+      "slug": "draytek-vigor3910",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor3910_V1.7.pdf",
+      "source_name": "DrayTek Vigor3910 Series Quick Start Guide v1.7 (official)",
+      "ssid_url": "https://ssid.ai/routers/draytek-vigor3910"
+    },
+    {
+      "brand": "DrayTek",
+      "model": "VigorAP 903",
+      "slug": "draytek-vigorap-903",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_VigorAP%20903_V2.1.pdf",
+      "source_name": "DrayTek VigorAP 903 802.11ac Access Point Quick Start Guide V2.1 (official)",
+      "ssid_url": "https://ssid.ai/routers/draytek-vigorap-903"
+    },
+    {
+      "brand": "Edimax",
+      "model": "BR-6428nS V5",
+      "slug": "edimax-br-6428ns-v5",
+      "default_username": "admin",
+      "default_password": "1234",
+      "source_url": "https://download.edimax.com/mw/cufiles/files/download/manual/BR-6428nS_V5/BR-6428nS_V5_User_Manual_EN.pdf",
+      "source_name": "Edimax BR-6428nS V5 User Manual (v1.3, 08-2021) — download.edimax.com (official)",
+      "ssid_url": "https://ssid.ai/routers/edimax-br-6428ns-v5"
+    },
+    {
+      "brand": "EnGenius",
+      "model": "Standalone AP (EWS/ECW series)",
+      "slug": "engenius-standalone-ap",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://doctorengenius.engeniustech.com/en/articles/6708892-what-is-the-default-ip-username-and-password-for-engenius-devices",
+      "source_name": "Doctor EnGenius Help Center (default IP, username and password)",
+      "ssid_url": "https://ssid.ai/routers/engenius-standalone-ap"
+    },
+    {
+      "brand": "Etisalat by e&",
+      "model": "Aztech HW550-3G",
+      "slug": "etisalat-aztech-hw550-3g",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://support.etisalat.ae/en/system/docs/personal/manual/AztechHW550_3G_DetailedConfigurationManual_Normal.pdf",
+      "source_name": "Etisalat UAE — Aztech HW550-3G Configuration Manual",
+      "ssid_url": "https://ssid.ai/routers/etisalat-aztech-hw550-3g"
+    },
+    {
+      "brand": "Linksys",
+      "model": "EA7500 (Max-Stream AC1900)",
+      "slug": "linksys-ea7500",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://support.linksys.com/kb/article/378-en/",
+      "source_name": "Linksys official Support Article 378",
+      "ssid_url": "https://ssid.ai/routers/linksys-ea7500"
+    },
+    {
+      "brand": "Linksys",
+      "model": "WRT3200ACM",
+      "slug": "linksys-wrt3200acm",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://downloads.linksys.com/downloads/userguide/WRT3200ACM__UG_International.pdf",
+      "source_name": "Linksys official WRT3200ACM User Guide",
+      "ssid_url": "https://ssid.ai/routers/linksys-wrt3200acm"
+    },
+    {
+      "brand": "Linksys",
+      "model": "WRT54G",
+      "slug": "linksys-wrt54g",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://downloads.linksys.com/downloads/userguide/WRT54G_UG_WEB_20070529.pdf",
+      "source_name": "Linksys WRT54G User Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/linksys-wrt54g"
+    },
+    {
+      "brand": "Linksys",
+      "model": "MR7350 (MAX-STREAM AX1800 Mesh WiFi 6)",
+      "slug": "linksys-mr7350",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://support.linksys.com/kb/article/367-en/",
+      "source_name": "Linksys Official Support — MR7350 FAQs",
+      "ssid_url": "https://ssid.ai/routers/linksys-mr7350"
+    },
+    {
+      "brand": "Linksys",
+      "model": "Hydra Pro 6E / MR7500 (AXE6600 Tri-Band Mesh)",
+      "slug": "linksys-hydra-pro-6e-mr7500",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://support.linksys.com/kb/article/630-en/",
+      "source_name": "Linksys Official Support — Hydra Pro 6E, MR7500 FAQs",
+      "ssid_url": "https://ssid.ai/routers/linksys-hydra-pro-6e-mr7500"
+    },
+    {
+      "brand": "Linksys",
+      "model": "E8450 (AX3200 WiFi 6)",
+      "slug": "linksys-e8450",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://support.linksys.com/kb/article/378-en/",
+      "source_name": "Linksys Official Support — Log in to the Dual-Band WiFi Router's web interface",
+      "ssid_url": "https://ssid.ai/routers/linksys-e8450"
+    },
+    {
+      "brand": "Linksys",
+      "model": "E7350 (AX1800 WiFi 6)",
+      "slug": "linksys-e7350",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://support.linksys.com/kb/article/378-en/",
+      "source_name": "Linksys Official Support — Log in to the Dual-Band WiFi Router's web interface",
+      "ssid_url": "https://ssid.ai/routers/linksys-e7350"
+    },
+    {
+      "brand": "Linksys",
+      "model": "E5600 (AC1200 Dual-Band)",
+      "slug": "linksys-e5600",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://support.linksys.com/kb/article/378-en/",
+      "source_name": "Linksys Official Support — Log in to the Dual-Band WiFi Router's web interface",
+      "ssid_url": "https://ssid.ai/routers/linksys-e5600"
+    },
+    {
+      "brand": "Linksys",
+      "model": "E9450",
+      "slug": "linksys-e9450",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://support.linksys.com/kb/article/3762-en/",
+      "source_name": "Linksys Support — Linksys E9450 FAQs (official)",
+      "ssid_url": "https://ssid.ai/routers/linksys-e9450"
+    },
+    {
+      "brand": "Motorola",
+      "model": "MB8611",
+      "slug": "motorola-mb8611",
+      "default_username": "admin",
+      "default_password": "motorola",
+      "source_url": "https://help.motorolanetwork.com/kb/mb8611/how-to-change-the-admin-login-for-the-mb8611",
+      "source_name": "Motorola Home Networking Support (MB8611 admin login)",
+      "ssid_url": "https://ssid.ai/routers/motorola-mb8611"
+    },
+    {
+      "brand": "Netgate",
+      "model": "SG-2100 (Netgate 2100)",
+      "slug": "netgate-sg-2100",
+      "default_username": "admin",
+      "default_password": "pfsense",
+      "source_url": "https://docs.netgate.com/manuals/pfsense/en/latest/netgate-2100-security-gateway-manual.pdf",
+      "source_name": "Netgate 2100 Security Gateway Manual (official)",
+      "ssid_url": "https://ssid.ai/routers/netgate-sg-2100"
+    },
+    {
+      "brand": "Netgate",
+      "model": "SG-1100 (Netgate 1100)",
+      "slug": "netgate-sg-1100",
+      "default_username": "admin",
+      "default_password": "pfsense",
+      "source_url": "https://docs.netgate.com/manuals/pfsense/en/latest/sg-1100-security-gateway-manual.pdf",
+      "source_name": "Netgate 1100 Security Gateway Manual (official)",
+      "ssid_url": "https://ssid.ai/routers/netgate-sg-1100"
+    },
+    {
+      "brand": "Netgate",
+      "model": "Netgate 4100",
+      "slug": "netgate-4100",
+      "default_username": "admin",
+      "default_password": "pfsense",
+      "source_url": "https://docs.netgate.com/pfsense/en/latest/solutions/netgate-4100/initial-configuration.html",
+      "source_name": "Netgate 4100 Security Gateway — Initial Configuration (official documentation)",
+      "ssid_url": "https://ssid.ai/routers/netgate-4100"
+    },
+    {
+      "brand": "Netgate",
+      "model": "Netgate 6100",
+      "slug": "netgate-6100",
+      "default_username": "admin",
+      "default_password": "pfsense",
+      "source_url": "https://docs.netgate.com/pfsense/en/latest/solutions/netgate-6100/initial-configuration.html",
+      "source_name": "Netgate 6100 Security Gateway — Initial Configuration (official documentation)",
+      "ssid_url": "https://ssid.ai/routers/netgate-6100"
+    },
+    {
+      "brand": "Netgate",
+      "model": "Netgate 8200",
+      "slug": "netgate-8200",
+      "default_username": "admin",
+      "default_password": "pfsense",
+      "source_url": "https://docs.netgate.com/pfsense/en/latest/solutions/netgate-8200/initial-configuration.html",
+      "source_name": "Netgate 8200 Security Gateway — Initial Configuration (official documentation)",
+      "ssid_url": "https://ssid.ai/routers/netgate-8200"
+    },
+    {
+      "brand": "Netgear",
+      "model": "Nighthawk R7000 (AC1900)",
+      "slug": "netgear-nighthawk-r7000",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/24340/What-are-the-factory-default-settings-on-my-Nighthawk-R7000-router-and-how-do-I-reset-to-default",
+      "source_name": "NETGEAR official KB 24340 (R7000 factory defaults)",
+      "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r7000"
+    },
+    {
+      "brand": "Netgear",
+      "model": "Nighthawk R6700 / R6400 (AC1750)",
+      "slug": "netgear-nighthawk-r6700",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
+      "source_name": "NETGEAR official KB 1148 (Default UI passwords)",
+      "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r6700"
+    },
+    {
+      "brand": "Netgear",
+      "model": "R6120 (AC1200)",
+      "slug": "netgear-r6120",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
+      "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
+      "ssid_url": "https://ssid.ai/routers/netgear-r6120"
+    },
+    {
+      "brand": "Netgear",
+      "model": "R6260 (AC1600)",
+      "slug": "netgear-r6260",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
+      "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
+      "ssid_url": "https://ssid.ai/routers/netgear-r6260"
+    },
+    {
+      "brand": "Netgear",
+      "model": "R6900 (Nighthawk AC1900)",
+      "slug": "netgear-r6900",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
+      "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
+      "ssid_url": "https://ssid.ai/routers/netgear-r6900"
+    },
+    {
+      "brand": "Netgear",
+      "model": "Orbi RBK50 (AC3000)",
+      "slug": "netgear-orbi-rbk50",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/31014/How-do-I-change-my-Orbi-WiFi-System-s-admin-login-password",
+      "source_name": "NETGEAR KB 31014 — Change your Orbi WiFi System's admin login password",
+      "ssid_url": "https://ssid.ai/routers/netgear-orbi-rbk50"
+    },
+    {
+      "brand": "Netgear",
+      "model": "WNR2000",
+      "slug": "netgear-wnr2000",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
+      "source_name": "NETGEAR Support KB 1148 — Default UI passwords",
+      "ssid_url": "https://ssid.ai/routers/netgear-wnr2000"
+    },
+    {
+      "brand": "Netgear",
+      "model": "WNDR3400 (N600)",
+      "slug": "netgear-wndr3400",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
+      "source_name": "NETGEAR Support KB 1148 — Default UI passwords",
+      "ssid_url": "https://ssid.ai/routers/netgear-wndr3400"
+    },
+    {
+      "brand": "Netgear",
+      "model": "WNDR3700 (N600)",
+      "slug": "netgear-wndr3700",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
+      "source_name": "NETGEAR Support KB 1148 — Default UI passwords",
+      "ssid_url": "https://ssid.ai/routers/netgear-wndr3700"
+    },
+    {
+      "brand": "Netgear",
+      "model": "DGN2200 (N300 ADSL2+)",
+      "slug": "netgear-dgn2200",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://www.downloads.netgear.com/files/GDC/DGN2200/DGN2200_UM_3Feb11.pdf",
+      "source_name": "NETGEAR DGN2200 User Manual (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/netgear-dgn2200"
+    },
+    {
+      "brand": "Netgear",
+      "model": "CM1000",
+      "slug": "netgear-cm1000",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/000059644/How-do-I-log-in-to-my-NETGEAR-cable-modem",
+      "source_name": "NETGEAR Support (How do I log in to my NETGEAR cable modem)",
+      "ssid_url": "https://ssid.ai/routers/netgear-cm1000"
+    },
+    {
+      "brand": "Netgear",
+      "model": "CM3000",
+      "slug": "netgear-cm3000",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://kb.netgear.com/000059644/How-do-I-log-in-to-my-NETGEAR-cable-modem",
+      "source_name": "NETGEAR Support — How do I log in to my NETGEAR cable modem? (CM3000 listed under Applicable Models)",
+      "ssid_url": "https://ssid.ai/routers/netgear-cm3000"
+    },
+    {
+      "brand": "NOW Broadband",
+      "model": "NOW Broadband Hub",
+      "slug": "now-broadband-hub",
+      "default_username": "admin",
+      "default_password": "nowtv",
+      "source_url": "https://www.nowtv.com/gb/help/article/change-admin-password",
+      "source_name": "NOW Broadband Help — Change Admin Password For Your NOW Broadband Hub (official)",
+      "ssid_url": "https://ssid.ai/routers/now-broadband-hub"
+    },
+    {
+      "brand": "Peplink",
+      "model": "Balance 20X",
+      "slug": "peplink-balance-20x",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/peplink-balance-and-mediafast-firmware-manual-8.1.1.pdf",
+      "source_name": "Peplink Balance User Manual, firmware 8.1.1 (official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-balance-20x"
+    },
+    {
+      "brand": "Peplink",
+      "model": "Surf SOHO MK3",
+      "slug": "peplink-surf-soho-mk3",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/pepwave_surf_soho_user_manual_fw8.3.0.pdf",
+      "source_name": "Pepwave Surf SOHO User Manual, firmware 8.3.0 (official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-surf-soho-mk3"
+    },
+    {
+      "brand": "Peplink",
+      "model": "Balance One",
+      "slug": "peplink-balance-one",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/Peplink_Balance_v6.1_user_manual.pdf",
+      "source_name": "Peplink Balance Multi-WAN Bonding Routers User Manual v6.1 (official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-balance-one"
+    },
+    {
+      "brand": "Peplink",
+      "model": "MAX BR1",
+      "slug": "peplink-max-br1",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/pepwave_max_firmware_manual-fw7.pdf",
+      "source_name": "Pepwave MAX Series Firmware Manual fw7 (official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-max-br1"
+    },
+    {
+      "brand": "Peplink",
+      "model": "Balance 310X",
+      "slug": "peplink-balance-310x",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/Peplink_Balance_v6.1_user_manual.pdf",
+      "source_name": "Peplink Balance User Manual (Firmware 6.1) — download.peplink.com (official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-balance-310x"
+    },
+    {
+      "brand": "Peplink",
+      "model": "MAX BR2",
+      "slug": "peplink-max-br2",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/pepwave-max-user-manual-8.4.0.pdf",
+      "source_name": "Pepwave MAX Series User Manual 8.4.0 — download.peplink.com (official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-max-br2"
+    },
+    {
+      "brand": "Peplink",
+      "model": "MAX Transit",
+      "slug": "peplink-max-transit",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/pepwave-max-user-manual-8.4.0.pdf",
+      "source_name": "Pepwave MAX Series User Manual 8.4.0 — download.peplink.com (official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-max-transit"
+    },
+    {
+      "brand": "Peplink",
+      "model": "Balance 380",
+      "slug": "peplink-balance-380",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/Peplink_Balance_v6.1_user_manual.pdf",
+      "source_name": "Peplink Balance User Manual v6.1 — download.peplink.com (official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-balance-380"
+    },
+    {
+      "brand": "Peplink",
+      "model": "MAX BR2 Pro",
+      "slug": "peplink-max-br2-pro",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/Pepwave_MAX_user_manual_v6.1.pdf",
+      "source_name": "Pepwave MAX User Manual v6.1 — download.peplink.com (official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-max-br2-pro"
+    },
+    {
+      "brand": "Rogers",
+      "model": "Rogers Ignite — Hitron CODA modem (CODA-4582/4680)",
+      "slug": "rogers-ignite-hitron-coda",
+      "default_username": "Cusadmin",
+      "default_password": "password",
+      "source_url": "https://www.rogers.com/support/internet/how-to-sign-into-and-change-the-password-of-your-hitron-coda-modem",
+      "source_name": "Rogers Official Support — Sign into and change the password of your Hitron CODA modem",
+      "ssid_url": "https://ssid.ai/routers/rogers-ignite-hitron-coda"
+    },
+    {
+      "brand": "Ruckus",
+      "model": "R350",
+      "slug": "ruckus-r350",
+      "default_username": "super",
+      "default_password": "sp-admin",
+      "source_url": "https://support.ruckuswireless.com/articles/000012418",
+      "source_name": "Ruckus/CommScope Support KB 000012418 — How to factory reset or factory default different types of Ruckus Access Points (official)",
+      "ssid_url": "https://ssid.ai/routers/ruckus-r350"
+    },
+    {
+      "brand": "SaskTel",
+      "model": "Green Packet Gateway (fusion Internet)",
+      "slug": "sasktel-green-packet-gateway",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://support.sasktel.com/app/answers/detail/a_id/25843/~/logging-in-to-your-green-packet-gateway-(fusion-internet-service)",
+      "source_name": "SaskTel Support — Logging in to your Green Packet gateway (fusion Internet service) (official)",
+      "ssid_url": "https://ssid.ai/routers/sasktel-green-packet-gateway"
+    },
+    {
+      "brand": "SaskTel",
+      "model": "Huawei B2268H",
+      "slug": "sasktel-huawei-b2268h",
+      "default_username": "admin",
+      "default_password": "LTEcpe",
+      "source_url": "https://support.sasktel.com/app/answers/detail/a_id/17308/~/logging-in-to-your-huawei-b2268h-gateway-(fusion-internet-service)",
+      "source_name": "SaskTel Support — Logging in to your Huawei B2268H gateway (fusion Internet service) (official)",
+      "ssid_url": "https://ssid.ai/routers/sasktel-huawei-b2268h"
+    },
+    {
+      "brand": "Telstra",
+      "model": "Telstra Smart Modem Gen 2 (and Gen 1.1)",
+      "slug": "telstra-smart-modem-gen-2",
+      "default_username": "admin",
+      "default_password": "Telstra",
+      "source_url": "https://www.telstra.com.au/support/internet-and-home-phone/access-modem-settings",
+      "source_name": "Telstra Official Support — How do I access and use my modem settings?",
+      "ssid_url": "https://ssid.ai/routers/telstra-smart-modem-gen-2"
+    },
+    {
+      "brand": "Totolink",
+      "model": "N300RA",
+      "slug": "totolink-n300ra",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://m.totolink.net/portal/article/index/id/22/cid/6.html",
+      "source_name": "Totolink Official - How to modify the user name and password",
+      "ssid_url": "https://ssid.ai/routers/totolink-n300ra"
+    },
+    {
+      "brand": "TP-Link",
+      "model": "TL-WR841N",
+      "slug": "tp-link-tl-wr841n",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.tp-link.com/us/user-guides/tl-wr841n_v14/chapter-3-login",
+      "source_name": "TP-Link TL-WR841N V14 User Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/tp-link-tl-wr841n"
+    },
+    {
+      "brand": "TP-Link",
+      "model": "Omada EAP225",
+      "slug": "tp-link-omada-eap225",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.tp-link.com/us/support/faq/1000/",
+      "source_name": "TP-Link FAQ 1000 — How do I login to the web management page of the EAP Series products (Standalone mode)? (official)",
+      "ssid_url": "https://ssid.ai/routers/tp-link-omada-eap225"
+    },
+    {
+      "brand": "TP-Link",
+      "model": "Omada EAP610",
+      "slug": "tp-link-omada-eap610",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.tp-link.com/us/support/faq/1000/",
+      "source_name": "TP-Link official FAQ 1000 — How do I login to the web management page of the EAP Series products (Standalone mode)? (applies to EAP610)",
+      "ssid_url": "https://ssid.ai/routers/tp-link-omada-eap610"
+    },
+    {
+      "brand": "Ubiquiti",
+      "model": "EdgeRouter X (ER-X)",
+      "slug": "ubiquiti-edgerouter-er-x",
+      "default_username": "ubnt",
+      "default_password": "ubnt",
+      "source_url": "https://dl.ui.com/guides/edgemax/EdgeRouter_ER-X_QSG.pdf",
+      "source_name": "Ubiquiti EdgeRouter ER-X Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-er-x"
+    },
+    {
+      "brand": "Ubiquiti",
+      "model": "EdgeRouter 4 (ER-4)",
+      "slug": "ubiquiti-edgerouter-4",
+      "default_username": "ubnt",
+      "default_password": "ubnt",
+      "source_url": "https://dl.ui.com/qsg/ER-4/ER-4_EN.html",
+      "source_name": "Ubiquiti EdgeRouter ER-4 Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-4"
+    },
+    {
+      "brand": "Ubiquiti",
+      "model": "EdgeRouter Lite (ER-3)",
+      "slug": "ubiquiti-edgerouter-lite-er-3",
+      "default_username": "ubnt",
+      "default_password": "ubnt",
+      "source_url": "https://dl.ui.com/qsg/ERLite-3/ERLite-3_EN.html",
+      "source_name": "Ubiquiti ERLite-3 (EdgeRouter Lite) Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-lite-er-3"
+    },
+    {
+      "brand": "Ubiquiti",
+      "model": "EdgeRouter 6P (ER-6P)",
+      "slug": "ubiquiti-edgerouter-6p",
+      "default_username": "ubnt",
+      "default_password": "ubnt",
+      "source_url": "https://dl.ui.com/qsg/ER-6P/ER-6P_EN.html",
+      "source_name": "Ubiquiti ER-6P (EdgeRouter 6P) Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-6p"
+    },
+    {
+      "brand": "Ubiquiti",
+      "model": "EdgeRouter 12",
+      "slug": "ubiquiti-edgerouter-12",
+      "default_username": "ubnt",
+      "default_password": "ubnt",
+      "source_url": "https://dl.ui.com/qsg/ER-12/ER-12_EN.html",
+      "source_name": "Ubiquiti ER-12 (EdgeRouter 12) Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-12"
+    },
+    {
+      "brand": "Wavlink",
+      "model": "WL-WN533A8 (AC1200)",
+      "slug": "wavlink-wl-wn533a8",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://www.wavlink.com/en_us/faq/details/How-to-log-into-web-based-management-page-of-my-WAVLINK-router.html",
+      "source_name": "Wavlink Official FAQ - How to log into the web-based management page of my WAVLINK router",
+      "ssid_url": "https://ssid.ai/routers/wavlink-wl-wn533a8"
+    },
+    {
+      "brand": "Zyxel",
+      "model": "NWA110AX",
+      "slug": "zyxel-nwa110ax",
+      "default_username": "admin",
+      "default_password": "1234",
+      "source_url": "https://download.zyxel.com/NWA110AX/user_guide/NWA110AX_V6.60_Ed1.pdf",
+      "source_name": "Zyxel NWA110AX User's Guide (V6.60) — download.zyxel.com (official)",
+      "ssid_url": "https://ssid.ai/routers/zyxel-nwa110ax"
+    },
+    {
+      "brand": "Zyxel",
+      "model": "NWA210AX",
+      "slug": "zyxel-nwa210ax",
+      "default_username": "admin",
+      "default_password": "1234",
+      "source_url": "https://download.zyxel.com/NWA210AX/user_guide/NWA210AX_V6.55_Ed1.pdf",
+      "source_name": "Zyxel NWA210AX User's Guide (V6.55) — download.zyxel.com (official)",
+      "ssid_url": "https://ssid.ai/routers/zyxel-nwa210ax"
+    },
+    {
+      "brand": "Zyxel",
+      "model": "NWA90AX",
+      "slug": "zyxel-nwa90ax",
+      "default_username": "admin",
+      "default_password": "1234",
+      "source_url": "https://download.zyxel.com/NWA90AX/user_guide/NWA90AX_V6.29_Ed2.pdf",
+      "source_name": "Zyxel NWA50/90/55 Series User's Guide V6.29 Ed2 — download.zyxel.com (official)",
+      "ssid_url": "https://ssid.ai/routers/zyxel-nwa90ax"
+    },
+    {
+      "brand": "Zyxel",
+      "model": "USG FLEX 50H",
+      "slug": "zyxel-usg-flex-50h",
+      "default_username": "admin",
+      "default_password": "1234",
+      "source_url": "https://download.zyxel.com/USG_FLEX_50H/user_guide/USG%20FLEX%2050H_V1.30_Ed1.pdf",
+      "source_name": "Zyxel USG FLEX H Series User's Guide V1.30 Ed1 — download.zyxel.com (official)",
+      "ssid_url": "https://ssid.ai/routers/zyxel-usg-flex-50h"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+name: Correction
+description: A row in this dataset is wrong. Fixes need a manufacturer source.
+title: "correction: <brand> <model>"
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Corrections are checked against the cited source under the same rule the rest of
+        the dataset follows: official manufacturer documentation, or it does not ship.
+        Forum posts, aggregator lists and other password sites do not qualify.
+
+        Agents may submit on the same terms as people.
+  - type: input
+    id: slug
+    attributes:
+      label: Slug
+      description: The `slug` column of the row, e.g. `netgear-nighthawk-r7000`.
+      placeholder: netgear-nighthawk-r7000
+    validations:
+      required: true
+  - type: dropdown
+    id: field
+    attributes:
+      label: Field
+      description: Which column is wrong.
+      options:
+        - default_gateway_ip
+        - default_login_host
+        - default_username
+        - default_password
+        - default_password_blank
+        - credential_type
+        - reset_steps
+        - other
+    validations:
+      required: true
+  - type: input
+    id: proposed
+    attributes:
+      label: Correct value
+      description: >-
+        What the field should say. If the correct answer is that no universal default
+        exists, say so and give the credential_type it should carry instead.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Manufacturer source URL
+      description: >-
+        An https link to the manufacturer's own manual, support article or setup guide
+        showing the correct value.
+      placeholder: https://kb.netgear.com/...
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else
+      description: >-
+        Hardware revision, region, or firmware version this applies to, if it matters.
+    validations:
+      required: false
