@@ -257,8 +257,9 @@ not ship. Agents may submit on the same terms as people.
 
 ## Licence
 
-**CC BY 4.0.** See `LICENSE`. Copy it, change it, sell it, feed it to a model. Credit ssid.ai and
-link back to <https://ssid.ai/routers>.
+**CC BY 4.0.** Copy it, change it, sell it, feed it to a model. Credit ssid.ai and link back to
+<https://ssid.ai/routers>. `LICENSE` is the full legal code; `NOTICE.md` explains what it means
+here, including what counts as attribution in a model-generated answer.
 
 The underlying facts are not owned by anyone. A given router's default IP and login are facts about
 that product, stated by its manufacturer. What is licensed here is the compilation: the selection,
