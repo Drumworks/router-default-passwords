@@ -1243,7 +1243,7 @@
       "reset_steps": "Cox recommends managing the gateway through the Panoramic Wifi app (or online at cox.com after signing in with your Cox User ID). For local access, browse to http://192.168.0.1 and sign in with username 'admin'. If you have never changed it, try the password printed on the gateway label. To factory reset, press and hold the recessed Reset button (behind the gateway, above the phone ports) for a full 60 seconds — a shorter press only triggers WPS — then reconfigure via the app.",
       "source_url": "https://www.cox.com/residential/support/setting-up-wifi-with-the-panoramic-wifi-gateway.html",
       "source_name": "Cox Residential Support — Setting up WiFi with the Panoramic WiFi Gateway",
-      "source_archive_url": "https://web.archive.org/web/20260729070109/https://www.cox.com/residential/support/home.html",
+      "source_archive_url": null,
       "confidence": "medium",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/cox-panoramic-wifi-gateway"
@@ -1783,7 +1783,7 @@
       "reset_steps": "eero 6+ is managed only in the eero app. To hard reset: with the eero powered on, hold the reset button on the back until the LED flashes red (~15 seconds), then release; when it blinks blue it is ready to set up. Re-add it in the app and set your Wi-Fi credentials.",
       "source_url": "https://support.eero.com/hc/en-us/articles/215473703-How-do-I-reboot-or-reset-my-eero",
       "source_name": "eero Help Center",
-      "source_archive_url": "https://web.archive.org/web/20260729070638/https://eero.com/support/articles/215473703-How-do-I-reboot-or-reset-my-eero",
+      "source_archive_url": null,
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/eero-6-plus"
@@ -1803,7 +1803,7 @@
       "reset_steps": "There is no browser login for eero — use the eero app. To hard reset: powered on, hold the reset button until the LED flashes red (about 15 seconds), release, and wait for the blue blink. Add the eero back in the app and choose a new Wi-Fi name and password.",
       "source_url": "https://support.eero.com/hc/en-us/articles/215473703-How-do-I-reboot-or-reset-my-eero",
       "source_name": "eero Help Center",
-      "source_archive_url": "https://web.archive.org/web/20260729070638/https://eero.com/support/articles/215473703-How-do-I-reboot-or-reset-my-eero",
+      "source_archive_url": null,
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/eero-max-7"
@@ -1843,7 +1843,7 @@
       "reset_steps": "eero is administered only through the eero mobile app. To hard reset: with the unit powered on, hold the reset button on the back until the LED flashes red (~15 seconds), then release. Wait for the light to blink blue, then re-add the eero in the app and set your Wi-Fi name and password.",
       "source_url": "https://support.eero.com/hc/en-us/articles/215473703-How-do-I-reboot-or-reset-my-eero",
       "source_name": "eero Help Center",
-      "source_archive_url": "https://web.archive.org/web/20260729070638/https://eero.com/support/articles/215473703-How-do-I-reboot-or-reset-my-eero",
+      "source_archive_url": null,
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/eero-pro-6e"
@@ -2083,7 +2083,7 @@
       "reset_steps": "Factory reset via the Google Home app (Wi-Fi › Settings › Factory reset network), or hold the factory-reset button on the point until the light pulses.",
       "source_url": "https://support.google.com/googlenest/answer/9548301",
       "source_name": "Google Nest Help — Set up Nest Wifi",
-      "source_archive_url": "https://web.archive.org/web/20260729065429/https://support.google.com/googlehome/answer/9548301",
+      "source_archive_url": null,
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/google-nest-wifi"
@@ -2183,7 +2183,7 @@
       "reset_steps": "Hold the physical Reset button ~7 seconds until the LEDs flash to restore factory defaults; the per-device random default password on the sticker then applies again.",
       "source_url": "https://documentation.grandstream.com/knowledge-base/gwn7664-quick-installation-guide/",
       "source_name": "Grandstream GWN7664 Quick Installation Guide (official)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20231206041200/https://documentation.grandstream.com/knowledge-base/gwn7664-quick-installation-guide/",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7664"
@@ -2543,7 +2543,7 @@
       "reset_steps": "Change the admin password in Linksys app > Router Administration > Change Router Password. Full factory reset: hold the Reset button until the top light blinks red, releasing when it turns bright red.",
       "source_url": "https://downloads.linksys.com/support/assets/userguide/MR9000_USERGUIDE_INTL.pdf",
       "source_name": "Linksys MR9000 User Guide — official PDF",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260809221602/https://downloads.linksys.com/support/assets/userguide/MR9000_USERGUIDE_INTL.pdf",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/linksys-mr9000"
@@ -3123,7 +3123,7 @@
       "reset_steps": "The CM3000 is a DOCSIS 3.1 cable modem only (no built-in router/Wi-Fi, fixed LAN IP). Open a browser to http://192.168.100.1 and log in with username 'admin' and password 'password' (case-sensitive). To factory reset, press and hold the Restore Factory Settings button with a paperclip for about 7 seconds until the power LED blinks, then log in again with admin/password.",
       "source_url": "https://kb.netgear.com/000059644/How-do-I-log-in-to-my-NETGEAR-cable-modem",
       "source_name": "NETGEAR Support — How do I log in to my NETGEAR cable modem? (CM3000 listed under Applicable Models)",
-      "source_archive_url": "https://web.archive.org/web/20260729071327/https://kb.netgear.com/000059644/How-do-I-log-in-to-my-NETGEAR-cable-modem",
+      "source_archive_url": "https://web.archive.org/web/20260727184453/https://kb.netgear.com/000059644/How-do-I-log-in-to-my-NETGEAR-cable-modem",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/netgear-cm3000"
@@ -3223,7 +3223,7 @@
       "reset_steps": "Go to http://www.routerlogin.net (192.168.1.1) with admin / password. To reset, use a paperclip to hold the Restore Factory Settings button ~7 seconds until the Power LED blinks.",
       "source_url": "https://kb.netgear.com/24340/What-are-the-factory-default-settings-on-my-Nighthawk-R7000-router-and-how-do-I-reset-to-default",
       "source_name": "NETGEAR official KB 24340 (R7000 factory defaults)",
-      "source_archive_url": "https://web.archive.org/web/20260729064903/http://www.netgear.com/support/",
+      "source_archive_url": null,
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r7000"
@@ -3263,7 +3263,7 @@
       "reset_steps": "Press and hold the Reset button on the rear panel for at least 7 seconds until the Power LED blinks, then release to restore factory default settings.",
       "source_url": "https://www.downloads.netgear.com/files/GDC/RAX30/RAX30_UM_EN.pdf",
       "source_name": "NETGEAR Nighthawk AX2400 WiFi 6 Router (RAX30) User Manual — official",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260731035530/https://www.downloads.netgear.com/files/GDC/RAX30/RAX30_UM_EN.pdf",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax30"
@@ -3283,7 +3283,7 @@
       "reset_steps": "Press and hold the Reset button on the rear panel until the Power LED blinks, then release to return the router to factory default settings.",
       "source_url": "https://www.downloads.netgear.com/files/GDC/RAX40/RAX40_UM_EN.pdf",
       "source_name": "NETGEAR Nighthawk AX4 AX3000 WiFi Router (RAX40) User Manual — official",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260802221524/https://www.downloads.netgear.com/files/GDC/RAX40/RAX40_UM_EN.pdf",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax40"
@@ -4003,7 +4003,7 @@
       "reset_steps": "With a paperclip, press and hold the recessed reset button for about 10-20 seconds until all LEDs flash, then release to restore factory defaults. Browse to http://192.168.50.1 and log in with admin/admin, after which the firmware forces a new password.",
       "source_url": "https://download.peplink.com/manual/Pepwave_MAX_user_manual_v6.1.pdf",
       "source_name": "Pepwave MAX User Manual v6.1 — download.peplink.com (official)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260727184706/https://download.peplink.com/manual/Pepwave_MAX_user_manual_v6.1.pdf",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/peplink-max-br2-pro"
@@ -4803,7 +4803,7 @@
       "reset_steps": "Press and hold the RESET button on the back of the router (recessed, use a pin) for about 5-10 seconds until the LEDs flash, then release to restore factory defaults.",
       "source_url": "https://www.tp-link.com/us/user-guides/archer-ax50_v1/faq",
       "source_name": "TP-Link official Archer AX50 V1 User Guide (FAQ)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260727184252/https://www.tp-link.com/us/user-guides/archer-ax50_v1/faq",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax50"
@@ -4843,7 +4843,7 @@
       "reset_steps": "Hold the Reset button until the Power LED blinks to restore factory defaults, then browse to http://tplinkwifi.net to create a new login password.",
       "source_url": "https://static.tp-link.com/upload/manual/2024/202403/20240319/1910013433_Archer%20AX55%20Pro(US)2.0_UG_V1.pdf",
       "source_name": "TP-Link Archer AX55 Pro (US) V2.0 User Guide — official PDF",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260809221525/https://static.tp-link.com/upload/manual/2024/202403/20240319/1910013433_Archer%20AX55%20Pro(US)2.0_UG_V1.pdf",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax55-pro"
@@ -4863,7 +4863,7 @@
       "reset_steps": "Hold the Reset button until the Power LED blinks to restore factory defaults, then visit http://tplinkwifi.net to create a new login password.",
       "source_url": "https://www.tp-link.com/us/user-guides/archer-ax72_v1/chapter-3-log-into-your-router",
       "source_name": "TP-Link Archer AX72 V1 User Guide (official)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260809221508/https://www.tp-link.com/us/user-guides/archer-ax72_v1/chapter-3-log-into-your-router",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax72"
@@ -5263,7 +5263,7 @@
       "reset_steps": "Reset from inside the Deco app, or hold the Reset button on the underside of a Deco unit until its LED pulses, then re-run setup in the Deco app.",
       "source_url": "https://www.tp-link.com/us/support/faq/2641/",
       "source_name": "TP-Link official FAQ 2641 (Deco web management access — applies to Deco X68)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260727184312/https://www.tp-link.com/us/support/faq/2641/",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-x68"
@@ -5283,7 +5283,7 @@
       "reset_steps": "Press the Reset button for 1 second; the LED changing from pulsing yellow to solid yellow confirms the factory reset. Re-setup is done entirely in the Deco app.",
       "source_url": "https://static.tp-link.com/upload/manual/2022/202209/20220922/1910013222_Deco%20XE200_User%20Guide_REV1.0.0.pdf",
       "source_name": "TP-Link Deco XE200 User Guide REV1.0.0 — official PDF",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260809221534/https://static.tp-link.com/upload/manual/2022/202209/20220922/1910013222_Deco%20XE200_User%20Guide_REV1.0.0.pdf",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-xe200"
@@ -5723,7 +5723,7 @@
       "reset_steps": "Use the reset button to restore factory defaults; the password printed next to 'Password' on the rear label is the factory default, and the factory Wi-Fi uses a unique WPA2 key on the rear sticker.",
       "source_url": "https://www.verizon.com/content/dam/support/pdf/user_guide/Verizon-Internet-Gateway-(ASK-NCM1100)-User-Manual-v1.pdf",
       "source_name": "Verizon Internet Gateway (ASK-NCM1100) User Manual v1 — official PDF",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260802221602/https://www.verizon.com/content/dam/support/pdf/user_guide/Verizon-Internet-Gateway-(ASK-NCM1100)-User-Manual-v1.pdf",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/verizon-internet-gateway-ask-ncm1100"
@@ -6203,7 +6203,7 @@
       "reset_steps": "Press the RESET button for more than 5 seconds to return to factory defaults, then browse to http://192.168.1.2 and log in with admin/1234 — the Update Admin Info screen then forces a new password.",
       "source_url": "https://download.zyxel.com/NWA90AX/user_guide/NWA90AX_V6.29_Ed2.pdf",
       "source_name": "Zyxel NWA50/90/55 Series User's Guide V6.29 Ed2 — download.zyxel.com (official)",
-      "source_archive_url": "https://web.archive.org/web/20260727184808/https://download.zyxel.com/NWA90AX/user_guide/NWA90AX_V6.29_Ed2.pdf",
+      "source_archive_url": "https://web.archive.org/web/20240812120745/https://download.zyxel.com/NWA90AX/user_guide/NWA90AX_V6.29_Ed2.pdf",
       "confidence": "high",
       "last_verified": "2026-08-10",
       "ssid_url": "https://ssid.ai/routers/zyxel-nwa90ax"

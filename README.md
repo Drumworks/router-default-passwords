@@ -124,9 +124,9 @@ their official manual PDF. Never a forum, never an aggregator, never another pas
 - 220 rows are marked `confidence: high` (the source states the behaviour directly). 92 are
   `medium`, usually because the manufacturer documents a family rather than that exact SKU, or
   because hardware revisions of the same model differ. The `credential_note` says which.
-- 81 rows also carry `source_archive_url`, a Wayback Machine copy of the cited page taken at
+- 86 rows also carry `source_archive_url`, a Wayback Machine copy of the cited page taken at
   verification time, so the claim stays checkable after the manufacturer reorganises their site.
-  Archiving started partway through the directory's life, so the other 231 rows are still queued
+  Archiving started partway through the directory's life, so the other 226 rows are still queued
   for it. All 312 are sourced either way.
 - A null password is a real answer. Writing `admin` / `admin` for a router that forces a password
   at setup is worse than writing nothing, because someone acts on it, fails, and factory-resets a
@@ -221,7 +221,7 @@ Where the data is thin, here is where:
   instead. One of them, `ruckus-r350`, has a static credential but neither an IP nor a hostname —
   it is a controller-managed access point.
 - **133 models have no `default_login_host`.** Most manufacturers publish only an IP.
-- **231 of 312 rows have no `source_archive_url` yet.** Wayback archiving began after the
+- **226 of 312 rows have no `source_archive_url` yet.** Wayback archiving began after the
   directory did, and only new or changed rows are archived on each run.
 - **92 rows are `confidence: medium`.** Read the `credential_note` before relying on those.
   Hardware revisions of one model name can differ, and the note says so where it applies.
