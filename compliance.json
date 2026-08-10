@@ -6,13 +6,13 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-08-08",
-  "model_count": 293,
+  "generated_at": "2026-08-10",
+  "model_count": 312,
   "by_credential_type": {
-    "set-on-setup": 96,
-    "label-unique": 76,
-    "app-only": 38,
-    "static": 83,
+    "set-on-setup": 102,
+    "label-unique": 81,
+    "app-only": 41,
+    "static": 88,
     "unknown": 0
   },
   "no_universal_default_pct": 72,
@@ -20,13 +20,13 @@
   "by_brand": [
     {
       "brand": "Netgear",
-      "models": 29,
-      "universal_default_models": 12,
+      "models": 32,
+      "universal_default_models": 13,
       "no_universal_default": false
     },
     {
       "brand": "Linksys",
-      "models": 11,
+      "models": 13,
       "universal_default_models": 9,
       "no_universal_default": false
     },
@@ -38,8 +38,8 @@
     },
     {
       "brand": "D-Link",
-      "models": 8,
-      "universal_default_models": 6,
+      "models": 10,
+      "universal_default_models": 8,
       "no_universal_default": false
     },
     {
@@ -55,15 +55,15 @@
       "no_universal_default": false
     },
     {
-      "brand": "Netgate",
-      "models": 5,
+      "brand": "Zyxel",
+      "models": 10,
       "universal_default_models": 5,
       "no_universal_default": false
     },
     {
-      "brand": "Zyxel",
-      "models": 9,
-      "universal_default_models": 4,
+      "brand": "Netgate",
+      "models": 5,
+      "universal_default_models": 5,
       "no_universal_default": false
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "brand": "TP-Link",
-      "models": 30,
+      "models": 33,
       "universal_default_models": 3,
       "no_universal_default": false
     },
@@ -92,7 +92,13 @@
     },
     {
       "brand": "ASUS",
-      "models": 23,
+      "models": 25,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "MikroTik",
+      "models": 9,
       "universal_default_models": 1,
       "no_universal_default": false
     },
@@ -193,12 +199,6 @@
       "no_universal_default": true
     },
     {
-      "brand": "MikroTik",
-      "models": 8,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
       "brand": "Tenda",
       "models": 7,
       "universal_default_models": 0,
@@ -241,6 +241,12 @@
       "no_universal_default": true
     },
     {
+      "brand": "Grandstream",
+      "models": 4,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
       "brand": "AT&T",
       "models": 3,
       "universal_default_models": 0,
@@ -260,12 +266,6 @@
     },
     {
       "brand": "Firewalla",
-      "models": 3,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
-      "brand": "Grandstream",
       "models": 3,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -344,6 +344,18 @@
     },
     {
       "brand": "Ruijie Reyee",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Kinetic by Windstream",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Vodafone Italy",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -699,6 +711,26 @@
       "ssid_url": "https://ssid.ai/routers/d-link-dir-x1870"
     },
     {
+      "brand": "D-Link",
+      "model": "DIR-X4860 (EXO AX4800)",
+      "slug": "d-link-dir-x4860",
+      "default_username": null,
+      "default_password": "password",
+      "source_url": "https://support.dlink.com/resource/products/DIR-X4860/REVA/DIR-X4860_REVA_QIG_v1.00_NA.pdf",
+      "source_name": "D-Link DIR-X4860 REV A Quick Installation Guide v1.00 — official PDF",
+      "ssid_url": "https://ssid.ai/routers/d-link-dir-x4860"
+    },
+    {
+      "brand": "D-Link",
+      "model": "DIR-X3260 (EXO AX3200)",
+      "slug": "d-link-dir-x3260",
+      "default_username": null,
+      "default_password": "password",
+      "source_url": "https://support.dlink.com/resource/products/DIR-X3260/REVA/DIR-X3260_REVA1_QIG_v1.01_(WW).pdf",
+      "source_name": "D-Link DIR-X3260 REV A1 Quick Installation Guide v1.01 — official PDF",
+      "ssid_url": "https://ssid.ai/routers/d-link-dir-x3260"
+    },
+    {
       "brand": "DrayTek",
       "model": "Vigor2927",
       "slug": "draytek-vigor2927",
@@ -879,6 +911,16 @@
       "ssid_url": "https://ssid.ai/routers/linksys-e9450"
     },
     {
+      "brand": "MikroTik",
+      "model": "Chateau 5G ax",
+      "slug": "mikrotik-chateau-5g-ax",
+      "default_username": "admin",
+      "default_password": null,
+      "source_url": "https://help.mikrotik.com/docs/spaces/QG/pages/111346010/Quick+Guide+-+Chateau+5G+ax",
+      "source_name": "MikroTik Documentation — Quick Guide: Chateau 5G ax (official)",
+      "ssid_url": "https://ssid.ai/routers/mikrotik-chateau-5g-ax"
+    },
+    {
       "brand": "Motorola",
       "model": "MB8611",
       "slug": "motorola-mb8611",
@@ -1057,6 +1099,16 @@
       "source_url": "https://kb.netgear.com/000059644/How-do-I-log-in-to-my-NETGEAR-cable-modem",
       "source_name": "NETGEAR Support — How do I log in to my NETGEAR cable modem? (CM3000 listed under Applicable Models)",
       "ssid_url": "https://ssid.ai/routers/netgear-cm3000"
+    },
+    {
+      "brand": "Netgear",
+      "model": "Nighthawk CM1200 Cable Modem",
+      "slug": "netgear-cm1200",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://www.downloads.netgear.com/files/GDC/CM1200/CM1200_UM_EN.pdf",
+      "source_name": "NETGEAR CM1200 User Manual — official PDF",
+      "ssid_url": "https://ssid.ai/routers/netgear-cm1200"
     },
     {
       "brand": "NOW Broadband",
@@ -1347,6 +1399,16 @@
       "source_url": "https://download.zyxel.com/USG_FLEX_50H/user_guide/USG%20FLEX%2050H_V1.30_Ed1.pdf",
       "source_name": "Zyxel USG FLEX H Series User's Guide V1.30 Ed1 — download.zyxel.com (official)",
       "ssid_url": "https://ssid.ai/routers/zyxel-usg-flex-50h"
+    },
+    {
+      "brand": "Zyxel",
+      "model": "WAX610D",
+      "slug": "zyxel-wax610d",
+      "default_username": "admin",
+      "default_password": "1234",
+      "source_url": "https://download.zyxel.com/WAX610D/user_guide/WAX610D_V6.70_Ed1.pdf",
+      "source_name": "Zyxel WAX610D User's Guide V6.70 — official PDF",
+      "ssid_url": "https://ssid.ai/routers/zyxel-wax610d"
     }
   ]
 }
