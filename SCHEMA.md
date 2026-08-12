@@ -2,9 +2,9 @@
 
 Two generated data files share one row shape:
 
-- `routers.csv` — 312 rows, 18 columns, header row first, RFC 4180 quoting, LF line endings, UTF-8.
+- `routers.csv` — 335 rows, 18 columns, header row first, RFC 4180 quoting, LF line endings, UTF-8.
 - `routers.json` — an object with licence and provenance keys plus `routers`, an array of the same
-  312 objects in the same order and with the same key order as the CSV columns.
+  335 objects in the same order and with the same key order as the CSV columns.
 
 Rows are sorted by `brand`, then `model`, then `slug`, using an `en` collation with
 case-insensitive comparison. The sort is fixed so that a diff between two exports shows only what
@@ -47,7 +47,7 @@ String, always present. One of:
 
 ### `default_gateway_ip`
 String or null. The IPv4 address the admin interface answers on out of the box, e.g.
-`192.168.1.1`. Present on 275 of 312 rows. Null means the model has no documented default admin
+`192.168.1.1`. Present on 296 of 335 rows. Null means the model has no documented default admin
 IP, which is normal for `app-only` models: they have no web interface.
 
 ### `default_login_host`
@@ -147,12 +147,12 @@ source cited inline: `https://ssid.ai/routers/{slug}`.
 
 ## `compliance.json`
 
-An aggregation of the same 312 rows. It makes no claim that is not already in `routers.json`.
+An aggregation of the same 335 rows. It makes no claim that is not already in `routers.json`.
 
 | Key | Type | Meaning |
 | --- | --- | --- |
 | `generated_at` | date | When this snapshot was computed |
-| `model_count` | int | Models in the index (312) |
+| `model_count` | int | Models in the index (335) |
 | `by_credential_type` | object | Histogram over the enum above, including a zero `unknown` bucket |
 | `no_universal_default_pct` | int | Percentage of models that are not `static`, rounded (72) |
 | `universal_default_pct` | int | Percentage that are `static`, rounded (28) |

@@ -6,13 +6,13 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-08-10",
-  "model_count": 312,
+  "generated_at": "2026-08-12",
+  "model_count": 335,
   "by_credential_type": {
-    "set-on-setup": 102,
-    "label-unique": 81,
-    "app-only": 41,
-    "static": 88,
+    "set-on-setup": 107,
+    "label-unique": 92,
+    "app-only": 42,
+    "static": 94,
     "unknown": 0
   },
   "no_universal_default_pct": 72,
@@ -43,15 +43,21 @@
       "no_universal_default": false
     },
     {
+      "brand": "Ubiquiti",
+      "models": 13,
+      "universal_default_models": 6,
+      "no_universal_default": false
+    },
+    {
       "brand": "DrayTek",
       "models": 6,
       "universal_default_models": 6,
       "no_universal_default": false
     },
     {
-      "brand": "Ubiquiti",
-      "models": 12,
-      "universal_default_models": 5,
+      "brand": "Netgate",
+      "models": 6,
+      "universal_default_models": 6,
       "no_universal_default": false
     },
     {
@@ -61,9 +67,9 @@
       "no_universal_default": false
     },
     {
-      "brand": "Netgate",
-      "models": 5,
-      "universal_default_models": 5,
+      "brand": "TP-Link",
+      "models": 34,
+      "universal_default_models": 4,
       "no_universal_default": false
     },
     {
@@ -73,14 +79,14 @@
       "no_universal_default": false
     },
     {
-      "brand": "TP-Link",
-      "models": 33,
-      "universal_default_models": 3,
+      "brand": "SaskTel",
+      "models": 4,
+      "universal_default_models": 2,
       "no_universal_default": false
     },
     {
-      "brand": "SaskTel",
-      "models": 4,
+      "brand": "Comfast",
+      "models": 3,
       "universal_default_models": 2,
       "no_universal_default": false
     },
@@ -98,7 +104,7 @@
     },
     {
       "brand": "MikroTik",
-      "models": 9,
+      "models": 10,
       "universal_default_models": 1,
       "no_universal_default": false
     },
@@ -121,13 +127,13 @@
       "no_universal_default": false
     },
     {
-      "brand": "Comfast",
+      "brand": "Ruckus",
       "models": 2,
       "universal_default_models": 1,
       "no_universal_default": false
     },
     {
-      "brand": "Ruckus",
+      "brand": "SoftBank",
       "models": 2,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -193,6 +199,12 @@
       "no_universal_default": false
     },
     {
+      "brand": "Totalplay",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
       "brand": "AVM",
       "models": 10,
       "universal_default_models": 0,
@@ -241,7 +253,19 @@
       "no_universal_default": true
     },
     {
+      "brand": "Firewalla",
+      "models": 4,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
       "brand": "Grandstream",
+      "models": 4,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Claro Brasil",
       "models": 4,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -260,12 +284,6 @@
     },
     {
       "brand": "Mercusys",
-      "models": 3,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
-      "brand": "Firewalla",
       "models": 3,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -356,6 +374,12 @@
     },
     {
       "brand": "Vodafone Italy",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Honor",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -527,6 +551,54 @@
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
+    },
+    {
+      "brand": "Telmex",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Vivo",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Movistar",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Eastlink",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "NTT East",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "HKBN",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "H3C",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Etisalat",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
     }
   ],
   "still_shipping_universal_default": [
@@ -649,6 +721,16 @@
       "source_url": "https://www.comfast.cn/uploadfile/2022/0321/CF-WR773BEV2Manual.pdf",
       "source_name": "COMFAST (Shenzhen Four Seas Global Link Network Technology) — Wireless Extender/Repeater Quick Installation Guide (official)",
       "ssid_url": "https://ssid.ai/routers/comfast-cf-wr773be-v2"
+    },
+    {
+      "brand": "Comfast",
+      "model": "CF-EW73",
+      "slug": "comfast-cf-ew73",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://en.comfast.com.cn/index.php?a=show&c=index&catid=32&id=379&m=content",
+      "source_name": "COMFAST official — CF-EW73 Outdoor AP Quick Installation Guide",
+      "ssid_url": "https://ssid.ai/routers/comfast-cf-ew73"
     },
     {
       "brand": "D-Link",
@@ -981,6 +1063,16 @@
       "ssid_url": "https://ssid.ai/routers/netgate-8200"
     },
     {
+      "brand": "Netgate",
+      "model": "Netgate 1541 (XG-1541)",
+      "slug": "netgate-1541",
+      "default_username": "admin",
+      "default_password": "pfsense",
+      "source_url": "https://docs.netgate.com/pfsense/en/latest/solutions/xg-1541/getting-started.html",
+      "source_name": "Netgate official documentation — Netgate 1541 Getting Started",
+      "ssid_url": "https://ssid.ai/routers/netgate-1541"
+    },
+    {
       "brand": "Netgear",
       "model": "Nighthawk R7000 (AC1900)",
       "slug": "netgear-nighthawk-r7000",
@@ -1251,6 +1343,16 @@
       "ssid_url": "https://ssid.ai/routers/sasktel-huawei-b2268h"
     },
     {
+      "brand": "SoftBank",
+      "model": "Air Terminal 5 (also covers 2/3/4/4 NEXT)",
+      "slug": "softbank-air-terminal-5",
+      "default_username": "user",
+      "default_password": "user",
+      "source_url": "https://www.softbank.jp/support/faq/view/18966",
+      "source_name": "SoftBank official FAQ — SoftBank Airセットアップメニューにアクセスできない場合の対処方法",
+      "ssid_url": "https://ssid.ai/routers/softbank-air-terminal-5"
+    },
+    {
       "brand": "Telstra",
       "model": "Telstra Smart Modem Gen 2 (and Gen 1.1)",
       "slug": "telstra-smart-modem-gen-2",
@@ -1259,6 +1361,16 @@
       "source_url": "https://www.telstra.com.au/support/internet-and-home-phone/access-modem-settings",
       "source_name": "Telstra Official Support — How do I access and use my modem settings?",
       "ssid_url": "https://ssid.ai/routers/telstra-smart-modem-gen-2"
+    },
+    {
+      "brand": "Totalplay",
+      "model": "Fibra ONT/Router",
+      "slug": "totalplay-fibra-router",
+      "default_username": "root",
+      "default_password": "admin",
+      "source_url": "https://totalplay.com.mx/blog/como-mejorar-la-senal-de-internet/",
+      "source_name": "Totalplay — \"3 formas de mejorar tu señal de internet\" (official blog)",
+      "ssid_url": "https://ssid.ai/routers/totalplay-fibra-router"
     },
     {
       "brand": "Totolink",
@@ -1299,6 +1411,16 @@
       "source_url": "https://www.tp-link.com/us/support/faq/1000/",
       "source_name": "TP-Link official FAQ 1000 — How do I login to the web management page of the EAP Series products (Standalone mode)? (applies to EAP610)",
       "ssid_url": "https://ssid.ai/routers/tp-link-omada-eap610"
+    },
+    {
+      "brand": "TP-Link",
+      "model": "EAP650 (Omada AX3000 Ceiling Mount)",
+      "slug": "tp-link-eap650",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://support.omadanetworks.com/us/document/12922/",
+      "source_name": "TP-Link Omada Networks Support — How to login to the EAP web management page (standalone mode, official)",
+      "ssid_url": "https://ssid.ai/routers/tp-link-eap650"
     },
     {
       "brand": "Ubiquiti",
@@ -1349,6 +1471,16 @@
       "source_url": "https://dl.ui.com/qsg/ER-12/ER-12_EN.html",
       "source_name": "Ubiquiti ER-12 (EdgeRouter 12) Quick Start Guide (official)",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-12"
+    },
+    {
+      "brand": "Ubiquiti",
+      "model": "EdgeRouter Infinity (ER-8-XG)",
+      "slug": "ubiquiti-edgerouter-infinity",
+      "default_username": "ubnt",
+      "default_password": "ubnt",
+      "source_url": "https://dl.ui.com/qsg/ER-8-XG/ER-8-XG_EN.html",
+      "source_name": "Ubiquiti EdgeRouter Infinity (ER-8-XG) Quick Start Guide (official, dl.ui.com)",
+      "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-infinity"
     },
     {
       "brand": "Wavlink",
