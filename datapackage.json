@@ -1,0 +1,136 @@
+{
+  "profile": "tabular-data-package",
+  "name": "router-default-passwords",
+  "title": "Router default passwords and login IPs",
+  "description": "Default login IP, admin username, default password (or an explicit reason there is no universal one), credential type and factory-reset steps for 391 router, gateway, mesh and access-point models. Every row cites the manufacturer's own documentation.",
+  "homepage": "https://ssid.ai/dataset",
+  "version": "2026-08-27",
+  "created": "2026-08-27",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0 International"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "ssid.ai",
+      "path": "https://ssid.ai",
+      "role": "publisher"
+    }
+  ],
+  "keywords": [
+    "router",
+    "default password",
+    "default gateway ip",
+    "network security",
+    "iot security",
+    "psti",
+    "open data"
+  ],
+  "resources": [
+    {
+      "profile": "tabular-data-resource",
+      "name": "routers",
+      "path": "routers.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "dialect": {
+        "delimiter": ",",
+        "lineTerminator": "\n",
+        "header": true
+      },
+      "schema": {
+        "primaryKey": "slug",
+        "fields": [
+          {
+            "name": "slug",
+            "type": "string"
+          },
+          {
+            "name": "brand",
+            "type": "string"
+          },
+          {
+            "name": "model",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "string"
+          },
+          {
+            "name": "default_gateway_ip",
+            "type": "string"
+          },
+          {
+            "name": "default_login_host",
+            "type": "string"
+          },
+          {
+            "name": "default_username",
+            "type": "string"
+          },
+          {
+            "name": "default_password",
+            "type": "string"
+          },
+          {
+            "name": "default_password_blank",
+            "type": "boolean"
+          },
+          {
+            "name": "credential_type",
+            "type": "string"
+          },
+          {
+            "name": "credential_note",
+            "type": "string"
+          },
+          {
+            "name": "reset_steps",
+            "type": "string"
+          },
+          {
+            "name": "source_url",
+            "type": "string"
+          },
+          {
+            "name": "source_name",
+            "type": "string"
+          },
+          {
+            "name": "source_archive_url",
+            "type": "string"
+          },
+          {
+            "name": "confidence",
+            "type": "string"
+          },
+          {
+            "name": "last_verified",
+            "type": "date"
+          },
+          {
+            "name": "ssid_url",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "routers-json",
+      "path": "routers.json",
+      "format": "json",
+      "mediatype": "application/json"
+    },
+    {
+      "name": "compliance",
+      "path": "compliance.json",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ]
+}

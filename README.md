@@ -259,6 +259,15 @@ Where the data is thin, here is where:
   A model gets added only once an official source for it has been found, which caps the rate.
 <!-- /generated:gaps-tail -->
 
+<!-- generated:companion-dataset -->
+ssid.ai publishes one other open dataset, built the same way: the **OUI change
+history** at <https://github.com/Drumworks/oui-change-history>. The IEEE registry that
+maps a MAC prefix to a manufacturer is published as current state only, so nobody knows
+what a prefix resolved to five years ago. That repository is the diff, reconstructed from
+dated captures going back to 2016, and it is why a MAC prefix is not a permanent vendor
+identifier. Same licence, same sourcing rule.
+<!-- /generated:companion-dataset -->
+
 ## Corrections
 
 If a row is wrong, the fix needs a source. Three ways to send one:
