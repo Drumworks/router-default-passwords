@@ -6,27 +6,27 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-08-12",
-  "model_count": 335,
+  "generated_at": "2026-08-27",
+  "model_count": 391,
   "by_credential_type": {
-    "set-on-setup": 107,
-    "label-unique": 92,
-    "app-only": 42,
-    "static": 94,
+    "set-on-setup": 120,
+    "label-unique": 118,
+    "app-only": 48,
+    "static": 105,
     "unknown": 0
   },
-  "no_universal_default_pct": 72,
-  "universal_default_pct": 28,
+  "no_universal_default_pct": 73,
+  "universal_default_pct": 27,
   "by_brand": [
     {
       "brand": "Netgear",
-      "models": 32,
-      "universal_default_models": 13,
+      "models": 37,
+      "universal_default_models": 15,
       "no_universal_default": false
     },
     {
       "brand": "Linksys",
-      "models": 13,
+      "models": 15,
       "universal_default_models": 9,
       "no_universal_default": false
     },
@@ -38,7 +38,7 @@
     },
     {
       "brand": "D-Link",
-      "models": 10,
+      "models": 13,
       "universal_default_models": 8,
       "no_universal_default": false
     },
@@ -68,7 +68,7 @@
     },
     {
       "brand": "TP-Link",
-      "models": 34,
+      "models": 40,
       "universal_default_models": 4,
       "no_universal_default": false
     },
@@ -76,6 +76,18 @@
       "brand": "Belkin",
       "models": 4,
       "universal_default_models": 4,
+      "no_universal_default": false
+    },
+    {
+      "brand": "ARRIS",
+      "models": 5,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Huawei",
+      "models": 4,
+      "universal_default_models": 2,
       "no_universal_default": false
     },
     {
@@ -97,20 +109,20 @@
       "no_universal_default": false
     },
     {
+      "brand": "Hitron",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
       "brand": "ASUS",
-      "models": 25,
+      "models": 27,
       "universal_default_models": 1,
       "no_universal_default": false
     },
     {
       "brand": "MikroTik",
       "models": 10,
-      "universal_default_models": 1,
-      "no_universal_default": false
-    },
-    {
-      "brand": "ARRIS",
-      "models": 3,
       "universal_default_models": 1,
       "no_universal_default": false
     },
@@ -127,6 +139,12 @@
       "no_universal_default": false
     },
     {
+      "brand": "Rogers",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
       "brand": "Ruckus",
       "models": 2,
       "universal_default_models": 1,
@@ -134,6 +152,12 @@
     },
     {
       "brand": "SoftBank",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Technicolor",
       "models": 2,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -181,12 +205,6 @@
       "no_universal_default": false
     },
     {
-      "brand": "Rogers",
-      "models": 1,
-      "universal_default_models": 1,
-      "no_universal_default": false
-    },
-    {
       "brand": "Edimax",
       "models": 1,
       "universal_default_models": 1,
@@ -205,8 +223,32 @@
       "no_universal_default": false
     },
     {
+      "brand": "Spark",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Vivo (Telefônica Brasil)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "ZTE",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
       "brand": "AVM",
-      "models": 10,
+      "models": 12,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Grandstream",
+      "models": 8,
       "universal_default_models": 0,
       "no_universal_default": true
     },
@@ -218,13 +260,19 @@
     },
     {
       "brand": "Verizon",
-      "models": 5,
+      "models": 6,
       "universal_default_models": 0,
       "no_universal_default": true
     },
     {
       "brand": "Keenetic",
-      "models": 5,
+      "models": 6,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Vodafone",
+      "models": 4,
       "universal_default_models": 0,
       "no_universal_default": true
     },
@@ -259,12 +307,6 @@
       "no_universal_default": true
     },
     {
-      "brand": "Grandstream",
-      "models": 4,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
       "brand": "Claro Brasil",
       "models": 4,
       "universal_default_models": 0,
@@ -289,13 +331,19 @@
       "no_universal_default": true
     },
     {
-      "brand": "Xiaomi",
-      "models": 2,
+      "brand": "Devolo",
+      "models": 3,
       "universal_default_models": 0,
       "no_universal_default": true
     },
     {
-      "brand": "Huawei",
+      "brand": "Vodafone Italy",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Xiaomi",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -325,7 +373,7 @@
       "no_universal_default": true
     },
     {
-      "brand": "Vodafone",
+      "brand": "TalkTalk",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -355,12 +403,6 @@
       "no_universal_default": true
     },
     {
-      "brand": "Devolo",
-      "models": 2,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
       "brand": "Ruijie Reyee",
       "models": 2,
       "universal_default_models": 0,
@@ -373,13 +415,13 @@
       "no_universal_default": true
     },
     {
-      "brand": "Vodafone Italy",
+      "brand": "Honor",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
     },
     {
-      "brand": "Honor",
+      "brand": "KDDI au Hikari",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -434,12 +476,6 @@
     },
     {
       "brand": "Sky",
-      "models": 1,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
-      "brand": "TalkTalk",
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -599,6 +635,72 @@
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
+    },
+    {
+      "brand": "eir",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "NTT West",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "So-net (Sony Network Communications)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "SK Broadband",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Comcast / Xfinity",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Google Fiber",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "SFR",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Spectrum (Charter Communications)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Kaon (Kaonmedia)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Sagemcom",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "NetComm (Aussie Broadband)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
     }
   ],
   "still_shipping_universal_default": [
@@ -631,6 +733,16 @@
       "source_url": "https://www.surfboard.com/support/resources/",
       "source_name": "ARRIS SURFboard official support (SBG7600AC2 user guide)",
       "ssid_url": "https://ssid.ai/routers/arris-surfboard-sbg7600ac2"
+    },
+    {
+      "brand": "ARRIS",
+      "model": "TG862 (izzi México gateway)",
+      "slug": "izzi-arris-tg862",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "ssid_url": "https://ssid.ai/routers/izzi-arris-tg862"
     },
     {
       "brand": "ASUS",
@@ -903,6 +1015,46 @@
       "ssid_url": "https://ssid.ai/routers/etisalat-aztech-hw550-3g"
     },
     {
+      "brand": "Hitron",
+      "model": "CHITA 3.1 (izzi México gateway)",
+      "slug": "izzi-hitron-chita-3-1",
+      "default_username": "cusadmin",
+      "default_password": "password",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "izzi Ayuda — Conoce tu usuario y contraseña de tu módem izzi",
+      "ssid_url": "https://ssid.ai/routers/izzi-hitron-chita-3-1"
+    },
+    {
+      "brand": "Hitron",
+      "model": "CGNV5 (izzi México gateway)",
+      "slug": "izzi-hitron-cgnv5",
+      "default_username": "cusadmin",
+      "default_password": "password",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "ssid_url": "https://ssid.ai/routers/izzi-hitron-cgnv5"
+    },
+    {
+      "brand": "Huawei",
+      "model": "B612 4G LTE CPE Cat6 (Entel Chile)",
+      "slug": "entel-chile-huawei-b612",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.entel.cl/hogar/soporte/guia-huawei-b612",
+      "source_name": "Entel Hogar Soporte — Guía Huawei B612",
+      "ssid_url": "https://ssid.ai/routers/entel-chile-huawei-b612"
+    },
+    {
+      "brand": "Huawei",
+      "model": "B310 4G LTE CPE Cat4 (Entel Chile)",
+      "slug": "entel-chile-huawei-b310",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.entel.cl/hogar/soporte/guia-huawei-b310",
+      "source_name": "Entel Hogar Soporte — Guía Huawei B310",
+      "ssid_url": "https://ssid.ai/routers/entel-chile-huawei-b310"
+    },
+    {
       "brand": "Linksys",
       "model": "EA7500 (Max-Stream AC1900)",
       "slug": "linksys-ea7500",
@@ -1078,8 +1230,8 @@
       "slug": "netgear-nighthawk-r7000",
       "default_username": "admin",
       "default_password": "password",
-      "source_url": "https://kb.netgear.com/24340/What-are-the-factory-default-settings-on-my-Nighthawk-R7000-router-and-how-do-I-reset-to-default",
-      "source_name": "NETGEAR official KB 24340 (R7000 factory defaults)",
+      "source_url": "https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
+      "source_name": "NETGEAR official KB 1148 (Default UI passwords)",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r7000"
     },
     {
@@ -1201,6 +1353,26 @@
       "source_url": "https://www.downloads.netgear.com/files/GDC/CM1200/CM1200_UM_EN.pdf",
       "source_name": "NETGEAR CM1200 User Manual — official PDF",
       "ssid_url": "https://ssid.ai/routers/netgear-cm1200"
+    },
+    {
+      "brand": "Netgear",
+      "model": "Nighthawk R7000P (AC2300)",
+      "slug": "netgear-nighthawk-r7000p",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://www.downloads.netgear.com/files/GDC/R7000P/R7000P_UM_EN.pdf",
+      "source_name": "NETGEAR Nighthawk R7000P User Manual — official PDF",
+      "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r7000p"
+    },
+    {
+      "brand": "Netgear",
+      "model": "Nighthawk X6 R8000 (AC3200)",
+      "slug": "netgear-nighthawk-r8000",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://www.downloads.netgear.com/files/GDC/R8000/R8000_UM_EN.pdf",
+      "source_name": "NETGEAR Nighthawk X6 R8000 User Manual — official PDF",
+      "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r8000"
     },
     {
       "brand": "NOW Broadband",
@@ -1353,6 +1525,26 @@
       "ssid_url": "https://ssid.ai/routers/softbank-air-terminal-5"
     },
     {
+      "brand": "Spark",
+      "model": "Spark Smart Modem 2",
+      "slug": "spark-smart-modem-2",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.spark.co.nz/help/internet/broadband-help/spark-smart-modem-2-support/change-wifi-name-password/",
+      "source_name": "Spark NZ — Spark Smart Modem 2 support",
+      "ssid_url": "https://ssid.ai/routers/spark-smart-modem-2"
+    },
+    {
+      "brand": "Technicolor",
+      "model": "Vivo Fibra Router (Technicolor variant)",
+      "slug": "vivo-brasil-technicolor-router",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://vivo.com.br/para-voce/por-que-vivo/vivo-explica/internet-e-wi-fi/configuracoes-internet",
+      "source_name": "Vivo Explica — Internet e Wi-Fi: Configurações",
+      "ssid_url": "https://ssid.ai/routers/vivo-brasil-technicolor-router"
+    },
+    {
       "brand": "Telstra",
       "model": "Telstra Smart Modem Gen 2 (and Gen 1.1)",
       "slug": "telstra-smart-modem-gen-2",
@@ -1483,6 +1675,16 @@
       "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-infinity"
     },
     {
+      "brand": "Vivo (Telefônica Brasil)",
+      "model": "Vivo Fibra Router — generic (non-Technicolor)",
+      "slug": "vivo-brasil-generic-router-admin",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://vivo.com.br/para-voce/por-que-vivo/vivo-explica/internet-e-wi-fi/configuracoes-internet",
+      "source_name": "Vivo Explica — Internet e Wi-Fi: Configurações",
+      "ssid_url": "https://ssid.ai/routers/vivo-brasil-generic-router-admin"
+    },
+    {
       "brand": "Wavlink",
       "model": "WL-WN533A8 (AC1200)",
       "slug": "wavlink-wl-wn533a8",
@@ -1491,6 +1693,16 @@
       "source_url": "https://www.wavlink.com/en_us/faq/details/How-to-log-into-web-based-management-page-of-my-WAVLINK-router.html",
       "source_name": "Wavlink Official FAQ - How to log into the web-based management page of my WAVLINK router",
       "ssid_url": "https://ssid.ai/routers/wavlink-wl-wn533a8"
+    },
+    {
+      "brand": "ZTE",
+      "model": "F689 ONT (izzi México fibra)",
+      "slug": "izzi-zte-f689-ont",
+      "default_username": "user",
+      "default_password": "user",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "ssid_url": "https://ssid.ai/routers/izzi-zte-f689-ont"
     },
     {
       "brand": "Zyxel",
