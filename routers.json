@@ -5,8 +5,8 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-08-27",
-  "model_count": 391,
+  "generated_at": "2026-08-31",
+  "model_count": 409,
   "routers": [
     {
       "slug": "actiontec-mi424wr",
@@ -25,7 +25,7 @@
       "source_name": "Verizon Actiontec Router User Manual (official PDF)",
       "source_archive_url": "https://web.archive.org/web/20260729070801/https://www.verizon.com/content/dam/verizon/support/consumer/documents/actiontecr1408usermanual.pdf",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/actiontec-mi424wr"
     },
     {
@@ -45,7 +45,7 @@
       "source_name": "Airtel — Use IP address to login to router settings",
       "source_archive_url": "https://web.archive.org/web/20260811100844/https://www.airtel.in/blog/broadband/use-ip-address-to-login-to-router-settings/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/airtel-xstream-fiber"
     },
     {
@@ -65,7 +65,7 @@
       "source_name": "eero Help Center — Do I need a password to log in?",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/amazon-eero-6"
     },
     {
@@ -85,7 +85,7 @@
       "source_name": "ARRIS SURFboard Support (S33/S34: Web Manager Access)",
       "source_archive_url": "https://web.archive.org/web/20260811095955/https://arris.my.salesforce-sites.com/consumers/articles/knowledge/S33-Web-Manager-Access",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/arris-surfboard-s33"
     },
     {
@@ -105,7 +105,7 @@
       "source_name": "ARRIS SURFboard Support (SB8200: Web Manager Access)",
       "source_archive_url": "https://web.archive.org/web/20260811100031/https://arris.my.salesforce-sites.com/consumers/articles/knowledge/SB8200-Web-Manager-Access",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/arris-surfboard-sb8200"
     },
     {
@@ -125,8 +125,28 @@
       "source_name": "ARRIS SURFboard official support (SBG7600AC2 user guide)",
       "source_archive_url": "https://web.archive.org/web/20260729065407/https://www.surfboard.com/support/resources/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/arris-surfboard-sbg7600ac2"
+    },
+    {
+      "slug": "izzi-arris-tg1652",
+      "brand": "ARRIS",
+      "model": "TG1652 (izzi México gateway)",
+      "category": "gateway",
+      "default_gateway_ip": "192.168.0.1",
+      "default_login_host": null,
+      "default_username": "admin",
+      "default_password": "password",
+      "default_password_blank": false,
+      "credential_type": "static",
+      "credential_note": "ARRIS TG1652 DOCSIS cable gateway issued by izzi México, dual-band Wi-Fi with separately-shown 2.4GHz/5GHz network names — a genuine static default, unlike several label-based izzi siblings. izzi's official credentials page has a dedicated section for this model: \"en el apartado User Name, ingresa la palabra admin\" and \"En el apartado Password, deberás ingresar la palabra password (recuerda ingresar en minúsculas tanto admin como password).\"",
+      "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/izzi-arris-tg1652"
     },
     {
       "slug": "izzi-arris-tg3442",
@@ -145,7 +165,7 @@
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/izzi-arris-tg3442"
     },
     {
@@ -165,7 +185,7 @@
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/izzi-arris-tg862"
     },
     {
@@ -185,7 +205,7 @@
       "source_name": "HPE Networking Instant On 3.1.0 User Guide",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/aruba-instant-on-ap11"
     },
     {
@@ -205,7 +225,7 @@
       "source_name": "HPE Networking Instant On 3.1.0 User Guide",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/aruba-instant-on-ap22"
     },
     {
@@ -225,7 +245,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260811100329/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rog-rapture-gt-ax11000"
     },
     {
@@ -245,7 +265,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260811100329/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rog-rapture-gt-axe16000"
     },
     {
@@ -265,7 +285,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260811100329/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ac66u-b1"
     },
     {
@@ -285,7 +305,7 @@
       "source_name": "ASUS official Support FAQ 1005263",
       "source_archive_url": "https://web.archive.org/web/20260729064941/https://www.asus.com/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ac68u"
     },
     {
@@ -305,7 +325,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260812051007/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ac86u"
     },
     {
@@ -325,7 +345,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260812051007/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ax3000"
     },
     {
@@ -345,7 +365,7 @@
       "source_name": "ASUS official Support FAQ 1005263",
       "source_archive_url": "https://web.archive.org/web/20260812051106/https://www.asus.com/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ax55"
     },
     {
@@ -365,7 +385,7 @@
       "source_name": "ASUS official FAQ — How do I enter my ASUS router's setting page using Web GUI? (applies to RT-AX68U)",
       "source_archive_url": "https://web.archive.org/web/20260812051106/https://www.asus.com/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ax68u"
     },
     {
@@ -385,7 +405,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260812051007/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ax82u"
     },
     {
@@ -405,7 +425,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260813051010/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ax86u"
     },
     {
@@ -425,7 +445,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260813051010/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ax86u-pro"
     },
     {
@@ -445,7 +465,7 @@
       "source_name": "ASUS official Support FAQ 1005263",
       "source_archive_url": "https://web.archive.org/web/20260729064941/https://www.asus.com/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-ax88u"
     },
     {
@@ -465,7 +485,7 @@
       "source_name": "ASUS RT-BE58U User Guide (E23503) — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260818051151/https://dlcdnets.asus.com/pub/ASUS/wireless/RT-BE58U/E23503_RT-BE58U_UM_WEB.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-be58u"
     },
     {
@@ -485,7 +505,7 @@
       "source_name": "ASUS RT-BE86U User Guide (E25474) — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260813051108/https://dlcdnets.asus.com/pub/ASUS/wireless/RT-BE86U/E25474_RT-BE86U_UM_WEB.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-be86u"
     },
     {
@@ -505,7 +525,7 @@
       "source_name": "ASUS RT-BE88U User Guide (E23805) — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260813051127/https://dlcdnets.asus.com/pub/ASUS/wireless/RT-BE88U/E23805_RT-BE88U_UM_WEB.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-be88u"
     },
     {
@@ -525,7 +545,7 @@
       "source_name": "ASUS RT-BE92U User Guide (E25321) — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260818051219/https://dlcdnets.asus.com/pub/ASUS/wireless/RT-BE92U/E25321_RT-BE92U_UM_WEB.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-be92u"
     },
     {
@@ -545,7 +565,7 @@
       "source_name": "ASUS official Support FAQ 1005263",
       "source_archive_url": "https://web.archive.org/web/20260729064941/https://www.asus.com/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-rt-be96u"
     },
     {
@@ -565,7 +585,7 @@
       "source_name": "ASUS official Support FAQ 1005263",
       "source_archive_url": "https://web.archive.org/web/20260729064941/https://www.asus.com/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-tuf-gaming-ax3000"
     },
     {
@@ -585,7 +605,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260813051010/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-tuf-ax5400"
     },
     {
@@ -605,7 +625,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260811100329/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-zenwifi-xt8"
     },
     {
@@ -625,7 +645,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260811100329/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-zenwifi-xd4"
     },
     {
@@ -645,7 +665,7 @@
       "source_name": "ASUS official Support FAQ 1016107 (QIS setup)",
       "source_archive_url": "https://web.archive.org/web/20260814051007/https://www.asus.com/support/faq/1016107/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-zenwifi-bd4"
     },
     {
@@ -665,7 +685,7 @@
       "source_name": "ASUS ZenWiFi BD4 Outdoor User Guide (official, E25876)",
       "source_archive_url": "https://web.archive.org/web/20260811100300/https://dlcdnets.asus.com/pub/ASUS/wireless/BD4%20Outdoor/E25876_ZenWiFi_BD4_Outdoor_UM_v2_WEB.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-zenwifi-bd4-outdoor"
     },
     {
@@ -685,7 +705,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260729064943/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-zenwifi-bq16"
     },
     {
@@ -705,7 +725,7 @@
       "source_name": "ASUS ZenWiFi ET8 User Guide (official, E19334)",
       "source_archive_url": "https://web.archive.org/web/20260811100316/https://dlcdnets.asus.com/pub/ASUS/wireless/ZenWiFi_ET8/E19334_ZenWiFi_ET8_UM_WEB.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-zenwifi-et8"
     },
     {
@@ -725,7 +745,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260811100329/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-zenwifi-xd6"
     },
     {
@@ -745,7 +765,7 @@
       "source_name": "ASUS Official Support — How do I enter my ASUS router's setting page using Web GUI?",
       "source_archive_url": "https://web.archive.org/web/20260814051046/https://www.asus.com/us/support/faq/1005263/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/asus-zenwifi-xt9"
     },
     {
@@ -765,7 +785,7 @@
       "source_name": "AT&T Internet Support — Change Your Wi-Fi Gateway Access Code",
       "source_archive_url": "https://web.archive.org/web/20260729070033/https://www.att.com/support/article/u-verse-high-speed-internet/KM1049866/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/att-bgw210-700"
     },
     {
@@ -785,7 +805,7 @@
       "source_name": "AT&T Internet Support — Change Your Wi-Fi Gateway Access Code",
       "source_archive_url": "https://web.archive.org/web/20260815051009/https://www.att.com/support/article/u-verse-high-speed-internet/KM1049866/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/att-bgw320"
     },
     {
@@ -805,7 +825,7 @@
       "source_name": "AT&T Support — Gateway User Interface for Wi-Fi gateways",
       "source_archive_url": "https://web.archive.org/web/20260729070812/https://www.att.com/support/article/u-verse-high-speed-internet/KM1206322/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/att-wifi-gateway"
     },
     {
@@ -825,7 +845,7 @@
       "source_name": "AVM official FRITZ!Box 4060 knowledge base #3531",
       "source_archive_url": "https://web.archive.org/web/20260815051103/https://fritz.com/en/apps/knowledge-base/FRITZ-Box-4060/3531_Determining-the-password-for-the-FRITZ-Box-user-interface",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-4060"
     },
     {
@@ -845,7 +865,7 @@
       "source_name": "AVM official FRITZ!Box 5590 Fiber knowledge base #3531",
       "source_archive_url": "https://web.archive.org/web/20260815051140/https://fritz.com/en/apps/knowledge-base/FRITZ-Box-5590-Fiber/3531_Determining-the-password-for-the-FRITZ-Box-user-interface",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-5590-fiber"
     },
     {
@@ -865,7 +885,7 @@
       "source_name": "AVM FRITZ! Knowledge Base — Opening/Determining the password for the FRITZ!Box user interface (FRITZ!Box 6591 Cable) (official)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-6591-cable"
     },
     {
@@ -885,7 +905,7 @@
       "source_name": "AVM official FRITZ!Box 6660 Cable knowledge base #3531",
       "source_archive_url": "https://web.archive.org/web/20260819051134/https://fritz.com/en/apps/knowledge-base/FRITZ-Box-6660-Cable/3531_Determining-the-password-for-the-FRITZ-Box-user-interface",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-6660-cable"
     },
     {
@@ -905,7 +925,7 @@
       "source_name": "AVM official FRITZ!Box 7490 knowledge base #3531",
       "source_archive_url": "https://web.archive.org/web/20260821051031/https://fritz.com/en/apps/knowledge-base/FRITZ-Box-7490/3531_Determining-the-password-for-the-FRITZ-Box-user-interface",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-7490"
     },
     {
@@ -925,7 +945,7 @@
       "source_name": "AVM official FRITZ!Box 7530 knowledge base #3531",
       "source_archive_url": "https://web.archive.org/web/20260818051512/https://fritz.com/en/apps/knowledge-base/FRITZ-Box-7530/3531_Determining-the-password-for-the-FRITZ-Box-user-interface",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-7530"
     },
     {
@@ -945,7 +965,7 @@
       "source_name": "AVM official FRITZ!Box 7530 AX knowledge base #3531",
       "source_archive_url": "https://web.archive.org/web/20260820051017/https://fritz.com/en/apps/knowledge-base/FRITZ-Box-7530-AX/3531_Determining-the-password-for-the-FRITZ-Box-user-interface",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-7530-ax"
     },
     {
@@ -965,7 +985,7 @@
       "source_name": "AVM official FRITZ!Box 7583 knowledge base #3531",
       "source_archive_url": "https://web.archive.org/web/20260820051104/https://fritz.com/en/apps/knowledge-base/FRITZ-Box-7583/3531_Determining-the-password-for-the-FRITZ-Box-user-interface",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-7583"
     },
     {
@@ -985,7 +1005,7 @@
       "source_name": "AVM official FRITZ!Box 7590 knowledge base #3531",
       "source_archive_url": "https://web.archive.org/web/20260821051129/https://fritz.com/en/apps/knowledge-base/FRITZ-Box-7590/3531_Determining-the-password-for-the-FRITZ-Box-user-interface",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-7590"
     },
     {
@@ -1005,7 +1025,7 @@
       "source_name": "AVM official FRITZ!Box 7590 AX knowledge base #3531",
       "source_archive_url": "https://web.archive.org/web/20260821051219/https://fritz.com/en/apps/knowledge-base/FRITZ-Box-7590-AX/3531_Determining-the-password-for-the-FRITZ-Box-user-interface",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritzbox-7590-ax"
     },
     {
@@ -1025,8 +1045,28 @@
       "source_name": "AVM/FRITZ! Official Knowledge Base",
       "source_archive_url": "https://web.archive.org/web/20260818051329/https://uk.fritz.com/service/knowledge-base/dok/FRITZ-Repeater-1200-AX/3531_Determining-the-password-for-the-FRITZ-Repeater-user-interface/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritz-repeater-1200-ax"
+    },
+    {
+      "slug": "avm-fritz-repeater-2400",
+      "brand": "AVM",
+      "model": "FRITZ!Repeater 2400",
+      "category": "mesh",
+      "default_gateway_ip": null,
+      "default_login_host": null,
+      "default_username": null,
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "label-unique",
+      "credential_note": "Wi-Fi mesh range extender, paired with a FRITZ!Box or another FRITZ!Repeater as Mesh Master — a tier beyond the already-seeded FRITZ!Repeater 1200 AX and 6000. Official AVM knowledge base: \"The user interface of your FRITZ!Repeater is either protected with a unique password in the factory settings or you must assign your own password the first time you open the user interface... If your FRITZ!Repeater does have a factory-set password, the password is located on the type label of the FRITZ!Repeater and consists of one word with 4 to 6 lower-case letters, followed by 4 numerals.\"",
+      "reset_steps": "Press and hold the recessed RESET button (use a pin) for about 15 seconds until the LEDs flash, or trigger 'Load factory settings' from the repeater's/FRITZ!Box's user interface.",
+      "source_url": "https://uk.fritz.com/service/knowledge-base/dok/FRITZ-Repeater-2400/3531_Determining-the-password-for-the-FRITZ-Repeater-user-interface/",
+      "source_name": "AVM Official Knowledge Base — Determining the password for the FRITZ!Repeater user interface (FRITZ!Repeater 2400)",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/avm-fritz-repeater-2400"
     },
     {
       "slug": "avm-fritz-repeater-6000",
@@ -1045,7 +1085,7 @@
       "source_name": "AVM/FRITZ! Official Knowledge Base — FRITZ!Repeater 6000: Determining the password for the user interface",
       "source_archive_url": "https://web.archive.org/web/20260825051014/https://uk.fritz.com/service/knowledge-base/dok/FRITZ-Repeater-6000/3531_Determining-the-password-for-the-FRITZ-Repeater-user-interface/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/avm-fritz-repeater-6000"
     },
     {
@@ -1065,7 +1105,7 @@
       "source_name": "Belkin Official Support — Accessing 192.168.2.1",
       "source_archive_url": "https://web.archive.org/web/20260821051312/https://www.belkin.com/support-article/?articleNum=80321",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/belkin-f-series"
     },
     {
@@ -1085,7 +1125,7 @@
       "source_name": "Belkin Official Support — Accessing 192.168.2.1 (default password / login)",
       "source_archive_url": "https://web.archive.org/web/20260821051312/https://www.belkin.com/support-article/?articleNum=80321",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/belkin-n-ac-legacy"
     },
     {
@@ -1105,7 +1145,7 @@
       "source_name": "Belkin Official Support — RT1800 setup / default settings",
       "source_archive_url": "https://web.archive.org/web/20260821051422/https://www.belkin.com/support-article/?articleNum=333517",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/belkin-rt1800"
     },
     {
@@ -1125,7 +1165,7 @@
       "source_name": "Belkin Official Support — RT3200 User Guide (PDF)",
       "source_archive_url": "https://web.archive.org/web/20260729070946/https://s3.belkin.com/support/assets/belkin/userguide/RT3200_USERGUIDE_LNKPG-00736%20RevB00.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/belkin-rt3200"
     },
     {
@@ -1145,7 +1185,7 @@
       "source_name": "Bell Official Support — Set or change the administrator password (Home Hub 4000)",
       "source_archive_url": "https://web.archive.org/web/20260822051008/https://support.bell.ca/internet/connection-help/home-hub-4000-modem.how_to_set_or_change_the_administrator_password",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/bell-home-hub-4000"
     },
     {
@@ -1165,7 +1205,7 @@
       "source_name": "Bell Support — Managing my Giga Hub modem (official)",
       "source_archive_url": "https://web.archive.org/web/20260821051552/https://business.bell.ca/support/small-business/internet/modems/hub-giga/managing-my-giga-hub-modem",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/bell-giga-hub"
     },
     {
@@ -1185,7 +1225,7 @@
       "source_name": "Brightspeed — Administrator Password, Advanced Modem Setup",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/brightspeed-c4000"
     },
     {
@@ -1205,7 +1245,7 @@
       "source_name": "BSNL Chennai Telephones — Modem Configuration / Wireless Security",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/bsnl-wa3002-g4"
     },
     {
@@ -1225,7 +1265,7 @@
       "source_name": "BT Help — Set up or change the admin password on my BT Hub",
       "source_archive_url": "https://web.archive.org/web/20260729070423/https://www.bt.com/help/broadband/fix-a-problem/log-in-issues/i-can-t-log-in-to-bt-hub-manager/how-can-i-set-up-or-change-the-admin-password-on-my-bt-hub-",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/bt-smart-hub-2"
     },
     {
@@ -1245,7 +1285,7 @@
       "source_name": "Buffalo — AirStation WHR-1166D User Manual (PDF, manual.buffalo.jp)",
       "source_archive_url": "https://web.archive.org/web/20260824051120/https://manual.buffalo.jp/buf-doc/35020394-01_EN.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/buffalo-airstation-whr-1166d"
     },
     {
@@ -1265,7 +1305,7 @@
       "source_name": "Buffalo — AirStation User Manual (PDF, manual.buffalo.jp)",
       "source_archive_url": "https://web.archive.org/web/20260824051120/https://manual.buffalo.jp/buf-doc/35020394-01_EN.pdf",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/buffalo-airstation-wsr-1166dhp"
     },
     {
@@ -1285,8 +1325,28 @@
       "source_name": "CenturyLink — Administrator Password, Advanced Modem Setup",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/centurylink-c4000"
+    },
+    {
+      "slug": "fpt-cig-g97rg6m",
+      "brand": "CIG",
+      "model": "G-97RG6M (FPT Telecom gateway)",
+      "category": "gateway",
+      "default_gateway_ip": "192.168.1.1",
+      "default_login_host": null,
+      "default_username": "admin",
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "label-unique",
+      "credential_note": "CIG G-97RG6M is a GPON ONT/WiFi gateway issued by FPT Telecom (Vietnam) to fiber subscribers — distinct vendor from the AC1000F/Hub N300M FPT modems. FPT's official installation guide: \"Bước 1: Truy cập trang web 192.168.1.1 với username là admin, password xem ở mặt sau modem mục 'web password'\" (\"Step 1: Go to 192.168.1.1, username is admin, password — see the 'web password' field on the back of the modem\"). Username is fixed at admin; the password is unique per unit and printed on the device label.",
+      "reset_steps": "No reset procedure is given beyond the initial login step in FPT's guide; if the on-label 'web password' field is illegible, contact the FPT Telecom hotline rather than blind-resetting, since a hardware reset also drops the line's PPPoE/GPON provisioning.",
+      "source_url": "https://fpt.vn/storage/upload/files/documents/setting-guides/cig-g97rg6m/huong_dan_cai_dat_wifi_doi_mat_khau_wifi_doi_ten_wifi_modem_g97rg6m_cua_fpt_telecom.pdf",
+      "source_name": "FPT Telecom — official setting guide (fpt.vn)",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/fpt-cig-g97rg6m"
     },
     {
       "slug": "cisco-meraki-go-gr12",
@@ -1305,7 +1365,7 @@
       "source_name": "Cisco Meraki Documentation (Meraki Go GR12 Installation Guide)",
       "source_archive_url": "https://web.archive.org/web/20260729071417/https://documentation.meraki.com/Go/Install_and_Get_Started/Meraki_Go_GR12_Installation_Guide",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/cisco-meraki-go-gr12"
     },
     {
@@ -1325,7 +1385,7 @@
       "source_name": "Claro Brasil — official device-configuration portal (CBN CH8568)",
       "source_archive_url": "https://web.archive.org/web/20260825051121/https://configuraraparelhos.claro.com.br/cbn/ch8568/funcoes-basicas/como-acessar-as-configuracoes-do-modem-wi-fi-pelo-computador",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/claro-brasil-cbn-ch8568"
     },
     {
@@ -1345,7 +1405,7 @@
       "source_name": "Claro Brasil — Manual do Usuário HUMAX HGJ310 (official equipment manual)",
       "source_archive_url": "https://web.archive.org/web/20260827051013/https://www.claro.com.br/files/104379/x/f33df318bd/manuais-equipamentos-humax-hgj310.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/claro-brasil-humax-hgj310"
     },
     {
@@ -1365,7 +1425,7 @@
       "source_name": "Claro Brasil — Manual do Usuário F@ST 3895 (official equipment manual)",
       "source_archive_url": "https://web.archive.org/web/20260826051033/https://www.claro.com.br/files/104379/x/77b4815344/manual-do-usuario_fast_3895.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/claro-brasil-sagemcom-fast-3895"
     },
     {
@@ -1385,7 +1445,7 @@
       "source_name": "Claro Brasil — official device-configuration portal (ZTE MF253LV)",
       "source_archive_url": "https://web.archive.org/web/20260827051041/https://configuraraparelhos.claro.com.br/zte/mf253lv/funcoes-basicas/como-acessar-as-configuracoes-do-roteador-com-o-computador",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/claro-brasil-zte-mf253lv"
     },
     {
@@ -1405,7 +1465,7 @@
       "source_name": "Xfinity Support — \"Change your WiFi network name and password with the Xfinity WiFi Gateway Admin Tool\"",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/xfinity-xfi-gateway-xb10"
     },
     {
@@ -1425,7 +1485,7 @@
       "source_name": "COMFAST official — CF-EW73 Outdoor AP Quick Installation Guide",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/comfast-cf-ew73"
     },
     {
@@ -1445,7 +1505,7 @@
       "source_name": "COMFAST (Shenzhen Four Seas Global Link Network Technology) — CF-WR627AX Quick Installation Guide (official)",
       "source_archive_url": "https://web.archive.org/web/20260827051137/https://www.comfast.cn/uploadfile/2022/0321/CF-WR627AXManual.pdf",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/comfast-cf-wr627ax"
     },
     {
@@ -1465,7 +1525,7 @@
       "source_name": "COMFAST (Shenzhen Four Seas Global Link Network Technology) — Wireless Extender/Repeater Quick Installation Guide (official)",
       "source_archive_url": "https://web.archive.org/web/20260826051332/https://www.comfast.cn/uploadfile/2022/0321/CF-WR773BEV2Manual.pdf",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/comfast-cf-wr773be-v2"
     },
     {
@@ -1485,7 +1545,7 @@
       "source_name": "Cox Residential Support — Setting up WiFi with the Panoramic WiFi Gateway",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/cox-panoramic-wifi-gateway"
     },
     {
@@ -1503,9 +1563,9 @@
       "reset_steps": "Reset: with the router powered on, press and hold the RESET button for 10-15 seconds until the LEDs blink, then release and wait for reboot. Browse to http://cudy.net or 192.168.10.1 and set a new admin password.",
       "source_url": "https://www.cudy.com/en-us/blogs/faq/how-to-log-into-the-web-interface-of-cudy-router",
       "source_name": "Cudy Official FAQ - How to log into the web interface of Cudy Router",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260828051030/https://www.cudy.com/en-us/blogs/faq/how-to-log-into-the-web-interface-of-cudy-router",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/cudy-wr3000"
     },
     {
@@ -1525,7 +1585,7 @@
       "source_name": "D-Link — Default username and password for my ADSL modem/router",
       "source_archive_url": "https://web.archive.org/web/20260826051437/https://www.dlink.com/us/en/support/faq/modems/dsl-modems/dsl-series/what-is-the-default-username-and-password-for-my-adsl-modem-router",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-adsl-dsl-series"
     },
     {
@@ -1545,7 +1605,7 @@
       "source_name": "D-Link Support FAQ — How do I log into my router",
       "source_archive_url": "https://web.archive.org/web/20260826051517/https://www.dlink.com/us/en/support/faq/routers/how-do-i-log-into-my-router",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-615"
     },
     {
@@ -1565,7 +1625,7 @@
       "source_name": "D-Link DIR-655 Quick Install Guide (official PDF)",
       "source_archive_url": "https://web.archive.org/web/20260826051554/https://global.dlink.com.sg/site_support/DIR-655/QIG/DIR-655_QIG_v200.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-655"
     },
     {
@@ -1585,7 +1645,7 @@
       "source_name": "D-Link DIR-825 User Manual (official PDF)",
       "source_archive_url": "https://web.archive.org/web/20260827051242/https://www.dlink.com/-/media/Consumer_Products/DIR/DIR%20825/Manual/DIR825C1manual11301130EN.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-825"
     },
     {
@@ -1605,7 +1665,7 @@
       "source_name": "D-Link DIR-882 official User Manual (v1.00)",
       "source_archive_url": "https://web.archive.org/web/20260212141941/https://support.dlink.com/resource/products/DIR-882/REVA/DIR-882-US_REVA_MANUAL_070717_v1.00_US_EN.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-882"
     },
     {
@@ -1625,7 +1685,7 @@
       "source_name": "D-Link DIR-X1560 official User Manual (v1.00)",
       "source_archive_url": "https://web.archive.org/web/20240228211647/https://support.dlink.com/resource/PRODUCTS/DIR-X1560/REVA/DIR-X1560_REVA_MANUAL_v1.00_WW.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-x1560"
     },
     {
@@ -1643,9 +1703,9 @@
       "reset_steps": "Use a paperclip to press and hold the recessed Reset button for longer than 10 seconds to restore default settings, then reconnect to the Wi-Fi on the Quick Installation Card and set up again.",
       "source_url": "https://support.dlink.com/resource/PRODUCTS/DIR-X1870/REVA/DIR-X1870_A1_QIG_v1.01(CA)(press)_90x130.pdf",
       "source_name": "D-Link DIR-X1870 Quick Installation Guide v1.01 — official PDF",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260828051126/https://support.dlink.com/resource/PRODUCTS/DIR-X1870/REVA/DIR-X1870_A1_QIG_v1.01(CA)(press)_90x130.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-x1870"
     },
     {
@@ -1665,7 +1725,7 @@
       "source_name": "D-Link DIR-X3260 REV A1 Quick Installation Guide v1.01 — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260826051724/https://support.dlink.com/resource/products/DIR-X3260/REVA/DIR-X3260_REVA1_QIG_v1.01_(WW).pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-x3260"
     },
     {
@@ -1685,7 +1745,7 @@
       "source_name": "D-Link DIR-X4860 REV A Quick Installation Guide v1.00 — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260827051420/https://support.dlink.com/resource/products/DIR-X4860/REVA/DIR-X4860_REVA_QIG_v1.00_NA.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-x4860"
     },
     {
@@ -1705,7 +1765,7 @@
       "source_name": "D-Link DIR-X5460 Quick Installation Guide v1.10 — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260826051820/https://support.dlink.com/resource/PRODUCTS/DIR-X5460/REVA/DIR-X5460_REVA_QIG_v1.10_US.pdf",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-x5460"
     },
     {
@@ -1725,7 +1785,7 @@
       "source_name": "D-Link Official Support — M15 AX1500 Wi-Fi 6 AI Mesh Router Quick Installation Guide",
       "source_archive_url": "https://web.archive.org/web/20260826051852/https://support.dlink.com/resource/products/M15/REVA/M15_REVA_QIG_v1.00_US.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-m15"
     },
     {
@@ -1745,7 +1805,7 @@
       "source_name": "D-Link M30 Quick Installation Guide (Rev A1) — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260826051922/https://support.dlink.com/resource/PRODUCTS/M30/REVA/M30%20(2%203%20Pack)_A1_QIG_v1.00_EN.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-m30"
     },
     {
@@ -1765,7 +1825,7 @@
       "source_name": "D-Link M60 Quick Installation Guide (Rev A1) — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260826051951/https://support.dlink.com/resource/PRODUCTS/M60/REVA/M60_A1_QIG_v1.00.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/d-link-m60"
     },
     {
@@ -1785,7 +1845,7 @@
       "source_name": "Telekom Hilfe — Persönliches Kennwort in Speedport eintragen (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/deutsche-telekom-speedport-pro-plus"
     },
     {
@@ -1805,7 +1865,7 @@
       "source_name": "Telekom Hilfe — Gerätepasswort und WLAN-Schlüssel (Speedport)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/deutsche-telekom-speedport-smart"
     },
     {
@@ -1825,7 +1885,7 @@
       "source_name": "Deutsche Telekom Speedport Smart 3 Bedienungsanleitung — official (telekom.de)",
       "source_archive_url": "https://web.archive.org/web/20260826052154/https://www.telekom.de/hilfe/downloads/bedienungsanleitung-speedport-smart-3.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/deutsche-telekom-speedport-smart-3"
     },
     {
@@ -1845,7 +1905,7 @@
       "source_name": "Telekom Bedienungsanleitung — Speedport Smart 4 Plus (telekom.de, official)",
       "source_archive_url": "https://web.archive.org/web/20260729073420/https://www.telekom.de/hilfe/downloads/kurzanleitung-speedport-smart-4-plus.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/deutsche-telekom-speedport-smart-4-plus"
     },
     {
@@ -1865,7 +1925,7 @@
       "source_name": "devolo Magic 1 WiFi mini — official user manual",
       "source_archive_url": "https://web.archive.org/web/20260729073238/https://www.devolo.com/media/e1/97/37/1779437604/Manual_devolo_Magic_1_WiFi_mini_DE_EN_FR_ES_NL_online.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/devolo-magic-1-wifi-mini"
     },
     {
@@ -1885,7 +1945,7 @@
       "source_name": "devolo — Manual devolo Magic 2 WiFi 6 next (official PDF, devolo.com)",
       "source_archive_url": "https://web.archive.org/web/20260827051656/https://www.devolo.com/media/fa/30/62/1779284429/devolo_Magic_2_WiFi_6_next_DE_EN_ES_FR_NL.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/devolo-magic-2-wifi-6-next"
     },
     {
@@ -1905,7 +1965,7 @@
       "source_name": "devolo — Manual devolo Magic 2 WiFi next (official PDF)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/devolo-magic-2-wifi-next"
     },
     {
@@ -1925,7 +1985,7 @@
       "source_name": "DrayTek Vigor2135 Series Quick Start Guide v1.1 (official)",
       "source_archive_url": "https://web.archive.org/web/20260827051751/https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2135_RF_V1.1_(01).pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/draytek-vigor2135"
     },
     {
@@ -1945,7 +2005,7 @@
       "source_name": "DrayTek Vigor2765 35b Series Quick Start Guide v1.8 (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/draytek-vigor2765"
     },
     {
@@ -1965,7 +2025,7 @@
       "source_name": "DrayTek Vigor2865 Quick Start Guide (official)",
       "source_archive_url": "https://web.archive.org/web/20260729072251/https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2865_Wired_V2.0.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/draytek-vigor2865"
     },
     {
@@ -1985,7 +2045,7 @@
       "source_name": "DrayTek Vigor2927 Quick Start Guide (official)",
       "source_archive_url": "https://web.archive.org/web/20260729072244/https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2927_Wired_V1.82.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/draytek-vigor2927"
     },
     {
@@ -2005,7 +2065,7 @@
       "source_name": "DrayTek Vigor3910 Series Quick Start Guide v1.7 (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/draytek-vigor3910"
     },
     {
@@ -2025,7 +2085,7 @@
       "source_name": "DrayTek VigorAP 903 802.11ac Access Point Quick Start Guide V2.1 (official)",
       "source_archive_url": "https://web.archive.org/web/20260729074132/https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_VigorAP%20903_V2.1.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/draytek-vigorap-903"
     },
     {
@@ -2045,7 +2105,7 @@
       "source_name": "Eastlink — How to change your WiFi network name & password (official support site)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/eastlink-cable-modem-gateway"
     },
     {
@@ -2065,8 +2125,28 @@
       "source_name": "Edimax BR-6428nS V5 User Manual (v1.3, 08-2021) — download.edimax.com (official)",
       "source_archive_url": "https://web.archive.org/web/20260729073312/https://download.edimax.com/mw/cufiles/files/download/manual/BR-6428nS_V5/BR-6428nS_V5_User_Manual_EN.pdf",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/edimax-br-6428ns-v5"
+    },
+    {
+      "slug": "edimax-br-6473ax",
+      "brand": "Edimax",
+      "model": "BR-6473AX (AX3000)",
+      "category": "router",
+      "default_gateway_ip": "192.168.2.1",
+      "default_login_host": null,
+      "default_username": "admin",
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "label-unique",
+      "credential_note": "AX3000 dual-band Wi-Fi 6 smart router, configurable in AP or Router mode — a newer Wi-Fi 6 SKU above the already-seeded BR-6428NS V5 (static admin/1234). Official Edimax user manual: \"Default User Name: admin\" and a \"unique 8 digits default Password\" shown on the device sticker, with access via \"the default IP 192.168.2.1 (In AP Mode)\" — a device-unique label password, not a shared static default.",
+      "reset_steps": "Press and hold the reset button for approximately 10 seconds until the device reboots to factory defaults; log in with username admin and the unique 8-digit password printed on the device sticker at 192.168.2.1 (AP mode).",
+      "source_url": "https://www.edimax.com/edimax/mw/cufiles/files/download/manual/BR-6473AX_UserManual_English.pdf",
+      "source_name": "Edimax Official — BR-6473AX User Manual",
+      "source_archive_url": null,
+      "confidence": "medium",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/edimax-br-6473ax"
     },
     {
       "slug": "ee-smart-hub",
@@ -2085,7 +2165,7 @@
       "source_name": "EE Broadband Help — Change the WiFi and admin password on your Hub",
       "source_archive_url": "https://web.archive.org/web/20260827052150/https://ee.co.uk/help/broadband/manage-use/change-wifi-admin-password",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ee-smart-hub"
     },
     {
@@ -2105,7 +2185,7 @@
       "source_name": "EE Broadband Help — Change the WiFi Password and Admin Password on Your Hub (official)",
       "source_archive_url": "https://web.archive.org/web/20260827052150/https://ee.co.uk/help/broadband/manage-use/change-wifi-admin-password",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ee-smart-hub-plus"
     },
     {
@@ -2125,7 +2205,7 @@
       "source_name": "eero Help Center",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/eero-6-plus"
     },
     {
@@ -2145,7 +2225,7 @@
       "source_name": "eero Help Center",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/eero-max-7"
     },
     {
@@ -2165,7 +2245,7 @@
       "source_name": "eero Help Center",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/eero-pro-6"
     },
     {
@@ -2185,7 +2265,7 @@
       "source_name": "eero Help Center",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/eero-pro-6e"
     },
     {
@@ -2205,7 +2285,7 @@
       "source_name": "eir fibre box F5366s User Manual (Sagemcom, hosted on eir.ie) — official",
       "source_archive_url": "https://web.archive.org/web/20260827052459/https://www.eir.ie/opencms/export/sites/support/.galleries/pdfs/support-pdfs/user_manual_f3000.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/eir-fibre-box-f5366s"
     },
     {
@@ -2225,7 +2305,7 @@
       "source_name": "Doctor EnGenius Help Center (default IP, username and password)",
       "source_archive_url": "https://web.archive.org/web/20260827052528/https://doctorengenius.engeniustech.com/en/articles/6708892-what-is-the-default-ip-username-and-password-for-engenius-devices",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/engenius-standalone-ap"
     },
     {
@@ -2245,7 +2325,7 @@
       "source_name": "Etisalat UAE — ADSL Routers Configuration guide (Aztech 605EW, ADSL & GPON, official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/etisalat-aztech-605ew"
     },
     {
@@ -2265,7 +2345,7 @@
       "source_name": "Etisalat UAE — Aztech HW550-3G Configuration Manual",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/etisalat-aztech-hw550-3g"
     },
     {
@@ -2285,7 +2365,7 @@
       "source_name": "Firewalla Help Center — Web Interfaces for Firewalla (official)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/firewalla-blue-plus"
     },
     {
@@ -2305,7 +2385,7 @@
       "source_name": "Firewalla Help Center — Firewalla Gold Series Installation Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/firewalla-gold"
     },
     {
@@ -2325,7 +2405,7 @@
       "source_name": "Firewalla Help Center — Web Interfaces for Firewalla",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/firewalla-purple"
     },
     {
@@ -2345,8 +2425,68 @@
       "source_name": "Firewalla official product page",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/firewalla-purple-se"
+    },
+    {
+      "slug": "fpt-ac1000f",
+      "brand": "FPT Telecom",
+      "model": "AC1000F",
+      "category": "gateway",
+      "default_gateway_ip": "192.168.1.1",
+      "default_login_host": null,
+      "default_username": null,
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "label-unique",
+      "credential_note": "FPT Telecom-issued FTTH WiFi modem/router supplied to residential fiber subscribers in Vietnam; admin login at 192.168.1.1. FPT's official setup guide: \"Account mặc định: xem dưới đáy modem hoặc gọi lên tổng đài FPT Telecom.\" (\"Default account: see [it printed] on the underside of the modem, or call the FPT Telecom hotline.\") — no universal static default; each unit ships with its own printed credential.",
+      "reset_steps": "FPT's guide gives no self-serve factory-reset procedure and directs customers who can't read the label to call the FPT Telecom hotline; a hardware reset via the recessed pinhole on the rear restores the printed label credentials but also clears PPPoE/VLAN provisioning.",
+      "source_url": "https://fpt.vn/storage/upload/files/documents/setting-guides/ac1000f/huong_dan_doi_mat_khau_wifi_modem_ac1000f.pdf",
+      "source_name": "FPT Telecom — official setting guide (fpt.vn)",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/fpt-ac1000f"
+    },
+    {
+      "slug": "fpt-ax3000c",
+      "brand": "FPT Telecom",
+      "model": "AX3000C / AX3000Cv2",
+      "category": "gateway",
+      "default_gateway_ip": "192.168.100.1",
+      "default_login_host": null,
+      "default_username": null,
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "label-unique",
+      "credential_note": "Wi-Fi 6 mesh-capable gateway issued by FPT Telecom (Vietnam) to fiber subscribers — the top tier of FPT's lineup, with a distinct gateway IP (192.168.100.1) from FPT's other modem models (192.168.1.1). FPT's official install/config manual: \"Địa chỉ GW mặc định: 192.168.100.1. Tên đăng nhập và mật khẩu in trên nhãn mặt sau thiết bị\" (\"Default GW address: 192.168.100.1. Username and password are printed on the label on the back of the device\").",
+      "reset_steps": "Not detailed beyond noting the admin panel supports password changes at Home > System > Change Password; recovering a lost label credential requires a hardware reset or a call to FPT support since resetting also drops WAN/Mesh configuration.",
+      "source_url": "https://fpt.vn/storage/upload/files/documents/huong-dan-cai-dat-va-cau-hinh-ax3000c-ax3000cv2.pdf",
+      "source_name": "FPT Telecom — official install/config guide (fpt.vn)",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/fpt-ax3000c"
+    },
+    {
+      "slug": "fpt-hub-n300m",
+      "brand": "FPT Telecom",
+      "model": "Hub N300M",
+      "category": "gateway",
+      "default_gateway_ip": "192.168.1.1",
+      "default_login_host": null,
+      "default_username": null,
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "label-unique",
+      "credential_note": "Entry-level FPT Telecom-issued WiFi modem for FTTH/broadband subscribers in Vietnam — the budget tier below the AC1000F and AX3000C in FPT's own lineup. FPT's official guide: \"Username/Password mặc định: xem dưới đáy modem hoặc gọi lên tổng đài FPT Telecom\" (\"Default username/password: see underneath the modem, or call the FPT Telecom hotline\"). No universal static default.",
+      "reset_steps": "FPT's guide does not describe a factory-reset procedure; it directs customers to check the underside label or call the FPT Telecom hotline if the printed credential can't be found.",
+      "source_url": "https://fpt.vn/storage/upload/files/documents/setting-guides/hub_n300m/huong_dan_doi_mat_khau_wifi_modem_hub_n300m.pdf",
+      "source_name": "FPT Telecom — official setting guide (fpt.vn)",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/fpt-hub-n300m"
     },
     {
       "slug": "free-freebox",
@@ -2365,7 +2505,7 @@
       "source_name": "Assistance Free — Freebox OS : accéder à Freebox OS depuis mon domicile (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/free-freebox"
     },
     {
@@ -2385,7 +2525,7 @@
       "source_name": "Frontier Help Center — Change Your Wi-Fi Network Name and Password",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/frontier-fiberoptic-router"
     },
     {
@@ -2405,7 +2545,7 @@
       "source_name": "GL.iNet Official Docs - Beryl AX (GL-MT3000) User Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/gl-inet-gl-mt3000-beryl-ax"
     },
     {
@@ -2425,7 +2565,7 @@
       "source_name": "GL.iNet Official Docs - Flint (GL-AX1800) User Guide",
       "source_archive_url": "https://web.archive.org/web/20260727084336/https://docs.gl-inet.com/router/en/4/user_guide/gl-ax1800/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/gl-inet-gl-ax1800-flint"
     },
     {
@@ -2445,7 +2585,7 @@
       "source_name": "GL.iNet official router docs (GL-MT6000)",
       "source_archive_url": "https://web.archive.org/web/20260727124436/https://docs.gl-inet.com/router/en/4/user_guide/gl-mt6000/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/gl-inet-gl-mt6000-flint-2"
     },
     {
@@ -2465,7 +2605,7 @@
       "source_name": "GL.iNet Official Docs - Slate AX (GL-AXT1800) User Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/gl-inet-gl-axt1800-slate-ax"
     },
     {
@@ -2485,7 +2625,7 @@
       "source_name": "Google Nest Help — Set up Nest Wifi",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/google-nest-wifi"
     },
     {
@@ -2505,7 +2645,7 @@
       "source_name": "Google Nest Help",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/google-nest-wifi-pro"
     },
     {
@@ -2525,7 +2665,7 @@
       "source_name": "Google Fiber Support — \"Set Up Your GFiber Wi-Fi 7 Router\"",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/google-fiber-wifi-7-router-grbe331c"
     },
     {
@@ -2545,7 +2685,7 @@
       "source_name": "Grandstream GWN7062 & GWN7052/F User Manual — documentation.grandstream.com (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7052"
     },
     {
@@ -2565,8 +2705,28 @@
       "source_name": "Grandstream GWN7062 & GWN7052/F User Manual — documentation.grandstream.com (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7062"
+    },
+    {
+      "slug": "grandstream-gwn7605",
+      "brand": "Grandstream",
+      "model": "GWN7605",
+      "category": "ap",
+      "default_gateway_ip": null,
+      "default_login_host": null,
+      "default_username": "admin",
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "label-unique",
+      "credential_note": "802.11ac Wave-2 2x2:2 dual-band Wi-Fi 5 AP, 1.27Gbps aggregate throughput, dual Gigabit PoE/PoE+ ports — a genuinely lower tier than the already-seeded GWN7625/GWN7630 (3x3:3-4x4:4 MU-MIMO, 1.75Gbps aggregate). Official quick installation guide: \"The default administrator username is 'admin' and the default random password can be found at the sticker on the GWN7605\" and \"GWN7605's default SSID and password information are printed on the MAC tag of the unit.\" No fixed default IP — access is via https://gwn_<MAC>.local or Grandstream's GWN Discovery Tool.",
+      "reset_steps": "Press and hold the RESET pinhole button for 7 seconds to restore factory default settings; the admin password is a unique random password printed on the unit's sticker/MAC tag, not a shared default.",
+      "source_url": "https://documentation.grandstream.com/knowledge-base/gwn7605-quick-installation-guide/",
+      "source_name": "Grandstream Documentation Center — GWN7605 Quick Installation Guide",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/grandstream-gwn7605"
     },
     {
       "slug": "grandstream-gwn7625",
@@ -2585,7 +2745,7 @@
       "source_name": "Grandstream Official Documentation Center — GWN7625 Quick Installation Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7625"
     },
     {
@@ -2605,7 +2765,7 @@
       "source_name": "Grandstream Official Documentation Center — GWN7630 Quick Installation Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7630"
     },
     {
@@ -2625,7 +2785,7 @@
       "source_name": "Grandstream GWN7660 Quick Installation Guide — documentation.grandstream.com (official)",
       "source_archive_url": "https://web.archive.org/web/20260729074046/https://documentation.grandstream.com/knowledge-base/gwn7660-quick-installation-guide/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7660"
     },
     {
@@ -2645,7 +2805,7 @@
       "source_name": "Grandstream GWN7660E Quick Installation Guide — official",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7660e"
     },
     {
@@ -2665,7 +2825,7 @@
       "source_name": "Grandstream GWN7660LR Quick Installation Guide — documentation.grandstream.com (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7660lr"
     },
     {
@@ -2685,7 +2845,7 @@
       "source_name": "Grandstream GWN7664 Quick Installation Guide (official)",
       "source_archive_url": "https://web.archive.org/web/20231206041200/https://documentation.grandstream.com/knowledge-base/gwn7664-quick-installation-guide/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7664"
     },
     {
@@ -2705,7 +2865,7 @@
       "source_name": "H3C official — Magic R1 300M无线路由器 用户手册",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/h3c-magic-r1-300m"
     },
     {
@@ -2725,7 +2885,7 @@
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/izzi-hitron-cgnv5"
     },
     {
@@ -2745,8 +2905,28 @@
       "source_name": "izzi Ayuda — Conoce tu usuario y contraseña de tu módem izzi",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/izzi-hitron-chita-3-1"
+    },
+    {
+      "slug": "izzi-hitron-cve30360",
+      "brand": "Hitron",
+      "model": "CVE30360 (izzi México gateway)",
+      "category": "gateway",
+      "default_gateway_ip": "192.168.0.1",
+      "default_login_host": null,
+      "default_username": "admin",
+      "default_password": "admin",
+      "default_password_blank": false,
+      "credential_type": "static",
+      "credential_note": "Hitron CVE30360 DOCSIS cable gateway issued by izzi México — a genuine admin/admin static default, distinct from the cusadmin/password pattern used by izzi's other Hitron model (CHITA 3.1). izzi's official credentials page has a dedicated section for this model: \"en el apartado Nombre de usuario ingresa la palabra admin, y en el apartado Clave ingresa la palabra admin (recuerda ingresar en minúsculas la palabra admin).\"",
+      "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/izzi-hitron-cve30360"
     },
     {
       "slug": "hkbn-5g-cpe-pro-3",
@@ -2765,8 +2945,68 @@
       "source_name": "HKBN Enterprise Solutions official — 5G CPE Pro 3 Router Configuration Guide V1.1",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/hkbn-5g-cpe-pro-3"
+    },
+    {
+      "slug": "honor-router-3-se",
+      "brand": "Honor",
+      "model": "Router 3 SE",
+      "category": "router",
+      "default_gateway_ip": "192.168.3.1",
+      "default_login_host": null,
+      "default_username": null,
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "set-on-setup",
+      "credential_note": "Dual-core router, dual-band (2.4GHz 300Mbps / 5GHz 1201Mbps Wi-Fi 6), 4x Gigabit auto-sensing WAN/LAN ports — entry tier below Router 4/4 Pro. Official Honor support article (applicable models explicitly listed as 荣耀路由4 Pro/3 SE/4/X3 Pro): \"路由器的 Web 配置界面的登录密码默认未加密，连接路由器 Wi-Fi 即可自动连接成功\" (the router's web configuration login password is unset by default; connecting to the router's Wi-Fi reaches the interface without a password) — users set both a Wi-Fi and a login password in the first-time wizard.",
+      "reset_steps": "Press and hold the physical reset button (or trigger factory reset via the Honor Smart Space app) until the indicator light changes; the router reboots to an open, unsecured default Wi-Fi network requiring the setup wizard to be completed again at 192.168.3.1.",
+      "source_url": "https://www.honor.com/cn/support/content/zh-cn15811423/",
+      "source_name": "Honor Official Support — 路由器 Web 配置界面的登录密码",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/honor-router-3-se"
+    },
+    {
+      "slug": "honor-router-4",
+      "brand": "Honor",
+      "model": "Router 4",
+      "category": "router",
+      "default_gateway_ip": "192.168.3.1",
+      "default_login_host": null,
+      "default_username": null,
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "set-on-setup",
+      "credential_note": "Gigabit dual-band home Wi-Fi router managed via the Honor Smart Space app — mid tier below Router 4 Pro. Official Honor support article (applicable models explicitly listed as 荣耀路由4 Pro/3 SE/4/X3 Pro): \"路由器的 Web 配置界面的登录密码默认未加密，连接路由器 Wi-Fi 即可自动连接成功\" (the login password is unset by default). A companion article confirms the config address is 192.168.3.1, noting operator-branded variants may use a different address (check the nameplate).",
+      "reset_steps": "Press and hold the physical reset button (or trigger factory reset via the Honor Smart Space app) until the indicator light changes; the router reboots to an open, unsecured default Wi-Fi network requiring the setup wizard to be completed again at 192.168.3.1.",
+      "source_url": "https://www.honor.com/cn/support/content/zh-cn15811423/",
+      "source_name": "Honor Official Support — 路由器 Web 配置界面的登录密码",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/honor-router-4"
+    },
+    {
+      "slug": "honor-router-4-pro",
+      "brand": "Honor",
+      "model": "Router 4 Pro",
+      "category": "router",
+      "default_gateway_ip": "192.168.3.1",
+      "default_login_host": null,
+      "default_username": null,
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "set-on-setup",
+      "credential_note": "AX3000 Wi-Fi 6 router (Qualcomm IPQ5018 chipset, 256MB RAM / 128MB flash), Honor's top router tier. Official Honor support article (applicable models explicitly listed as 荣耀路由4 Pro/3 SE/4/X3 Pro): \"路由器的 Web 配置界面的登录密码默认未加密，连接路由器 Wi-Fi 即可自动连接成功\" (the login password is unset by default). A companion article specific to Router 4/4 Pro confirms the config address is 192.168.3.1.",
+      "reset_steps": "Press and hold the physical reset button (or trigger factory reset via the Honor Smart Space app) until the indicator light changes; the router reboots to an open, unsecured default Wi-Fi network requiring the setup wizard to be completed again at 192.168.3.1.",
+      "source_url": "https://www.honor.com/cn/support/content/zh-cn15811423/",
+      "source_name": "Honor Official Support — 路由器 Web 配置界面的登录密码",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/honor-router-4-pro"
     },
     {
       "slug": "honor-router-5",
@@ -2785,7 +3025,7 @@
       "source_name": "Honor official support — 路由器 Web 配置界面的 IP 地址是多少，如何登录",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/honor-router-5"
     },
     {
@@ -2805,8 +3045,28 @@
       "source_name": "Honor official support — 路由器 Web 配置界面的 IP 地址是多少，如何登录",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/honor-router-x3-pro"
+    },
+    {
+      "slug": "claro-ar-huawei-ax2",
+      "brand": "Huawei",
+      "model": "AX2 (Claro Argentina)",
+      "category": "router",
+      "default_gateway_ip": "192.168.3.1",
+      "default_login_host": null,
+      "default_username": null,
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "set-on-setup",
+      "credential_note": "Huawei AX2 Wi-Fi 6 router, distributed by Claro Argentina — first Argentina row in the dataset. Claro's official support documents it in a Wi-Fi-repeater/extender configuration role with an open unsecured setup SSID and no preset admin password: \"Conectate a la red WiFi abierta llamada 'Huawei' desde los ajustes de tu teléfono.\" / \"Abrí el navegador e ingresá el número 192.168.3.1 para visualizar la página de Huawei.\" / \"Creá una contraseña para tu router Huawei (te servirá para futuras configuraciones).\"",
+      "reset_steps": "Connect to the open out-of-box Wi-Fi network named 'Huawei', browse to 192.168.3.1, select your home Wi-Fi network and enter its password, then create a new admin password for the Huawei router itself — there is no factory-default admin password to recover.",
+      "source_url": "https://asistencia.claro.com.ar/asistencia/servicios-en-tu-casa/internet-wifi/como-configurar-el-router-huawei-ax2-como-repetidor-wifi",
+      "source_name": "Claro Argentina — Asistencia, \"¿Cómo configurar el router Huawei AX2 como repetidor WiFi?\"",
+      "source_archive_url": null,
+      "confidence": "medium",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/claro-ar-huawei-ax2"
     },
     {
       "slug": "entel-chile-huawei-b310",
@@ -2825,7 +3085,7 @@
       "source_name": "Entel Hogar Soporte — Guía Huawei B310",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/entel-chile-huawei-b310"
     },
     {
@@ -2845,7 +3105,7 @@
       "source_name": "Entel Hogar Soporte — Guía Huawei B612",
       "source_archive_url": "https://web.archive.org/web/20260827052644/https://www.entel.cl/hogar/soporte/guia-huawei-b612",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/entel-chile-huawei-b612"
     },
     {
@@ -2865,7 +3125,7 @@
       "source_name": "Huawei official support (router web management login)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/huawei-wifi-ax3"
     },
     {
@@ -2885,7 +3145,7 @@
       "source_name": "Huawei WiFi WS5200 official support page",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/huawei-wifi-ws5200"
     },
     {
@@ -2905,7 +3165,7 @@
       "source_name": "iiNet TG789 Broadband Gateway Quick Setup Guide (help.iinet.net.au, official)",
       "source_archive_url": "https://web.archive.org/web/20240901111826/https://help.iinet.net.au/sites/default/files/2020-02/DES-10210_ii_QSG_Technicolor_TG789_Standard_MAR20_WEB.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/iinet-technicolor-tg789"
     },
     {
@@ -2925,7 +3185,7 @@
       "source_name": "Jio Help — Change JioFiber Router (Wi-Fi/SSID) password",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/jio-jiofiber"
     },
     {
@@ -2945,7 +3205,7 @@
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/izzi-kaon-cg3000"
     },
     {
@@ -2965,7 +3225,7 @@
       "source_name": "au (KDDI) — Quick Settings Web Guide",
       "source_archive_url": "https://web.archive.org/web/20260819051011/https://www.au.com/support/service/internet/guide/service/quickweb/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/au-hikari-bl1000hw"
     },
     {
@@ -2985,7 +3245,7 @@
       "source_name": "au (KDDI) — BL900HW Firmware/Setup Guide",
       "source_archive_url": "https://web.archive.org/web/20260819051049/https://www.au.com/support/service/internet/guide/modem/gateway-08/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/au-hikari-bl900hw"
     },
     {
@@ -3005,7 +3265,7 @@
       "source_name": "Keenetic Support (support.keenetic.com)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/keenetic-giga-kn-1011"
     },
     {
@@ -3025,7 +3285,7 @@
       "source_name": "Keenetic Support (support.keenetic.com)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/keenetic-hopper-kn-3811"
     },
     {
@@ -3045,7 +3305,7 @@
       "source_name": "Keenetic Support — Peak (KN-2710): What login and password do I need to enter in the app?",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/keenetic-peak"
     },
     {
@@ -3065,7 +3325,7 @@
       "source_name": "Keenetic Support — Titan (KN-1812): Web Interface",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/keenetic-titan"
     },
     {
@@ -3085,7 +3345,7 @@
       "source_name": "Keenetic Support (support.keenetic.com)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/keenetic-viva-kn-1912"
     },
     {
@@ -3105,7 +3365,7 @@
       "source_name": "Keenetic Support — Sprinter (KN-3710): Web interface (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/keenetic-sprinter-kn-3710"
     },
     {
@@ -3125,7 +3385,7 @@
       "source_name": "Kinetic by Windstream — official support FAQ (Actiontec T3200/T3260/T3280/T4220)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/kinetic-windstream-actiontec-t3200"
     },
     {
@@ -3145,7 +3405,7 @@
       "source_name": "Kinetic by Windstream — official support FAQ (Zyxel VMG4927-B50A)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/kinetic-windstream-zyxel-vmg4927-b50a"
     },
     {
@@ -3165,7 +3425,7 @@
       "source_name": "Linksys Atlas 6 MX2000 Series User Guide — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-atlas-6-mx2000"
     },
     {
@@ -3185,7 +3445,7 @@
       "source_name": "Linksys Official Support — Log in to the Dual-Band WiFi Router's web interface",
       "source_archive_url": "https://web.archive.org/web/20260729065116/https://support.linksys.com/kb/article/378-en/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-e5600"
     },
     {
@@ -3205,7 +3465,7 @@
       "source_name": "Linksys Official Support — Log in to the Dual-Band WiFi Router's web interface",
       "source_archive_url": "https://web.archive.org/web/20260729065116/https://support.linksys.com/kb/article/378-en/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-e7350"
     },
     {
@@ -3225,7 +3485,7 @@
       "source_name": "Linksys Official Support — Log in to the Dual-Band WiFi Router's web interface",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-e8450"
     },
     {
@@ -3245,7 +3505,7 @@
       "source_name": "Linksys Support — Linksys E9450 FAQs (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-e9450"
     },
     {
@@ -3265,7 +3525,7 @@
       "source_name": "Linksys official Support Article 378",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-ea7500"
     },
     {
@@ -3285,7 +3545,7 @@
       "source_name": "Linksys Official Support — Hydra Pro 6E, MR7500 FAQs",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-hydra-pro-6e-mr7500"
     },
     {
@@ -3305,7 +3565,7 @@
       "source_name": "Linksys MAX-STREAM MR8300 User Guide — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-max-stream-mr8300"
     },
     {
@@ -3325,7 +3585,7 @@
       "source_name": "Linksys MR9000 User Guide — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260809221602/https://downloads.linksys.com/support/assets/userguide/MR9000_USERGUIDE_INTL.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-mr9000"
     },
     {
@@ -3345,7 +3605,7 @@
       "source_name": "Linksys Official Support — MR7350 FAQs",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-mr7350"
     },
     {
@@ -3365,7 +3625,7 @@
       "source_name": "Linksys official Support Article 107",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-velop-mx"
     },
     {
@@ -3385,7 +3645,7 @@
       "source_name": "Linksys MX6200 Velop Pro 6E FAQs (official support)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-velop-pro-6e-mx6200"
     },
     {
@@ -3405,7 +3665,7 @@
       "source_name": "Linksys Support Article 335 — MBE7000 Velop Pro 7 FAQs (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-velop-pro-7-mbe7000"
     },
     {
@@ -3425,7 +3685,7 @@
       "source_name": "Linksys official WRT3200ACM User Guide",
       "source_archive_url": "https://web.archive.org/web/20260729065105/https://downloads.linksys.com/downloads/userguide/WRT3200ACM__UG_International.pdf",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-wrt3200acm"
     },
     {
@@ -3445,7 +3705,7 @@
       "source_name": "Linksys WRT54G User Guide (official PDF)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/linksys-wrt54g"
     },
     {
@@ -3465,7 +3725,7 @@
       "source_name": "Mercusys Official - How to log in to the web management page of Halo",
       "source_archive_url": "https://web.archive.org/web/20260729071503/https://www.mercusys.com/en/faq-252/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mercusys-halo-h50g"
     },
     {
@@ -3485,7 +3745,7 @@
       "source_name": "MERCUSYS official FAQ 252 (Halo web login)",
       "source_archive_url": "https://web.archive.org/web/20260729071503/https://www.mercusys.com/en/faq-252/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mercusys-halo-h70x"
     },
     {
@@ -3505,7 +3765,7 @@
       "source_name": "Mercusys Official - How to Log in to the Web Management Page",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mercusys-mr70x"
     },
     {
@@ -3525,7 +3785,7 @@
       "source_name": "Meshforce M3 Setup Guide",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/meshforce-m3"
     },
     {
@@ -3545,7 +3805,7 @@
       "source_name": "MikroTik Documentation — Quick Guide: Chateau 5G ax (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-chateau-5g-ax"
     },
     {
@@ -3565,7 +3825,7 @@
       "source_name": "MikroTik Documentation — Chateau LTE12 User Manual",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-chateau-lte12"
     },
     {
@@ -3585,7 +3845,7 @@
       "source_name": "MikroTik official documentation — hAP ac² manual",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-hap-ac2"
     },
     {
@@ -3605,7 +3865,7 @@
       "source_name": "MikroTik official documentation — hAP ax² manual",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-hap-ax2"
     },
     {
@@ -3625,7 +3885,7 @@
       "source_name": "MikroTik Documentation — hAP ax3 User Manual",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-hap-ax3"
     },
     {
@@ -3645,7 +3905,7 @@
       "source_name": "MikroTik Documentation — hEX User Manual",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-hex-rb750gr3"
     },
     {
@@ -3665,7 +3925,7 @@
       "source_name": "MikroTik Documentation — L009UiGS-2HaxD-IN User Manual",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-l009uigs-2haxd-in"
     },
     {
@@ -3685,7 +3945,7 @@
       "source_name": "MikroTik official RouterOS Knowledge Base — Default password",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-rb4011"
     },
     {
@@ -3705,7 +3965,7 @@
       "source_name": "MikroTik Documentation — RB5009UG+S+IN User Manual",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-rb5009"
     },
     {
@@ -3725,7 +3985,7 @@
       "source_name": "MikroTik Documentation — wAP ax User Manual",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/mikrotik-wap-ax"
     },
     {
@@ -3745,7 +4005,7 @@
       "source_name": "Motorola Home Networking Support (MB8611 admin login)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/motorola-mb8611"
     },
     {
@@ -3765,7 +4025,7 @@
       "source_name": "Motorola MG8702 official User Manual",
       "source_archive_url": "https://web.archive.org/web/20260729065357/https://en-us.support.motorola.com/ci/fattach/get/82900553/1703022460/redirect/1/filename/MG8702-UserManual.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/motorola-mg8702"
     },
     {
@@ -3785,7 +4045,7 @@
       "source_name": "Movistar Colombia — Configuración del router: la guía definitiva (official blog)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/movistar-colombia-standard-router"
     },
     {
@@ -3805,7 +4065,7 @@
       "source_name": "Aussie Broadband Help Centre — How to set up your Netcomm NF20MESH",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netcomm-nf20mesh-aussie-broadband"
     },
     {
@@ -3825,7 +4085,7 @@
       "source_name": "Netgate official documentation — Netgate 1541 Getting Started",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgate-1541"
     },
     {
@@ -3845,7 +4105,7 @@
       "source_name": "Netgate 4100 Security Gateway — Initial Configuration (official documentation)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgate-4100"
     },
     {
@@ -3865,7 +4125,7 @@
       "source_name": "Netgate 6100 Security Gateway — Initial Configuration (official documentation)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgate-6100"
     },
     {
@@ -3885,7 +4145,7 @@
       "source_name": "Netgate 8200 Security Gateway — Initial Configuration (official documentation)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgate-8200"
     },
     {
@@ -3905,7 +4165,7 @@
       "source_name": "Netgate 1100 Security Gateway Manual (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgate-sg-1100"
     },
     {
@@ -3925,7 +4185,7 @@
       "source_name": "Netgate 2100 Security Gateway Manual (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgate-sg-2100"
     },
     {
@@ -3945,7 +4205,7 @@
       "source_name": "NETGEAR Support (How do I log in to my NETGEAR cable modem)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-cm1000"
     },
     {
@@ -3965,7 +4225,7 @@
       "source_name": "NETGEAR Support (How do I log in to my NETGEAR cable modem)",
       "source_archive_url": "https://web.archive.org/web/20260729071327/https://kb.netgear.com/000059644/How-do-I-log-in-to-my-NETGEAR-cable-modem",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-cm2000"
     },
     {
@@ -3985,7 +4245,7 @@
       "source_name": "NETGEAR Support — How do I log in to my NETGEAR cable modem? (CM3000 listed under Applicable Models)",
       "source_archive_url": "https://web.archive.org/web/20260727184453/https://kb.netgear.com/000059644/How-do-I-log-in-to-my-NETGEAR-cable-modem",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-cm3000"
     },
     {
@@ -4005,7 +4265,7 @@
       "source_name": "NETGEAR DGN2200 User Manual (official PDF)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-dgn2200"
     },
     {
@@ -4025,7 +4285,7 @@
       "source_name": "NETGEAR CM1200 User Manual — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-cm1200"
     },
     {
@@ -4045,7 +4305,7 @@
       "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-mk63"
     },
     {
@@ -4065,7 +4325,7 @@
       "source_name": "NETGEAR official KB 1148 (Default UI passwords)",
       "source_archive_url": "https://web.archive.org/web/20260729064837/https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r6700"
     },
     {
@@ -4085,7 +4345,7 @@
       "source_name": "NETGEAR official KB 1148 (Default UI passwords)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r7000"
     },
     {
@@ -4105,7 +4365,7 @@
       "source_name": "NETGEAR Nighthawk R7000P User Manual — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r7000p"
     },
     {
@@ -4125,7 +4385,7 @@
       "source_name": "NETGEAR Nighthawk RAX20 User Manual — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax20"
     },
     {
@@ -4145,7 +4405,7 @@
       "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax200"
     },
     {
@@ -4165,7 +4425,7 @@
       "source_name": "NETGEAR Nighthawk AX2400 WiFi 6 Router (RAX30) User Manual — official",
       "source_archive_url": "https://web.archive.org/web/20260731035530/https://www.downloads.netgear.com/files/GDC/RAX30/RAX30_UM_EN.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax30"
     },
     {
@@ -4185,7 +4445,7 @@
       "source_name": "NETGEAR Nighthawk RAX35 User Manual — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax35"
     },
     {
@@ -4205,7 +4465,7 @@
       "source_name": "NETGEAR Nighthawk AX4 AX3000 WiFi Router (RAX40) User Manual — official",
       "source_archive_url": "https://web.archive.org/web/20260802221524/https://www.downloads.netgear.com/files/GDC/RAX40/RAX40_UM_EN.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax40"
     },
     {
@@ -4225,7 +4485,7 @@
       "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax43"
     },
     {
@@ -4245,7 +4505,7 @@
       "source_name": "NETGEAR Support — How do I log in to my NETGEAR home router? (applies to Nighthawk RAX45)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax45"
     },
     {
@@ -4265,7 +4525,7 @@
       "source_name": "NETGEAR official KB 1148 (Default UI passwords)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax50"
     },
     {
@@ -4285,7 +4545,7 @@
       "source_name": "NETGEAR Nighthawk RAX54S User Manual — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax54s"
     },
     {
@@ -4305,7 +4565,7 @@
       "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax70"
     },
     {
@@ -4325,7 +4585,7 @@
       "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rax80"
     },
     {
@@ -4345,7 +4605,7 @@
       "source_name": "NETGEAR Nighthawk AXE7800 RAXE300 User Manual (202-12252-01) — official",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-raxe300"
     },
     {
@@ -4365,7 +4625,7 @@
       "source_name": "NETGEAR Nighthawk RAXE450/RAXE500 User Manual — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-raxe450"
     },
     {
@@ -4385,7 +4645,7 @@
       "source_name": "NETGEAR official KB 1148 (Default UI passwords)",
       "source_archive_url": "https://web.archive.org/web/20260729064837/https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-raxe500"
     },
     {
@@ -4405,7 +4665,7 @@
       "source_name": "NETGEAR official KB 1148 (Default UI passwords)",
       "source_archive_url": "https://web.archive.org/web/20260729064837/https://kb.netgear.com/1148/What-are-the-default-user-interface-passwords-for-NETGEAR-devices",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-rs700"
     },
     {
@@ -4425,7 +4685,7 @@
       "source_name": "NETGEAR Nighthawk X6 R8000 User Manual — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r8000"
     },
     {
@@ -4445,7 +4705,7 @@
       "source_name": "NETGEAR KB 31014 — Change your Orbi WiFi System's admin login password",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-orbi-rbk50"
     },
     {
@@ -4465,7 +4725,7 @@
       "source_name": "NETGEAR KB 31014 — Change your Orbi WiFi System's admin login password",
       "source_archive_url": "https://web.archive.org/web/20260729065908/https://kb.netgear.com/31014/How-do-I-change-my-Orbi-WiFi-System-s-admin-login-password",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-orbi-rbk752"
     },
     {
@@ -4485,7 +4745,7 @@
       "source_name": "NETGEAR Orbi RBR760/RBS760 User Manual — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-orbi-rbk762s"
     },
     {
@@ -4505,7 +4765,7 @@
       "source_name": "NETGEAR KB 31014 — Change your Orbi WiFi System's admin login password",
       "source_archive_url": "https://web.archive.org/web/20260729065908/https://kb.netgear.com/31014/How-do-I-change-my-Orbi-WiFi-System-s-admin-login-password",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-orbi-rbk763"
     },
     {
@@ -4525,7 +4785,7 @@
       "source_name": "NETGEAR KB 31014 — Change your Orbi WiFi System's admin login password",
       "source_archive_url": "https://web.archive.org/web/20260729065908/https://kb.netgear.com/31014/How-do-I-change-my-Orbi-WiFi-System-s-admin-login-password",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-orbi-rbk852"
     },
     {
@@ -4545,7 +4805,7 @@
       "source_name": "NETGEAR Support — How do I set up my Orbi WiFi System? (applies to RBK853)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-orbi-rbk853"
     },
     {
@@ -4565,7 +4825,7 @@
       "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-r6120"
     },
     {
@@ -4585,7 +4845,7 @@
       "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-r6260"
     },
     {
@@ -4605,7 +4865,7 @@
       "source_name": "NETGEAR KB 1148 — Default user interface passwords for NETGEAR devices",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-r6900"
     },
     {
@@ -4625,7 +4885,7 @@
       "source_name": "NETGEAR Support KB 1148 — Default UI passwords",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-wndr3400"
     },
     {
@@ -4645,7 +4905,7 @@
       "source_name": "NETGEAR Support KB 1148 — Default UI passwords",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-wndr3700"
     },
     {
@@ -4665,7 +4925,7 @@
       "source_name": "NETGEAR Support KB 1148 — Default UI passwords",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netgear-wnr2000"
     },
     {
@@ -4685,7 +4945,7 @@
       "source_name": "Netis Official Support FAQ",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/netis-wf2419"
     },
     {
@@ -4705,7 +4965,7 @@
       "source_name": "Nokia WiFi Help Center — Sign in with admin credentials",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/nokia-wifi-beacon"
     },
     {
@@ -4725,7 +4985,7 @@
       "source_name": "NOW Broadband Help — Change Admin Password For Your NOW Broadband Hub (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/now-broadband-hub"
     },
     {
@@ -4745,7 +5005,7 @@
       "source_name": "NTT East official — PR-500MI/RS-500MI/RT-500MI 機能詳細ガイド「Web設定」の使いかた",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ntt-east-hgw-500mi"
     },
     {
@@ -4765,7 +5025,7 @@
       "source_name": "NTT West — PR-600KI Setup Guide (起動のしかた)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ntt-west-pr-600ki"
     },
     {
@@ -4785,7 +5045,7 @@
       "source_name": "o2 (Telefónica Deutschland) — Router-Hilfe (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/o2-homebox"
     },
     {
@@ -4805,7 +5065,7 @@
       "source_name": "Optimum — Altice One Settings",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/optimum-altice-one-gateway"
     },
     {
@@ -4825,7 +5085,7 @@
       "source_name": "Optus Official Support — Home Internet WiFi username & password help",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/optus-ultra-wifi-modem"
     },
     {
@@ -4845,7 +5105,7 @@
       "source_name": "Assistance Orange Pro — Livebox 6 et 7 : accéder à l'interface de configuration (official)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/orange-livebox-6"
     },
     {
@@ -4865,7 +5125,7 @@
       "source_name": "Assistance Orange — Livebox 6 et 7 : réinitialiser le mot de passe d'accès à l'interface",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/orange-livebox"
     },
     {
@@ -4885,7 +5145,7 @@
       "source_name": "Peplink Balance User Manual, firmware 8.1.1 (official)",
       "source_archive_url": "https://web.archive.org/web/20260729072300/https://download.peplink.com/manual/peplink-balance-and-mediafast-firmware-manual-8.1.1.pdf",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/peplink-balance-20x"
     },
     {
@@ -4905,7 +5165,7 @@
       "source_name": "Peplink Balance User Manual (Firmware 6.1) — download.peplink.com (official)",
       "source_archive_url": "https://web.archive.org/web/20260727184738/https://download.peplink.com/manual/Peplink_Balance_v6.1_user_manual.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/peplink-balance-310x"
     },
     {
@@ -4925,7 +5185,7 @@
       "source_name": "Peplink Balance User Manual v6.1 — download.peplink.com (official)",
       "source_archive_url": "https://web.archive.org/web/20260727184738/https://download.peplink.com/manual/Peplink_Balance_v6.1_user_manual.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/peplink-balance-380"
     },
     {
@@ -4945,7 +5205,7 @@
       "source_name": "Peplink Balance Multi-WAN Bonding Routers User Manual v6.1 (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/peplink-balance-one"
     },
     {
@@ -4965,7 +5225,7 @@
       "source_name": "Pepwave MAX Series Firmware Manual fw7 (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/peplink-max-br1"
     },
     {
@@ -4985,7 +5245,7 @@
       "source_name": "Pepwave MAX Series User Manual 8.4.0 — download.peplink.com (official)",
       "source_archive_url": "https://web.archive.org/web/20260729073635/https://download.peplink.com/manual/pepwave-max-user-manual-8.4.0.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/peplink-max-br2"
     },
     {
@@ -5005,7 +5265,7 @@
       "source_name": "Pepwave MAX User Manual v6.1 — download.peplink.com (official)",
       "source_archive_url": "https://web.archive.org/web/20260727184706/https://download.peplink.com/manual/Pepwave_MAX_user_manual_v6.1.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/peplink-max-br2-pro"
     },
     {
@@ -5025,7 +5285,7 @@
       "source_name": "Pepwave MAX Series User Manual 8.4.0 — download.peplink.com (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/peplink-max-transit"
     },
     {
@@ -5045,7 +5305,7 @@
       "source_name": "Pepwave Surf SOHO User Manual, firmware 8.3.0 (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/peplink-surf-soho-mk3"
     },
     {
@@ -5065,7 +5325,7 @@
       "source_name": "Plusnet Help — How to use your Plusnet router (Hub One)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/plusnet-hub-one"
     },
     {
@@ -5085,8 +5345,28 @@
       "source_name": "Plusnet Help — How to use your Plusnet router (Hub Two)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/plusnet-hub-two"
+    },
+    {
+      "slug": "globe-prolink-hurricane-6300g",
+      "brand": "Prolink",
+      "model": "Hurricane 6300G (Globe At Home)",
+      "category": "router",
+      "default_gateway_ip": "192.168.1.254",
+      "default_login_host": null,
+      "default_username": "admin",
+      "default_password": "admin",
+      "default_password_blank": false,
+      "credential_type": "static",
+      "credential_note": "Legacy ADSL modem-router that Globe At Home (Globe Telecom, Philippines) issued to broadband subscribers — first Philippines row in the dataset. Globe's current fiber lines use different ONT hardware, so this is historical/legacy coverage, not current standard-issue. Globe's official support page: \"Open a web browser and enter your router's IP address: 192.168.1.254. If a window prompt appears, type admin in the username and password fields\" and \"Remember that your default password is 'admin'.\"",
+      "reset_steps": "Not stated beyond initial login/setup-wizard steps in Globe's guide; the standard Prolink recovery method is a factory reset via the recessed button on the rear panel, which restores the documented admin/admin default.",
+      "source_url": "https://www.globe.com.ph/help/broadband/troubleshooting/prolink-hurricane-6300g.html",
+      "source_name": "Globe Telecom — official Help & Support (globe.com.ph)",
+      "source_archive_url": null,
+      "confidence": "medium",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/globe-prolink-hurricane-6300g"
     },
     {
       "slug": "reyee-rg-ew1200g",
@@ -5105,7 +5385,7 @@
       "source_name": "Ruijie Networks Official - Reyee RG-EW Series Home Wi-Fi Routers FAQs",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/reyee-rg-ew1200g"
     },
     {
@@ -5125,7 +5405,7 @@
       "source_name": "Rogers Support — How to sign in to your Ignite WiFi Gateway/modem and change your admin password",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/rogers-ignite-wifi-gateway-xb"
     },
     {
@@ -5145,7 +5425,7 @@
       "source_name": "Rogers Official Support — Sign into and change the password of your Hitron CODA modem",
       "source_archive_url": "https://web.archive.org/web/20260729072430/https://www.rogers.com/support/internet/how-to-sign-into-and-change-the-password-of-your-hitron-coda-modem",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/rogers-ignite-hitron-coda"
     },
     {
@@ -5165,7 +5445,7 @@
       "source_name": "Ruckus/CommScope Support KB 000012418 — How to factory reset or factory default different types of Ruckus Access Points (official)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ruckus-r350"
     },
     {
@@ -5185,7 +5465,7 @@
       "source_name": "Ruckus Knowledge Base 000006019 — Default IP address for Ruckus devices (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ruckus-r550-unleashed"
     },
     {
@@ -5205,7 +5485,7 @@
       "source_name": "Ruijie Reyee RG-EW3200GX PRO ReyeeOS 1.380 Configuration Guide (V1.0) — reyee.ruijie.com (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/reyee-rg-ew3200gx-pro"
     },
     {
@@ -5225,7 +5505,7 @@
       "source_name": "Ruijie Reyee RG-M32 Mesh Router ReyeeOS 1.317/1.313/1.308 Configuration Guide — reyee.ruijie.com (official)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/reyee-rg-m32"
     },
     {
@@ -5245,7 +5525,7 @@
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/izzi-sagemcom-fast3890"
     },
     {
@@ -5265,7 +5545,7 @@
       "source_name": "SaskTel Support — Logging in to your ARRIS NVG448 gateway (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/sasktel-arris-nvg448"
     },
     {
@@ -5285,7 +5565,7 @@
       "source_name": "SaskTel Support — Logging in to your Green Packet gateway (fusion Internet service) (official)",
       "source_archive_url": "https://web.archive.org/web/20260729074303/https://support.sasktel.com/app/answers/detail/a_id/25843/~/logging-in-to-your-green-packet-gateway-(fusion-internet-service)",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/sasktel-green-packet-gateway"
     },
     {
@@ -5305,7 +5585,7 @@
       "source_name": "SaskTel Support — Logging in to your Huawei B2268H gateway (fusion Internet service) (official)",
       "source_archive_url": "https://web.archive.org/web/20260729074324/https://support.sasktel.com/app/answers/detail/a_id/17308/~/logging-in-to-your-huawei-b2268h-gateway-(fusion-internet-service)",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/sasktel-huawei-b2268h"
     },
     {
@@ -5325,7 +5605,7 @@
       "source_name": "SaskTel Support — Logging in to your Vantiva EGA228B gateway (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/sasktel-vantiva-ega228b"
     },
     {
@@ -5345,7 +5625,7 @@
       "source_name": "SFR — \"Guide d'installation Fibre SFR Box 8X\" (official install guide PDF, static.s-sfr.fr)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/sfr-box-8x"
     },
     {
@@ -5365,7 +5645,7 @@
       "source_name": "SK Broadband Official Blog — Giga WiFi Password Change/Reset Guide",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/sk-broadband-giga-wifi"
     },
     {
@@ -5385,7 +5665,7 @@
       "source_name": "Sky Help — Access your Sky Broadband Hub settings",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/sky-broadband-hub"
     },
     {
@@ -5405,7 +5685,7 @@
       "source_name": "So-net Support — So-net Hikari Connection Setup (PR-500KI ほか)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/so-net-pr-500ki"
     },
     {
@@ -5425,7 +5705,7 @@
       "source_name": "SoftBank official FAQ — SoftBank Airセットアップメニューにアクセスできない場合の対処方法",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/softbank-air-terminal-5"
     },
     {
@@ -5445,7 +5725,7 @@
       "source_name": "SoftBank official FAQ — SoftBank Airセットアップメニューにアクセスできない場合の対処方法",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/softbank-air-terminal-6"
     },
     {
@@ -5465,7 +5745,7 @@
       "source_name": "Spark NZ — Spark Smart Modem 2 support",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/spark-smart-modem-2"
     },
     {
@@ -5485,7 +5765,7 @@
       "source_name": "Spectrum — \"Spectrum WiFi 6 Router User Guide - Version 13\" (official PDF, spectrum.net)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/spectrum-wifi-6-router"
     },
     {
@@ -5505,7 +5785,7 @@
       "source_name": "Spectrum Support — Managing WiFi Router Settings",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/spectrum-sagemcom-rac2v1k"
     },
     {
@@ -5525,7 +5805,7 @@
       "source_name": "Starlink Help Center — Does Starlink have a WiFi router administrator portal? (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/starlink-router"
     },
     {
@@ -5545,7 +5825,7 @@
       "source_name": "Synology — MR2200ac Hardware Installation Guide (PDF)",
       "source_archive_url": "https://web.archive.org/web/20260729071038/https://global.download.synology.com/download/Document/Hardware/HIG/Router/19-year/MR2200ac/enu/Syno_HIG_MR2200ac_enu.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/synology-mr2200ac"
     },
     {
@@ -5565,7 +5845,7 @@
       "source_name": "Synology — RT2600ac Hardware Installation Guide (PDF)",
       "source_archive_url": "https://web.archive.org/web/20260729071022/https://global.download.synology.com/download/Document/Hardware/HIG/Router/17-year/RT2600ac/enu/Syno_HIG_RouterRT2600ac_enu.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/synology-rt2600ac"
     },
     {
@@ -5585,7 +5865,7 @@
       "source_name": "Synology — RT6600ax Hardware Installation Guide (PDF)",
       "source_archive_url": "https://web.archive.org/web/20260729071030/https://global.download.synology.com/download/Document/Hardware/HIG/Router/22-year/RT6600ax/enu/Syno_HIG_RT6600ax_enu.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/synology-rt6600ax"
     },
     {
@@ -5605,7 +5885,7 @@
       "source_name": "Synology — SRM 1.3 Router User's Guide (PDF)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/synology-wrx560"
     },
     {
@@ -5625,7 +5905,7 @@
       "source_name": "T-Mobile Official Support — T-Mobile Internet Gateway Setup",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/t-mobile-home-internet-gateway"
     },
     {
@@ -5645,7 +5925,7 @@
       "source_name": "TalkTalk Help & Support — Change your router admin password",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/talktalk-wifi-hub"
     },
     {
@@ -5665,7 +5945,7 @@
       "source_name": "TalkTalk Help & Support — Change your router admin password",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/talktalk-wifi-hub-black"
     },
     {
@@ -5685,8 +5965,28 @@
       "source_name": "izzi Ayuda — Conoce tu usuario y contraseña de tu módem izzi",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/izzi-technicolor-cga4233"
+    },
+    {
+      "slug": "izzi-technicolor-tc8305c",
+      "brand": "Technicolor",
+      "model": "TC8305C (izzi México gateway)",
+      "category": "gateway",
+      "default_gateway_ip": "10.0.0.1",
+      "default_login_host": null,
+      "default_username": "admin",
+      "default_password": "password",
+      "default_password_blank": false,
+      "credential_type": "static",
+      "credential_note": "Technicolor TC8305C DOCSIS cable gateway issued by izzi México — reached at 10.0.0.1, distinct from the 192.168.0.1 used by izzi's other cable modems. izzi's official credentials page has a dedicated section for this model: \"en el apartado Username, ingresa la palabra admin\" and \"En el apartado Password, deberás ingresar la palabra password (en minúsculas).\"",
+      "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/izzi-technicolor-tc8305c"
     },
     {
       "slug": "vivo-brasil-technicolor-router",
@@ -5705,7 +6005,7 @@
       "source_name": "Vivo Explica — Internet e Wi-Fi: Configurações",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vivo-brasil-technicolor-router"
     },
     {
@@ -5725,7 +6025,7 @@
       "source_name": "Telmex — Guía Rápida de Configuración del Router WS880 (official PDF)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/telmex-infinitum-ws880-router"
     },
     {
@@ -5745,7 +6045,7 @@
       "source_name": "Telstra Official Support — How do I access and use my modem settings?",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/telstra-smart-modem-gen-2"
     },
     {
@@ -5765,7 +6065,7 @@
       "source_name": "Telstra Official Support — How do I access and use my modem settings?",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/telstra-smart-modem-gen-3"
     },
     {
@@ -5785,7 +6085,7 @@
       "source_name": "TELUS Business Support — Troubleshoot: Boost Wi-Fi (TELUS Wi-Fi Hub) (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/telus-wifi-hub"
     },
     {
@@ -5805,7 +6105,7 @@
       "source_name": "Tenda official — How to login to the web management page",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tenda-ac10"
     },
     {
@@ -5825,7 +6125,7 @@
       "source_name": "Tenda Official Support - How to login to the web management page",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tenda-ac21"
     },
     {
@@ -5845,7 +6145,7 @@
       "source_name": "Tenda official — How to login to the web management page",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tenda-ac23"
     },
     {
@@ -5865,7 +6165,7 @@
       "source_name": "Tenda Official Support - How to login to the web management page",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tenda-ac8"
     },
     {
@@ -5885,7 +6185,7 @@
       "source_name": "Tenda Official Support - How to login to the web management page",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tenda-ax12"
     },
     {
@@ -5905,7 +6205,7 @@
       "source_name": "Tenda Official - How to Log into the Management Page/Web UI",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tenda-nova-mw6"
     },
     {
@@ -5925,7 +6225,7 @@
       "source_name": "Tenda Official Support - How to login to the web management page",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tenda-rx3"
     },
     {
@@ -5945,7 +6245,7 @@
       "source_name": "Three Device Support — Three 5G Hub MC801A (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/three-5g-hub-mc801a"
     },
     {
@@ -5965,7 +6265,7 @@
       "source_name": "Totalplay — \"3 formas de mejorar tu señal de internet\" (official blog)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/totalplay-fibra-router"
     },
     {
@@ -5985,7 +6285,7 @@
       "source_name": "Totolink Official - How to modify the user name and password",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/totolink-n300ra"
     },
     {
@@ -6005,7 +6305,7 @@
       "source_name": "TP-Link official Archer A7 & C7 (v5) User Guide (FAQ)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-a7-c7"
     },
     {
@@ -6025,7 +6325,7 @@
       "source_name": "TP-Link Official — Archer AX10 & AX1500 User Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax10"
     },
     {
@@ -6045,7 +6345,7 @@
       "source_name": "TP-Link official Archer AX20 & AX1800 User Guide (FAQ)",
       "source_archive_url": "https://web.archive.org/web/20260226060400/https://www.tp-link.com/us/user-guides/archer-ax20&ax1800_v1/faq",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax21"
     },
     {
@@ -6065,7 +6365,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax23"
     },
     {
@@ -6085,7 +6385,7 @@
       "source_name": "TP-Link official Archer AX50 V1 User Guide (FAQ)",
       "source_archive_url": "https://web.archive.org/web/20260727184252/https://www.tp-link.com/us/user-guides/archer-ax50_v1/faq",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax50"
     },
     {
@@ -6105,7 +6405,7 @@
       "source_name": "TP-Link Official — Archer AX53(EU) Quick Installation Guide V1 (7106511002 REV1.0.1)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax53"
     },
     {
@@ -6125,7 +6425,7 @@
       "source_name": "TP-Link official support (FAQ 87 — Router Login)",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax55"
     },
     {
@@ -6145,7 +6445,7 @@
       "source_name": "TP-Link Archer AX55 Pro (US) V2.0 User Guide — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260809221525/https://static.tp-link.com/upload/manual/2024/202403/20240319/1910013433_Archer%20AX55%20Pro(US)2.0_UG_V1.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax55-pro"
     },
     {
@@ -6165,7 +6465,7 @@
       "source_name": "TP-Link Archer AX72 V1 User Guide (official)",
       "source_archive_url": "https://web.archive.org/web/20260809221508/https://www.tp-link.com/us/user-guides/archer-ax72_v1/chapter-3-log-into-your-router",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax72"
     },
     {
@@ -6185,7 +6485,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax73"
     },
     {
@@ -6205,7 +6505,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-ax90"
     },
     {
@@ -6225,7 +6525,7 @@
       "source_name": "TP-Link official Archer AXE75 v2 Installation & User Guide",
       "source_archive_url": "https://web.archive.org/web/20260729064746/https://www.tp-link.com/us/document/111343/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-axe75"
     },
     {
@@ -6245,7 +6545,7 @@
       "source_name": "TP-Link Archer BE230/BE3600 Installation & User Guide — official",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-be230"
     },
     {
@@ -6265,7 +6565,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-be550"
     },
     {
@@ -6285,7 +6585,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-be800"
     },
     {
@@ -6305,7 +6605,7 @@
       "source_name": "TP-Link Archer BE9300 User Guide REV1.6.0 — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-be9300"
     },
     {
@@ -6325,7 +6625,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-c1200"
     },
     {
@@ -6345,7 +6645,7 @@
       "source_name": "TP-Link — How to Log In to Your TP-Link Router",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-c5"
     },
     {
@@ -6365,7 +6665,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-c54"
     },
     {
@@ -6385,7 +6685,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-c6"
     },
     {
@@ -6405,7 +6705,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-c80"
     },
     {
@@ -6425,7 +6725,7 @@
       "source_name": "TP-Link Official Support — How to log in to the web management page",
       "source_archive_url": "https://web.archive.org/web/20260729064704/https://www.tp-link.com/us/support/faq/87/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-archer-gx90"
     },
     {
@@ -6445,7 +6745,7 @@
       "source_name": "TP-Link Deco BE63 Product & Installation Guide — official",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-be63"
     },
     {
@@ -6465,7 +6765,7 @@
       "source_name": "TP-Link Deco BE65 BE11000 Wi-Fi 7 Mesh System User Guide (1910013361) — official",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-be65"
     },
     {
@@ -6485,7 +6785,7 @@
       "source_name": "TP-Link official FAQ 2641 (Deco web management access)",
       "source_archive_url": "https://web.archive.org/web/20260729071733/https://www.tp-link.com/us/support/faq/2641/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-be85"
     },
     {
@@ -6505,7 +6805,7 @@
       "source_name": "TP-Link Official Support — Deco Setup Guide",
       "source_archive_url": "https://web.archive.org/web/20260729065651/https://www.tp-link.com/us/support/faq/1592/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-m4"
     },
     {
@@ -6525,7 +6825,7 @@
       "source_name": "TP-Link Official Support — Deco Setup Guide",
       "source_archive_url": "https://web.archive.org/web/20260729065651/https://www.tp-link.com/us/support/faq/1592/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-x20"
     },
     {
@@ -6545,7 +6845,7 @@
       "source_name": "TP-Link Official Support — Deco Setup Guide",
       "source_archive_url": "https://web.archive.org/web/20260729065651/https://www.tp-link.com/us/support/faq/1592/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-x50"
     },
     {
@@ -6565,7 +6865,7 @@
       "source_name": "TP-Link Deco X50-Outdoor AX3000 Outdoor Mesh Wi-Fi 6 User Guide (1910013300) — official",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-x50-outdoor"
     },
     {
@@ -6585,7 +6885,7 @@
       "source_name": "TP-Link Official Support — Deco Setup Guide",
       "source_archive_url": "https://web.archive.org/web/20260729065651/https://www.tp-link.com/us/support/faq/1592/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-x55"
     },
     {
@@ -6605,7 +6905,7 @@
       "source_name": "TP-Link official FAQ 2641 (Deco web management access)",
       "source_archive_url": "https://web.archive.org/web/20260729071733/https://www.tp-link.com/us/support/faq/2641/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-x60"
     },
     {
@@ -6625,7 +6925,7 @@
       "source_name": "TP-Link official FAQ 2641 (Deco web management access — applies to Deco X68)",
       "source_archive_url": "https://web.archive.org/web/20260727184312/https://www.tp-link.com/us/support/faq/2641/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-x68"
     },
     {
@@ -6645,7 +6945,7 @@
       "source_name": "TP-Link Deco X75 product page — official",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-x75"
     },
     {
@@ -6665,7 +6965,7 @@
       "source_name": "TP-Link Deco XE200 User Guide REV1.0.0 — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260809221534/https://static.tp-link.com/upload/manual/2022/202209/20220922/1910013222_Deco%20XE200_User%20Guide_REV1.0.0.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-xe200"
     },
     {
@@ -6685,7 +6985,7 @@
       "source_name": "TP-Link Official Support — Deco Setup Guide",
       "source_archive_url": "https://web.archive.org/web/20260729065651/https://www.tp-link.com/us/support/faq/1592/",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-deco-xe75"
     },
     {
@@ -6705,7 +7005,7 @@
       "source_name": "TP-Link Omada Networks Support — How to login to the EAP web management page (standalone mode, official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-eap650"
     },
     {
@@ -6725,7 +7025,7 @@
       "source_name": "TP-Link FAQ 1000 — How do I login to the web management page of the EAP Series products (Standalone mode)? (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-omada-eap225"
     },
     {
@@ -6745,7 +7045,7 @@
       "source_name": "TP-Link official FAQ 1000 — How do I login to the web management page of the EAP Series products (Standalone mode)? (applies to EAP610)",
       "source_archive_url": "https://web.archive.org/web/20260729073149/https://www.tp-link.com/us/support/faq/1000/",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-omada-eap610"
     },
     {
@@ -6765,7 +7065,7 @@
       "source_name": "Movistar Perú — Soporte Técnico Internet Fijo: Cambiar clave WiFi en el Módem-Router (TP-Link)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/movistar-peru-tp-link-w8901g"
     },
     {
@@ -6785,7 +7085,7 @@
       "source_name": "TP-Link TL-WR841N V14 User Guide (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tp-link-tl-wr841n"
     },
     {
@@ -6805,7 +7105,7 @@
       "source_name": "TPG Support — Basic Wi-Fi settings on a TPG modem (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/tpg-nokia-fastmile-3-2-5g"
     },
     {
@@ -6825,7 +7125,7 @@
       "source_name": "Turris Documentation — MOX first setup",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/turris-mox"
     },
     {
@@ -6845,8 +7145,28 @@
       "source_name": "Turris Documentation — First setup on Turris 1.X and Omnia",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/turris-omnia"
+    },
+    {
+      "slug": "izzi-ubee-dvw324",
+      "brand": "Ubee",
+      "model": "DVW324 (izzi México gateway)",
+      "category": "gateway",
+      "default_gateway_ip": "192.168.0.1",
+      "default_login_host": null,
+      "default_username": "user",
+      "default_password": "user",
+      "default_password_blank": false,
+      "credential_type": "static",
+      "credential_note": "Ubee DVW324 DOCSIS cable gateway issued by izzi México — first izzi row with a documented two-tier static default. izzi's official credentials page has a dedicated section for this model: \"en el apartado Username ingresa la palabra user, y en el apartado Password ingresa la palabra user. Si no puedes acceder con user, prueba ingresando la palabra admin en Username y en Password (recuerda ingresarla en minúsculas).\"",
+      "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings. If user/user fails, the documented fallback is admin/admin.",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/izzi-ubee-dvw324"
     },
     {
       "slug": "amplifi-alien",
@@ -6865,7 +7185,7 @@
       "source_name": "AmpliFi Help Center",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/amplifi-alien"
     },
     {
@@ -6885,7 +7205,7 @@
       "source_name": "AmpliFi Help Center",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/amplifi-hd"
     },
     {
@@ -6905,7 +7225,7 @@
       "source_name": "Ubiquiti ER-12 (EdgeRouter 12) Quick Start Guide (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-12"
     },
     {
@@ -6925,7 +7245,7 @@
       "source_name": "Ubiquiti EdgeRouter ER-4 Quick Start Guide (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-4"
     },
     {
@@ -6945,7 +7265,7 @@
       "source_name": "Ubiquiti ER-6P (EdgeRouter 6P) Quick Start Guide (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-6p"
     },
     {
@@ -6965,7 +7285,7 @@
       "source_name": "Ubiquiti EdgeRouter Infinity (ER-8-XG) Quick Start Guide (official, dl.ui.com)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-infinity"
     },
     {
@@ -6985,7 +7305,7 @@
       "source_name": "Ubiquiti ERLite-3 (EdgeRouter Lite) Quick Start Guide (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-lite-er-3"
     },
     {
@@ -7005,7 +7325,7 @@
       "source_name": "Ubiquiti EdgeRouter ER-X Quick Start Guide (official)",
       "source_archive_url": "https://web.archive.org/web/20260729072335/https://dl.ui.com/guides/edgemax/EdgeRouter_ER-X_QSG.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-er-x"
     },
     {
@@ -7025,7 +7345,7 @@
       "source_name": "Ubiquiti UDM Quick Start Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-udm"
     },
     {
@@ -7045,7 +7365,7 @@
       "source_name": "Ubiquiti UDM-Pro Quick Start Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-udm-pro"
     },
     {
@@ -7065,7 +7385,7 @@
       "source_name": "Ubiquiti Help Center (How to Set Up UniFi)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-udm-se"
     },
     {
@@ -7085,7 +7405,7 @@
       "source_name": "Ubiquiti Help Center — How to Set Up UniFi",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-unifi-dream-router"
     },
     {
@@ -7105,7 +7425,7 @@
       "source_name": "Ubiquiti Help Center (How to Set Up UniFi)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-unifi-u6-lite"
     },
     {
@@ -7125,7 +7445,7 @@
       "source_name": "Verizon 5G Internet Gateway User Guide — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/verizon-5g-internet-gateway-ask-ncq1338"
     },
     {
@@ -7145,7 +7465,7 @@
       "source_name": "Verizon — \"5G Internet Gateway User Guide\" (official PDF, vzw.com)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/verizon-5g-internet-gateway-lvskihp"
     },
     {
@@ -7165,7 +7485,7 @@
       "source_name": "Verizon Internet Support — Fios Router",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/verizon-fios-router-g3100"
     },
     {
@@ -7185,7 +7505,7 @@
       "source_name": "Verizon Internet Gateway (ASK-NCM1100) User Manual v1 — official PDF",
       "source_archive_url": "https://web.archive.org/web/20260802221602/https://www.verizon.com/content/dam/support/pdf/user_guide/Verizon-Internet-Gateway-(ASK-NCM1100)-User-Manual-v1.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/verizon-internet-gateway-ask-ncm1100"
     },
     {
@@ -7205,7 +7525,7 @@
       "source_name": "Verizon LTE Home Router User Guide — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/verizon-lte-home-router"
     },
     {
@@ -7225,7 +7545,7 @@
       "source_name": "Verizon Support — Verizon Router (CR1000A) Overview",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/verizon-router-cr1000a"
     },
     {
@@ -7245,7 +7565,7 @@
       "source_name": "Vilo Living Support",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vilo-mesh-wifi"
     },
     {
@@ -7265,7 +7585,7 @@
       "source_name": "Virgin Media Help — Reboot or reset your Hub",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/virgin-media-hub-3"
     },
     {
@@ -7285,7 +7605,7 @@
       "source_name": "Virgin Media Help — Reboot or reset your Hub",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/virgin-media-hub-4"
     },
     {
@@ -7305,7 +7625,7 @@
       "source_name": "Virgin Media Help — Reboot or reset your Hub",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/virgin-media-hub-5"
     },
     {
@@ -7325,7 +7645,7 @@
       "source_name": "Vivo — Configurações do Wi-Fi (official self-service help)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vivo-fibra-box-hgu"
     },
     {
@@ -7345,8 +7665,28 @@
       "source_name": "Vivo Explica — Internet e Wi-Fi: Configurações",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vivo-brasil-generic-router-admin"
+    },
+    {
+      "slug": "vnpt-igate-gw040",
+      "brand": "VNPT Technology",
+      "model": "iGate GW040",
+      "category": "gateway",
+      "default_gateway_ip": "192.168.1.1",
+      "default_login_host": null,
+      "default_username": "admin",
+      "default_password": "admin",
+      "default_password_blank": false,
+      "credential_type": "static",
+      "credential_note": "VNPT Technology-branded FTTH GPON ONT/WiFi router issued by VNPT to home fiber subscribers in Vietnam — first VNPT row in the dataset, sourced from VNPT's own regional subsidiary (not a reseller). VNPT Ho Chi Minh's official configuration guide: \"Mở trình duyệt web, truy nhập vào web site mặc định http://192.168.1.1 của modem. Khi mới cài đặt mặc nhiên Username và Password của modem là: · User name : admin · Password : admin\" (\"Open a browser, go to the modem's default site http://192.168.1.1. On fresh install, the modem's default Username and Password are: admin / admin\").",
+      "reset_steps": "Not covered in this VNPT guide (it only covers initial setup, not recovery); standard practice for this ONT family is a recessed reset pinhole on the rear panel — a factory reset restores admin/admin but also clears WAN/PPPoE settings, which VNPT would need to re-provision.",
+      "source_url": "https://vnpthcmc.vn/index.php/en/ho-tro/item/724-huong-dan-cau-hinh-modem-igate-gw040-vnpt",
+      "source_name": "VNPT Ho Chi Minh City (official VNPT regional subsidiary) — support guide",
+      "source_archive_url": null,
+      "confidence": "medium",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/vnpt-igate-gw040"
     },
     {
       "slug": "vodafone-broadband-hub-thg3000",
@@ -7365,7 +7705,7 @@
       "source_name": "Vodafone UK Support — How do I manage my Vodafone router settings?",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vodafone-broadband-hub-thg3000"
     },
     {
@@ -7385,7 +7725,7 @@
       "source_name": "Vodafone Italia Official Support — Vodafone Mi-Fi Home",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vodafone-mi-fi-home-it"
     },
     {
@@ -7405,8 +7745,28 @@
       "source_name": "Vodafone UK Support — \"How do I reset the password on my router/Vodafone hub?\"",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vodafone-uk-ultra-hub"
+    },
+    {
+      "slug": "vodafone-ultra-hub-7-de",
+      "brand": "Vodafone",
+      "model": "Ultra Hub 7 (Germany, Glasfaser/Fibre)",
+      "category": "gateway",
+      "default_gateway_ip": "192.168.1.1",
+      "default_login_host": "vodafone.ultrahub",
+      "default_username": null,
+      "default_password": null,
+      "default_password_blank": false,
+      "credential_type": "label-unique",
+      "credential_note": "Wi-Fi 7 fiber gateway with an integrated ONT for Vodafone Germany's fiber network — first Vodafone Germany row in the dataset, distinct from the already-seeded Italy lineup (Power Station, Station Revolution, Wi-Fi 6 Station, Mi-Fi Home) and the UK Ultra Hub. Official Vodafone.de installation manual: the underside product label carries \"Die URL (Web UI Access), die Du in den Browser eingeben musst\" and \"Das Router-Passwort (Web UI Password), das Du auf der Anmeldeseite eingeben musst\" — both the login URL and the Web UI Password are unique per device and printed on the label/Wi-Fi Card.",
+      "reset_steps": "Hold the RESET button on the underside for at least 10 seconds until the front LED flashes blue to fully restore factory settings (holding under 5 seconds just reboots the device); after reset, log back in with the original Web UI Password printed on the product label or the included Wi-Fi Card.",
+      "source_url": "https://www.vodafone.de/media/img/help-devices/UH7-Glasfaser-Manual.pdf",
+      "source_name": "Vodafone Germany Official — Ultra Hub 7 Glasfaser Installations- und Benutzerhandbuch",
+      "source_archive_url": null,
+      "confidence": "high",
+      "last_verified": "2026-08-31",
+      "ssid_url": "https://ssid.ai/routers/vodafone-ultra-hub-7-de"
     },
     {
       "slug": "vodafone-station",
@@ -7425,7 +7785,7 @@
       "source_name": "Vodafone Deutschland — Hilfe: Vodafone Station (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vodafone-station"
     },
     {
@@ -7445,7 +7805,7 @@
       "source_name": "Vodafone Italia — assistenza dispositivi (Vodafone Power Station)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vodafone-power-station-it"
     },
     {
@@ -7465,7 +7825,7 @@
       "source_name": "Vodafone Italia — assistenza dispositivi (Vodafone Station Revolution)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vodafone-station-revolution-it"
     },
     {
@@ -7485,7 +7845,7 @@
       "source_name": "Vodafone Italia — assistenza dispositivi (Vodafone Wi-Fi 6 Station)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/vodafone-wifi-6-station-it"
     },
     {
@@ -7505,7 +7865,7 @@
       "source_name": "Wavlink Official FAQ - How to log into the web-based management page of my WAVLINK router",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/wavlink-wl-wn533a8"
     },
     {
@@ -7525,7 +7885,7 @@
       "source_name": "Xfinity Support — Change your WiFi with the Gateway Admin Tool",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/xfinity-xfi-gateway-xb7"
     },
     {
@@ -7545,7 +7905,7 @@
       "source_name": "Xfinity Support — Change your WiFi with the Gateway Admin Tool",
       "source_archive_url": "https://web.archive.org/web/20260729070000/https://www.xfinity.com/support/articles/wifi-change-admin-tool",
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/xfinity-xfi-gateway-xb8"
     },
     {
@@ -7565,7 +7925,7 @@
       "source_name": "Xiaomi Mi Router 4A Gigabit Edition official User Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/xiaomi-mi-router-4a-gigabit"
     },
     {
@@ -7585,7 +7945,7 @@
       "source_name": "Xiaomi Router AX3000T official FAQ (mi.com)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/xiaomi-router-ax3000t"
     },
     {
@@ -7605,7 +7965,7 @@
       "source_name": "Ziply Fiber Help Center — Change the name and password of your home network (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/ziply-fiber-arris-nvg448bq"
     },
     {
@@ -7625,7 +7985,7 @@
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/izzi-zte-f689-ont"
     },
     {
@@ -7645,7 +8005,7 @@
       "source_name": "Zyxel Armor G5 (NBG7815) official User's Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-armor-g5"
     },
     {
@@ -7665,7 +8025,7 @@
       "source_name": "Zyxel official Multy WiFi online help",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-multy-m1"
     },
     {
@@ -7685,7 +8045,7 @@
       "source_name": "Zyxel Multy X User's Guide",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-multy-x-wsq50"
     },
     {
@@ -7705,7 +8065,7 @@
       "source_name": "Zyxel official NBG7510 User's Guide (V1.00 Ed6)",
       "source_archive_url": "https://web.archive.org/web/20240612105055/https://download.zyxel.com/NBG7510/user_guide/NBG7510_V1.00_Ed6.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-nbg7510"
     },
     {
@@ -7725,7 +8085,7 @@
       "source_name": "Zyxel NWA110AX User's Guide (V6.60) — download.zyxel.com (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-nwa110ax"
     },
     {
@@ -7745,7 +8105,7 @@
       "source_name": "Zyxel NWA210AX User's Guide (V6.55) — download.zyxel.com (official)",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-nwa210ax"
     },
     {
@@ -7765,7 +8125,7 @@
       "source_name": "Zyxel Support Campus EMEA (default password on Zyxel access points)",
       "source_archive_url": null,
       "confidence": "medium",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-nwa50ax"
     },
     {
@@ -7785,7 +8145,7 @@
       "source_name": "Zyxel NWA50/90/55 Series User's Guide V6.29 Ed2 — download.zyxel.com (official)",
       "source_archive_url": "https://web.archive.org/web/20240812120745/https://download.zyxel.com/NWA90AX/user_guide/NWA90AX_V6.29_Ed2.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-nwa90ax"
     },
     {
@@ -7805,7 +8165,7 @@
       "source_name": "Zyxel USG FLEX H Series User's Guide V1.30 Ed1 — download.zyxel.com (official)",
       "source_archive_url": "https://web.archive.org/web/20260727184819/https://download.zyxel.com/USG_FLEX_50H/user_guide/USG%20FLEX%2050H_V1.30_Ed1.pdf",
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-usg-flex-50h"
     },
     {
@@ -7825,7 +8185,7 @@
       "source_name": "Zyxel WAX610D User's Guide V6.70 — official PDF",
       "source_archive_url": null,
       "confidence": "high",
-      "last_verified": "2026-08-27",
+      "last_verified": "2026-08-31",
       "ssid_url": "https://ssid.ai/routers/zyxel-wax610d"
     }
   ]

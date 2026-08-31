@@ -6,13 +6,13 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-08-27",
-  "model_count": 391,
+  "generated_at": "2026-08-31",
+  "model_count": 409,
   "by_credential_type": {
-    "set-on-setup": 120,
-    "label-unique": 118,
+    "set-on-setup": 124,
+    "label-unique": 126,
     "app-only": 48,
-    "static": 105,
+    "static": 111,
     "unknown": 0
   },
   "no_universal_default_pct": 73,
@@ -80,13 +80,19 @@
     },
     {
       "brand": "ARRIS",
-      "models": 5,
-      "universal_default_models": 2,
+      "models": 6,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Hitron",
+      "models": 3,
+      "universal_default_models": 3,
       "no_universal_default": false
     },
     {
       "brand": "Huawei",
-      "models": 4,
+      "models": 5,
       "universal_default_models": 2,
       "no_universal_default": false
     },
@@ -103,13 +109,13 @@
       "no_universal_default": false
     },
     {
-      "brand": "Buffalo",
-      "models": 2,
+      "brand": "Technicolor",
+      "models": 3,
       "universal_default_models": 2,
       "no_universal_default": false
     },
     {
-      "brand": "Hitron",
+      "brand": "Buffalo",
       "models": 2,
       "universal_default_models": 2,
       "no_universal_default": false
@@ -151,13 +157,13 @@
       "no_universal_default": false
     },
     {
-      "brand": "SoftBank",
+      "brand": "Edimax",
       "models": 2,
       "universal_default_models": 1,
       "no_universal_default": false
     },
     {
-      "brand": "Technicolor",
+      "brand": "SoftBank",
       "models": 2,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -205,12 +211,6 @@
       "no_universal_default": false
     },
     {
-      "brand": "Edimax",
-      "models": 1,
-      "universal_default_models": 1,
-      "no_universal_default": false
-    },
-    {
       "brand": "NOW Broadband",
       "models": 1,
       "universal_default_models": 1,
@@ -241,14 +241,32 @@
       "no_universal_default": false
     },
     {
+      "brand": "VNPT Technology",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Prolink",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Ubee",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
       "brand": "AVM",
-      "models": 12,
+      "models": 13,
       "universal_default_models": 0,
       "no_universal_default": true
     },
     {
       "brand": "Grandstream",
-      "models": 8,
+      "models": 9,
       "universal_default_models": 0,
       "no_universal_default": true
     },
@@ -272,7 +290,13 @@
     },
     {
       "brand": "Vodafone",
-      "models": 4,
+      "models": 5,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Honor",
+      "models": 5,
       "universal_default_models": 0,
       "no_universal_default": true
     },
@@ -338,6 +362,12 @@
     },
     {
       "brand": "Vodafone Italy",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "FPT Telecom",
       "models": 3,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -410,12 +440,6 @@
     },
     {
       "brand": "Kinetic by Windstream",
-      "models": 2,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
-      "brand": "Honor",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -701,6 +725,12 @@
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
+    },
+    {
+      "brand": "CIG",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
     }
   ],
   "still_shipping_universal_default": [
@@ -743,6 +773,16 @@
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "ssid_url": "https://ssid.ai/routers/izzi-arris-tg862"
+    },
+    {
+      "brand": "ARRIS",
+      "model": "TG1652 (izzi México gateway)",
+      "slug": "izzi-arris-tg1652",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "ssid_url": "https://ssid.ai/routers/izzi-arris-tg1652"
     },
     {
       "brand": "ASUS",
@@ -1033,6 +1073,16 @@
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "ssid_url": "https://ssid.ai/routers/izzi-hitron-cgnv5"
+    },
+    {
+      "brand": "Hitron",
+      "model": "CVE30360 (izzi México gateway)",
+      "slug": "izzi-hitron-cve30360",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "ssid_url": "https://ssid.ai/routers/izzi-hitron-cve30360"
     },
     {
       "brand": "Huawei",
@@ -1475,6 +1525,16 @@
       "ssid_url": "https://ssid.ai/routers/peplink-max-br2-pro"
     },
     {
+      "brand": "Prolink",
+      "model": "Hurricane 6300G (Globe At Home)",
+      "slug": "globe-prolink-hurricane-6300g",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.globe.com.ph/help/broadband/troubleshooting/prolink-hurricane-6300g.html",
+      "source_name": "Globe Telecom — official Help & Support (globe.com.ph)",
+      "ssid_url": "https://ssid.ai/routers/globe-prolink-hurricane-6300g"
+    },
+    {
       "brand": "Rogers",
       "model": "Rogers Ignite — Hitron CODA modem (CODA-4582/4680)",
       "slug": "rogers-ignite-hitron-coda",
@@ -1543,6 +1603,16 @@
       "source_url": "https://vivo.com.br/para-voce/por-que-vivo/vivo-explica/internet-e-wi-fi/configuracoes-internet",
       "source_name": "Vivo Explica — Internet e Wi-Fi: Configurações",
       "ssid_url": "https://ssid.ai/routers/vivo-brasil-technicolor-router"
+    },
+    {
+      "brand": "Technicolor",
+      "model": "TC8305C (izzi México gateway)",
+      "slug": "izzi-technicolor-tc8305c",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "ssid_url": "https://ssid.ai/routers/izzi-technicolor-tc8305c"
     },
     {
       "brand": "Telstra",
@@ -1615,6 +1685,16 @@
       "ssid_url": "https://ssid.ai/routers/tp-link-eap650"
     },
     {
+      "brand": "Ubee",
+      "model": "DVW324 (izzi México gateway)",
+      "slug": "izzi-ubee-dvw324",
+      "default_username": "user",
+      "default_password": "user",
+      "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
+      "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
+      "ssid_url": "https://ssid.ai/routers/izzi-ubee-dvw324"
+    },
+    {
       "brand": "Ubiquiti",
       "model": "EdgeRouter X (ER-X)",
       "slug": "ubiquiti-edgerouter-er-x",
@@ -1683,6 +1763,16 @@
       "source_url": "https://vivo.com.br/para-voce/por-que-vivo/vivo-explica/internet-e-wi-fi/configuracoes-internet",
       "source_name": "Vivo Explica — Internet e Wi-Fi: Configurações",
       "ssid_url": "https://ssid.ai/routers/vivo-brasil-generic-router-admin"
+    },
+    {
+      "brand": "VNPT Technology",
+      "model": "iGate GW040",
+      "slug": "vnpt-igate-gw040",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://vnpthcmc.vn/index.php/en/ho-tro/item/724-huong-dan-cau-hinh-modem-igate-gw040-vnpt",
+      "source_name": "VNPT Ho Chi Minh City (official VNPT regional subsidiary) — support guide",
+      "ssid_url": "https://ssid.ai/routers/vnpt-igate-gw040"
     },
     {
       "brand": "Wavlink",

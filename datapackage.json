@@ -2,10 +2,10 @@
   "profile": "tabular-data-package",
   "name": "router-default-passwords",
   "title": "Router default passwords and login IPs",
-  "description": "Default login IP, admin username, default password (or an explicit reason there is no universal one), credential type and factory-reset steps for 391 router, gateway, mesh and access-point models. Every row cites the manufacturer's own documentation.",
+  "description": "Default login IP, admin username, default password (or an explicit reason there is no universal one), credential type and factory-reset steps for 409 router, gateway, mesh and access-point models. Every row cites the manufacturer's own documentation.",
   "homepage": "https://ssid.ai/dataset",
-  "version": "2026-08-27",
-  "created": "2026-08-27",
+  "version": "2026-08-31",
+  "created": "2026-08-31",
   "licenses": [
     {
       "name": "CC-BY-4.0",
