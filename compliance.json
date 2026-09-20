@@ -6,13 +6,13 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-08-31",
-  "model_count": 409,
+  "generated_at": "2026-09-20",
+  "model_count": 443,
   "by_credential_type": {
-    "set-on-setup": 124,
-    "label-unique": 126,
-    "app-only": 48,
-    "static": 111,
+    "set-on-setup": 134,
+    "label-unique": 139,
+    "app-only": 50,
+    "static": 120,
     "unknown": 0
   },
   "no_universal_default_pct": 73,
@@ -20,13 +20,13 @@
   "by_brand": [
     {
       "brand": "Netgear",
-      "models": 37,
-      "universal_default_models": 15,
+      "models": 40,
+      "universal_default_models": 16,
       "no_universal_default": false
     },
     {
       "brand": "Linksys",
-      "models": 15,
+      "models": 16,
       "universal_default_models": 9,
       "no_universal_default": false
     },
@@ -38,19 +38,25 @@
     },
     {
       "brand": "D-Link",
-      "models": 13,
+      "models": 14,
       "universal_default_models": 8,
       "no_universal_default": false
     },
     {
+      "brand": "DrayTek",
+      "models": 7,
+      "universal_default_models": 7,
+      "no_universal_default": false
+    },
+    {
       "brand": "Ubiquiti",
-      "models": 13,
+      "models": 14,
       "universal_default_models": 6,
       "no_universal_default": false
     },
     {
-      "brand": "DrayTek",
-      "models": 6,
+      "brand": "Zyxel",
+      "models": 11,
       "universal_default_models": 6,
       "no_universal_default": false
     },
@@ -61,14 +67,8 @@
       "no_universal_default": false
     },
     {
-      "brand": "Zyxel",
-      "models": 10,
-      "universal_default_models": 5,
-      "no_universal_default": false
-    },
-    {
       "brand": "TP-Link",
-      "models": 40,
+      "models": 43,
       "universal_default_models": 4,
       "no_universal_default": false
     },
@@ -86,6 +86,12 @@
     },
     {
       "brand": "Hitron",
+      "models": 3,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Cisco",
       "models": 3,
       "universal_default_models": 3,
       "no_universal_default": false
@@ -129,6 +135,12 @@
     {
       "brand": "MikroTik",
       "models": 10,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Orange",
+      "models": 3,
       "universal_default_models": 1,
       "no_universal_default": false
     },
@@ -259,6 +271,18 @@
       "no_universal_default": false
     },
     {
+      "brand": "Türk Telekom",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "AIS",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
       "brand": "AVM",
       "models": 13,
       "universal_default_models": 0,
@@ -295,6 +319,12 @@
       "no_universal_default": true
     },
     {
+      "brand": "eero",
+      "models": 5,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
       "brand": "Honor",
       "models": 5,
       "universal_default_models": 0,
@@ -302,12 +332,6 @@
     },
     {
       "brand": "Deutsche Telekom",
-      "models": 4,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
-      "brand": "eero",
       "models": 4,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -409,12 +433,6 @@
       "no_universal_default": true
     },
     {
-      "brand": "Orange",
-      "models": 2,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
       "brand": "Aruba (HPE)",
       "models": 2,
       "universal_default_models": 0,
@@ -446,6 +464,24 @@
     },
     {
       "brand": "KDDI au Hikari",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Inseego",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Fortinet",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Telia",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -731,6 +767,66 @@
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
+    },
+    {
+      "brand": "Ziggo",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Swisscom",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Vodacom",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Singtel",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Play",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "MEO",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "NOS",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Telkom Indonesia",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Telkomsel",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "True",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
     }
   ],
   "still_shipping_universal_default": [
@@ -753,6 +849,16 @@
       "source_url": "https://www.airtel.in/blog/broadband/use-ip-address-to-login-to-router-settings/",
       "source_name": "Airtel — Use IP address to login to router settings",
       "ssid_url": "https://ssid.ai/routers/airtel-xstream-fiber"
+    },
+    {
+      "brand": "AIS",
+      "model": "Fibre Home HG180",
+      "slug": "ais-fibre-home-hg180",
+      "default_username": "admin",
+      "default_password": "aisadmin",
+      "source_url": "https://aiscallcenter.ais.co.th/fb-man-00/",
+      "source_name": "AIS Call Center — วิธีเปลี่ยนชื่อและรหัส Wi-Fi (Fibre home HG180)",
+      "ssid_url": "https://ssid.ai/routers/ais-fibre-home-hg180"
     },
     {
       "brand": "ARRIS",
@@ -863,6 +969,36 @@
       "source_url": "https://manual.buffalo.jp/buf-doc/35020394-01_EN.pdf",
       "source_name": "Buffalo — AirStation User Manual (PDF, manual.buffalo.jp)",
       "ssid_url": "https://ssid.ai/routers/buffalo-airstation-wsr-1166dhp"
+    },
+    {
+      "brand": "Cisco",
+      "model": "RV160",
+      "slug": "cisco-rv160",
+      "default_username": "cisco",
+      "default_password": "cisco",
+      "source_url": "https://www.cisco.com/c/dam/en/us/td/docs/routers/csbr/RV160/Quick_Start_Guide/EN/RV160_qsg_en.pdf",
+      "source_name": "Cisco RV160 Router Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/cisco-rv160"
+    },
+    {
+      "brand": "Cisco",
+      "model": "RV340",
+      "slug": "cisco-rv340",
+      "default_username": "cisco",
+      "default_password": "cisco",
+      "source_url": "https://www.cisco.com/c/dam/en/us/td/docs/routers/csbr/RV340/Quick_start/EN/rv340_qsg_en.pdf",
+      "source_name": "Cisco RV340 Router Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/cisco-rv340"
+    },
+    {
+      "brand": "Cisco",
+      "model": "RV345 / RV345P",
+      "slug": "cisco-rv345",
+      "default_username": "cisco",
+      "default_password": "cisco",
+      "source_url": "https://www.cisco.com/c/dam/en/us/td/docs/routers/csbr/RV345/Quick_start/EN/rv345_rv345P_qsg_en.pdf",
+      "source_name": "Cisco RV345/RV345P Router Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/cisco-rv345"
     },
     {
       "brand": "Comfast",
@@ -1023,6 +1159,16 @@
       "source_url": "https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_VigorAP%20903_V2.1.pdf",
       "source_name": "DrayTek VigorAP 903 802.11ac Access Point Quick Start Guide V2.1 (official)",
       "ssid_url": "https://ssid.ai/routers/draytek-vigorap-903"
+    },
+    {
+      "brand": "DrayTek",
+      "model": "Vigor2765Vac",
+      "slug": "draytek-vigor2765vac",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2765_RF_V1.8.pdf",
+      "source_name": "DrayTek Vigor2765 35b Series (RF Model) Quick Start Guide v1.8 (official)",
+      "ssid_url": "https://ssid.ai/routers/draytek-vigor2765vac"
     },
     {
       "brand": "Edimax",
@@ -1425,6 +1571,16 @@
       "ssid_url": "https://ssid.ai/routers/netgear-nighthawk-r8000"
     },
     {
+      "brand": "Netgear",
+      "model": "Orbi Pro WiFi 6 AX6000 Tri-Band (SXK80)",
+      "slug": "netgear-orbi-pro-sxk80",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://www.netgear.com/business/wifi/mesh/orbiprologin/",
+      "source_name": "NETGEAR Business — Orbi Pro Login",
+      "ssid_url": "https://ssid.ai/routers/netgear-orbi-pro-sxk80"
+    },
+    {
       "brand": "NOW Broadband",
       "model": "NOW Broadband Hub",
       "slug": "now-broadband-hub",
@@ -1433,6 +1589,16 @@
       "source_url": "https://www.nowtv.com/gb/help/article/change-admin-password",
       "source_name": "NOW Broadband Help — Change Admin Password For Your NOW Broadband Hub (official)",
       "ssid_url": "https://ssid.ai/routers/now-broadband-hub"
+    },
+    {
+      "brand": "Orange",
+      "model": "Livebox 2.0 (Poland)",
+      "slug": "orange-livebox-2-pl",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.orange.pl/b/binaries/PL/358544/Przewodnik_livebox_2.0_367149506.pdf",
+      "source_name": "Orange Polska — Przewodnik instalacji modemu Livebox 2.0 (official installation guide PDF)",
+      "ssid_url": "https://ssid.ai/routers/orange-livebox-2-pl"
     },
     {
       "brand": "Peplink",
@@ -1685,6 +1851,16 @@
       "ssid_url": "https://ssid.ai/routers/tp-link-eap650"
     },
     {
+      "brand": "Türk Telekom",
+      "model": "Home Gateway (factory default)",
+      "slug": "turk-telekom-home-gateway",
+      "default_username": "turktelekom",
+      "default_password": "turktelekom",
+      "source_url": "https://www.turktelekom.com.tr/blog/tum-blog-yazilari/iki-adimda-modem-sifresi-degistirme",
+      "source_name": "Türk Telekom Blog — İki Adımda Modem Şifresi Değiştirme",
+      "ssid_url": "https://ssid.ai/routers/turk-telekom-home-gateway"
+    },
+    {
       "brand": "Ubee",
       "model": "DVW324 (izzi México gateway)",
       "slug": "izzi-ubee-dvw324",
@@ -1843,6 +2019,16 @@
       "source_url": "https://download.zyxel.com/WAX610D/user_guide/WAX610D_V6.70_Ed1.pdf",
       "source_name": "Zyxel WAX610D User's Guide V6.70 — official PDF",
       "ssid_url": "https://ssid.ai/routers/zyxel-wax610d"
+    },
+    {
+      "brand": "Zyxel",
+      "model": "WAX510D",
+      "slug": "zyxel-wax510d",
+      "default_username": "admin",
+      "default_password": "1234",
+      "source_url": "https://download.zyxel.com/WAX510D/quick_start_guide/WAX510D_QSG.pdf",
+      "source_name": "Zyxel WAX510D Quick Start Guide (official)",
+      "ssid_url": "https://ssid.ai/routers/zyxel-wax510d"
     }
   ]
 }
