@@ -11,8 +11,8 @@ authors:
     country: AE
 repository-code: https://github.com/Drumworks/router-default-passwords
 url: https://ssid.ai/routers
-date-released: 2026-09-20
-version: 2026-09-20
+date-released: 2026-09-21
+version: 2026-09-21
 abstract: >-
   An open dataset of 443 router, gateway, mesh and access-point models with, for
   each one, the default login IP, the default admin username, the default
