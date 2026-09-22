@@ -6,17 +6,17 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-09-21",
-  "model_count": 443,
+  "generated_at": "2026-09-22",
+  "model_count": 467,
   "by_credential_type": {
-    "set-on-setup": 134,
-    "label-unique": 139,
-    "app-only": 50,
-    "static": 120,
+    "set-on-setup": 135,
+    "label-unique": 149,
+    "app-only": 51,
+    "static": 132,
     "unknown": 0
   },
-  "no_universal_default_pct": 73,
-  "universal_default_pct": 27,
+  "no_universal_default_pct": 72,
+  "universal_default_pct": 28,
   "by_brand": [
     {
       "brand": "Netgear",
@@ -98,7 +98,7 @@
     },
     {
       "brand": "Huawei",
-      "models": 5,
+      "models": 6,
       "universal_default_models": 2,
       "no_universal_default": false
     },
@@ -127,6 +127,24 @@
       "no_universal_default": false
     },
     {
+      "brand": "Zain",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Telkom",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Sophos",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
       "brand": "ASUS",
       "models": 27,
       "universal_default_models": 1,
@@ -140,6 +158,18 @@
     },
     {
       "brand": "Orange",
+      "models": 3,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "TRENDnet",
+      "models": 3,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "NetComm",
       "models": 3,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -278,6 +308,30 @@
     },
     {
       "brand": "AIS",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "MTN",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "WatchGuard",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Barracuda",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Cambium Networks",
       "models": 1,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -482,6 +536,24 @@
     },
     {
       "brand": "Telia",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "KPN",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Telenor",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Amped Wireless",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -827,6 +899,12 @@
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
+    },
+    {
+      "brand": "Maxis",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
     }
   ],
   "still_shipping_universal_default": [
@@ -901,6 +979,16 @@
       "ssid_url": "https://ssid.ai/routers/asus-rt-ac68u"
     },
     {
+      "brand": "Barracuda",
+      "model": "CloudGen Firewall (F-Series hardware appliance)",
+      "slug": "barracuda-cloudgen-firewall-f-series",
+      "default_username": "root",
+      "default_password": "ngf1r3wall",
+      "source_url": "https://documentation.campus.barracuda.com/wiki/display/CGFv90/Get+Started",
+      "source_name": "Barracuda Campus — CloudGen Firewall 9.0 Get Started (official documentation)",
+      "ssid_url": "https://ssid.ai/routers/barracuda-cloudgen-firewall-f-series"
+    },
+    {
       "brand": "Belkin",
       "model": "F-Series Wi-Fi Router",
       "slug": "belkin-f-series",
@@ -969,6 +1057,16 @@
       "source_url": "https://manual.buffalo.jp/buf-doc/35020394-01_EN.pdf",
       "source_name": "Buffalo — AirStation User Manual (PDF, manual.buffalo.jp)",
       "ssid_url": "https://ssid.ai/routers/buffalo-airstation-wsr-1166dhp"
+    },
+    {
+      "brand": "Cambium Networks",
+      "model": "cnPilot r190 (Home & Small Business Wireless Router)",
+      "slug": "cambium-cnpilot-r190",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.cambiumnetworks.com/wp-content/uploads/2021/07/cnPilot_R190_Quick_Start_Guide.pdf",
+      "source_name": "Cambium Networks — cnPilot R190 Quick Start Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/cambium-cnpilot-r190"
     },
     {
       "brand": "Cisco",
@@ -1361,6 +1459,26 @@
       "ssid_url": "https://ssid.ai/routers/motorola-mb8611"
     },
     {
+      "brand": "MTN",
+      "model": "Broadband Router / 4G Broadband Router (MiFi)",
+      "slug": "mtn-nigeria-broadband-router",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://www.mtn.ng/helppersonal/broadband-router-how-to-guide/",
+      "source_name": "MTN Nigeria — Broadband Router How-To-Guide (official support)",
+      "ssid_url": "https://ssid.ai/routers/mtn-nigeria-broadband-router"
+    },
+    {
+      "brand": "NetComm",
+      "model": "NF18ACV",
+      "slug": "netcomm-nf18acv",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://support.netcommwireless.com/api/Media/FAQ/4e5deafe-7e25-4bef-87c1-d95d2969597a?Product=NF18ACV-Wireless-Setup-Guide.pdf",
+      "source_name": "NetComm Wireless Setup Guide — NF18ACV",
+      "ssid_url": "https://ssid.ai/routers/netcomm-nf18acv"
+    },
+    {
       "brand": "Netgate",
       "model": "SG-2100 (Netgate 2100)",
       "slug": "netgate-sg-2100",
@@ -1751,6 +1869,26 @@
       "ssid_url": "https://ssid.ai/routers/softbank-air-terminal-5"
     },
     {
+      "brand": "Sophos",
+      "model": "XGS 87(w) / 107(w)",
+      "slug": "sophos-xgs-87-107",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://docs.sophos.com/nsg/hardware/quickstart/xgs/sophos-quick-start-guide-xgs-87-87w-107-107w.pdf",
+      "source_name": "Sophos — XGS 87(w)/107(w) Quick Start Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/sophos-xgs-87-107"
+    },
+    {
+      "brand": "Sophos",
+      "model": "XGS 116(w) / 126(w) / 136(w)",
+      "slug": "sophos-xgs-116-126-136",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://docs.sophos.com/nsg/hardware/quickstart/xgs/sophos-quick-start-guide-xgs-116-116w-126-126w-136-136w.pdf",
+      "source_name": "Sophos — XGS 116(w)/126(w)/136(w) Quick Start Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/sophos-xgs-116-126-136"
+    },
+    {
       "brand": "Spark",
       "model": "Spark Smart Modem 2",
       "slug": "spark-smart-modem-2",
@@ -1779,6 +1917,26 @@
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "ssid_url": "https://ssid.ai/routers/izzi-technicolor-tc8305c"
+    },
+    {
+      "brand": "Telkom",
+      "model": "Billion 400G (VPN-Lite Router)",
+      "slug": "telkom-sa-billion-400g",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://apps.telkom.co.za/vpnlitecontents/downloads/billion400g.pdf",
+      "source_name": "Telkom South Africa — VPN-Lite Router Setup User Manual: Billion 400G (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/telkom-sa-billion-400g"
+    },
+    {
+      "brand": "Telkom",
+      "model": "Netgear DGN2200Mv2 (N300 Wireless ADSL2+ Modem Router)",
+      "slug": "telkom-sa-netgear-dgn2200mv2",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://apps.telkom.co.za/vpnlitecontents/downloads/dgn2200m.pdf",
+      "source_name": "Telkom South Africa — N300 Wireless ADSL2+ Modem Router DGN2200Mv2 User Manual (official PDF, NETGEAR/Telkom co-branded)",
+      "ssid_url": "https://ssid.ai/routers/telkom-sa-netgear-dgn2200mv2"
     },
     {
       "brand": "Telstra",
@@ -1849,6 +2007,16 @@
       "source_url": "https://support.omadanetworks.com/us/document/12922/",
       "source_name": "TP-Link Omada Networks Support — How to login to the EAP web management page (standalone mode, official)",
       "ssid_url": "https://ssid.ai/routers/tp-link-eap650"
+    },
+    {
+      "brand": "TRENDnet",
+      "model": "TEW-712BR",
+      "slug": "trendnet-tew-712br",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.trendnet.com/support/view-faq.asp?ToDo=view&questId=2796&catId=676",
+      "source_name": "TRENDnet Support FAQ — TEW-712BR: What is the default username and password on the router?",
+      "ssid_url": "https://ssid.ai/routers/trendnet-tew-712br"
     },
     {
       "brand": "Türk Telekom",
@@ -1951,6 +2119,16 @@
       "ssid_url": "https://ssid.ai/routers/vnpt-igate-gw040"
     },
     {
+      "brand": "WatchGuard",
+      "model": "Firebox T20 / T20-W",
+      "slug": "watchguard-firebox-t20-t20w",
+      "default_username": "admin",
+      "default_password": "readwrite",
+      "source_url": "https://www.watchguard.com/help/docs/quick_start_guides/Firebox_T20_quickstartguide.pdf",
+      "source_name": "WatchGuard — Firebox T20/T20-W Quick Start Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/watchguard-firebox-t20-t20w"
+    },
+    {
       "brand": "Wavlink",
       "model": "WL-WN533A8 (AC1200)",
       "slug": "wavlink-wl-wn533a8",
@@ -1959,6 +2137,26 @@
       "source_url": "https://www.wavlink.com/en_us/faq/details/How-to-log-into-web-based-management-page-of-my-WAVLINK-router.html",
       "source_name": "Wavlink Official FAQ - How to log into the web-based management page of my WAVLINK router",
       "ssid_url": "https://ssid.ai/routers/wavlink-wl-wn533a8"
+    },
+    {
+      "brand": "Zain",
+      "model": "Huawei B520 (Zain Fiber CPE, Speed4G)",
+      "slug": "zain-ksa-huawei-b520",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://sa.zain.com/sites/default/files/2020-03/Zain-Fiber-CPEs-configuration%E2%80%935G20.pdf",
+      "source_name": "Zain KSA — Zain Fiber CPE Activation: B520 First Time Configuration (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/zain-ksa-huawei-b520"
+    },
+    {
+      "brand": "Zain",
+      "model": "Huawei DG8245V (Zain Fiber Home Gateway)",
+      "slug": "zain-ksa-huawei-dg8245v",
+      "default_username": "user",
+      "default_password": "HuaweiUser",
+      "source_url": "https://sa.zain.com/sites/default/files/2020-03/Zain-Fiber-CPEs-configuration-DG8245W2.pdf",
+      "source_name": "Zain KSA — Zain Fiber CPE Activation: DG8245W2/DG8245V First Time Configuration (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/zain-ksa-huawei-dg8245v"
     },
     {
       "brand": "ZTE",

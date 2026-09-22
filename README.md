@@ -1,7 +1,7 @@
 # Router default passwords and login IPs
 
 <!-- generated:headline -->
-An open dataset of **443 router, gateway, mesh and access-point models** with, for each one: the
+An open dataset of **467 router, gateway, mesh and access-point models** with, for each one: the
 default login IP, the default admin username, the default password (or an explicit reason there is
 no universal one), the credential type, factory-reset steps, and the manufacturer URL the values
 came from.
@@ -11,7 +11,7 @@ Published by [ssid.ai](https://ssid.ai). Licensed **CC BY 4.0** — use it comme
 it, build on it. Just credit ssid.ai.
 
 <!-- generated:generated-at -->
-Generated 2026-09-21 from the live directory at <https://ssid.ai/routers>.
+Generated 2026-09-22 from the live directory at <https://ssid.ai/routers>.
 <!-- /generated:generated-at -->
 
 ## Files
@@ -19,8 +19,8 @@ Generated 2026-09-21 from the live directory at <https://ssid.ai/routers>.
 <!-- generated:files-table -->
 | File | What it holds |
 | --- | --- |
-| `routers.csv` | 443 rows, 18 columns, RFC 4180, LF line endings |
-| `routers.json` | The same 443 rows, with a licence and provenance header |
+| `routers.csv` | 467 rows, 18 columns, RFC 4180, LF line endings |
+| `routers.json` | The same 467 rows, with a licence and provenance header |
 | `compliance.json` | The Router Default-Credential Compliance Index: share of models with no universal default password, by brand |
 | `SCHEMA.md` | Every field defined, including the four `credential_type` values |
 | `LICENSE` | CC BY 4.0, and what attribution means here |
@@ -33,13 +33,13 @@ get wrong, and it is why this dataset has a `credential_type` column instead of 
 password cell with `admin`.
 
 <!-- generated:cred-mix -->
-Of the 443 models here, **323 have no universal default password**:
+Of the 467 models here, **335 have no universal default password**:
 
-- 134 are `set-on-setup` — the router makes you create the password the first time you configure it.
-- 139 are `label-unique` — every unit ships with a different password, printed on a sticker on the device.
-- 50 are `app-only` — there is no web admin at all; you sign in to a phone app or a cloud account.
+- 135 are `set-on-setup` — the router makes you create the password the first time you configure it.
+- 149 are `label-unique` — every unit ships with a different password, printed on a sticker on the device.
+- 51 are `app-only` — there is no web admin at all; you sign in to a phone app or a cloud account.
 
-The other **120 models do ship a universal default**, and this dataset gives it to you. 114 of them
+The other **132 models do ship a universal default**, and this dataset gives it to you. 126 of them
 have a documented password string. 6 have a documented blank password: the field is empty out of
 the box, which still counts as a universal default, of nothing.
 <!-- /generated:cred-mix -->
@@ -71,24 +71,24 @@ Full per-model rows are in `routers.csv` / `routers.json`. Each has a human-read
 ## What is the default login IP for a router?
 
 <!-- generated:gateway-ips -->
-Across the 443 models, 34 distinct default gateway IPs. The distribution:
+Across the 467 models, 39 distinct default gateway IPs. The distribution:
 
 | Default gateway IP | Models | Common on |
 | --- | --- | --- |
-| 192.168.1.1 | 152 | Netgear, Linksys, Ubiquiti, DrayTek |
-| 192.168.0.1 | 80 | TP-Link, D-Link, Tenda, ARRIS |
+| 192.168.1.1 | 155 | Netgear, Linksys, Ubiquiti, DrayTek |
+| 192.168.0.1 | 81 | TP-Link, D-Link, Tenda, ARRIS |
 | 192.168.50.1 | 27 | ASUS, Peplink |
-| 192.168.1.254 | 13 | AT&T, EE, Plusnet, BT |
+| 192.168.1.254 | 14 | AT&T, EE, Plusnet, BT |
+| 192.168.100.1 | 11 | Netgear, ARRIS, FPT Telecom, H3C |
 | 192.168.178.1 | 11 | AVM, Ziggo |
-| 192.168.100.1 | 10 | Netgear, ARRIS, FPT Telecom, H3C |
 | 192.168.2.1 | 10 | Deutsche Telekom, Belkin, Bell, Edimax |
-| 192.168.88.1 | 10 | MikroTik |
+| 192.168.3.1 | 10 | Honor, Huawei, Amped Wireless, SoftBank |
 
-233 models also answer on a hostname (`tplinkwifi.net`, `routerlogin.net`, `router.asus.com`,
+247 models also answer on a hostname (`tplinkwifi.net`, `routerlogin.net`, `router.asus.com`,
 `fritz.box`), which is in the `default_login_host` column and usually more reliable than typing the
 IP.
 
-63 models have **no** admin IP at all. 35 of those are `app-only`: an eero or a Google Nest Wifi
+64 models have **no** admin IP at all. 36 of those are `app-only`: an eero or a Google Nest Wifi
 has no web interface to log into, so a list that prints an IP for them is guessing. The other 28
 are models whose manufacturer publishes a hostname or a DHCP-assigned address instead.
 <!-- /generated:gateway-ips -->
@@ -96,9 +96,9 @@ are models whose manufacturer publishes a hostname or a DHCP-assigned address in
 ## Which routers still ship a universal default password?
 
 <!-- generated:compliance -->
-**120 of 443 models (27%).** Put the other way: 73% no longer do, as of 2026-09-21. That number is
+**132 of 467 models (28%).** Put the other way: 72% no longer do, as of 2026-09-22. That number is
 the Router Default-Credential Compliance Index, and `compliance.json` carries the full breakdown
-plus every one of the 120 models with its username, password and source.
+plus every one of the 132 models with its username, password and source.
 
 Brands with the most models still shipping a universal default:
 
@@ -113,7 +113,7 @@ Brands with the most models still shipping a universal default:
 | Zyxel | 11 | 6 |
 | Netgate | 6 | 6 |
 
-91 of the 135 brands tracked have no model here that ships a universal default.
+95 of the 148 brands tracked have no model here that ships a universal default.
 <!-- /generated:compliance -->
 
 Why this is measurable at all: the UK's Product Security and Telecommunications Infrastructure Act
@@ -132,17 +132,17 @@ Every row comes from the manufacturer's own documentation: their domain, their s
 their official manual PDF. Never a forum, never an aggregator, never another password list.
 
 <!-- generated:sourcing -->
-- All 443 rows carry an `https` `source_url`, drawn from 158 distinct manufacturer and ISP domains.
+- All 467 rows carry an `https` `source_url`, drawn from 173 distinct manufacturer and ISP domains.
 - A model that cannot be verified against an official source is excluded from the directory
-  rather than guessed at. That is why the count is 443 and not 30,000.
-- 331 rows are marked `confidence: high` (the source states the behaviour directly). 112 are
+  rather than guessed at. That is why the count is 467 and not 30,000.
+- 352 rows are marked `confidence: high` (the source states the behaviour directly). 115 are
   `medium`, usually because the manufacturer documents a family rather than that exact SKU, or
   because hardware revisions of the same model differ. The `credential_note` says which.
 <!-- /generated:sourcing -->
 <!-- generated:archive-sourcing -->
 - 176 rows also carry `source_archive_url`, a Wayback Machine copy of the cited page, so the
   claim stays checkable after the manufacturer reorganises their site. A daily job works
-  through the rest, so the other 267 are queued rather than skipped. All 443 are sourced
+  through the rest, so the other 291 are queued rather than skipped. All 467 are sourced
   either way — the archive is a second copy of the evidence, never the only one.
 <!-- /generated:archive-sourcing -->
 - A null password is a real answer. Writing `admin` / `admin` for a router that forces a password
@@ -238,13 +238,13 @@ unlocked.
 Where the data is thin, here is where:
 
 <!-- generated:gaps -->
-- **63 models have no `default_gateway_ip`.** 35 are `app-only` and genuinely have no admin IP.
+- **64 models have no `default_gateway_ip`.** 36 are `app-only` and genuinely have no admin IP.
   The remaining 28 are models whose manufacturer documents a hostname or DHCP-assigned address
   instead.
-- **210 models have no `default_login_host`.** Most manufacturers publish only an IP.
+- **220 models have no `default_login_host`.** Most manufacturers publish only an IP.
 <!-- /generated:gaps -->
 <!-- generated:archive-gap -->
-- **267 of 443 rows have no `source_archive_url` yet.** A daily job archives a batch at a
+- **291 of 467 rows have no `source_archive_url` yet.** A daily job archives a batch at a
   time, so this shrinks steadily. Some never will: a handful of manufacturers block the
   Wayback crawler outright, and those rows keep their live `source_url` as the only citation.
 <!-- /generated:archive-gap -->
@@ -253,9 +253,9 @@ Where the data is thin, here is where:
   every request, including one for its own homepage. Those pages are fine in a browser but
   cannot be captured, so those rows keep their live `source_url` as the only citation.
 <!-- generated:gaps-tail -->
-- **112 rows are `confidence: medium`.** Read the `credential_note` before relying on those.
+- **115 rows are `confidence: medium`.** Read the `credential_note` before relying on those.
   Hardware revisions of one model name can differ, and the note says so where it applies.
-- **Coverage is 443 models, not exhaustive.** It grows by roughly 12 to 18 verified models a week.
+- **Coverage is 467 models, not exhaustive.** It grows by roughly 12 to 18 verified models a week.
   A model gets added only once an official source for it has been found, which caps the rate.
 <!-- /generated:gaps-tail -->
 
