@@ -14,13 +14,13 @@ url: https://ssid.ai/routers
 date-released: 2026-09-28
 version: 2026-09-28
 abstract: >-
-  An open dataset of 467 router, gateway, mesh and access-point models with, for
+  An open dataset of 481 router, gateway, mesh and access-point models with, for
   each one, the default login IP, the default admin username, the default
   password (or an explicit reason there is no universal one), the credential
   type, factory-reset steps, and the manufacturer URL the values came from.
-  Every row is sourced from the manufacturer's own documentation across 173
+  Every row is sourced from the manufacturer's own documentation across 184
   distinct domains; a model that cannot be verified against an official source
-  is excluded rather than guessed at. 132 of the 467 models still ship a
+  is excluded rather than guessed at. 140 of the 481 models still ship a
   universal default password. Includes the Router Default-Credential Compliance
   Index, which measures the share of tracked models that no longer ship one.
 keywords:

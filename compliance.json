@@ -7,16 +7,16 @@
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
   "generated_at": "2026-09-28",
-  "model_count": 467,
+  "model_count": 481,
   "by_credential_type": {
     "set-on-setup": 135,
-    "label-unique": 149,
-    "app-only": 51,
-    "static": 132,
+    "label-unique": 154,
+    "app-only": 52,
+    "static": 140,
     "unknown": 0
   },
-  "no_universal_default_pct": 72,
-  "universal_default_pct": 28,
+  "no_universal_default_pct": 71,
+  "universal_default_pct": 29,
   "by_brand": [
     {
       "brand": "Netgear",
@@ -92,6 +92,12 @@
     },
     {
       "brand": "Cisco",
+      "models": 3,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Araknis Networks",
       "models": 3,
       "universal_default_models": 3,
       "no_universal_default": false
@@ -206,6 +212,12 @@
     },
     {
       "brand": "SoftBank",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "O2 Czech Republic",
       "models": 2,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -332,6 +344,30 @@
     },
     {
       "brand": "Cambium Networks",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "WE (Telecom Egypt)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Vodafone Egypt",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Comcast Business",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Pakedge (Control4/SnapAV)",
       "models": 1,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -905,6 +941,36 @@
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
+    },
+    {
+      "brand": "T-Mobile Czech Republic",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Vodafone Czech Republic",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Magyar Telekom",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Orange Romania",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "GTD Manquehue",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
     }
   ],
   "still_shipping_universal_default": [
@@ -937,6 +1003,36 @@
       "source_url": "https://aiscallcenter.ais.co.th/fb-man-00/",
       "source_name": "AIS Call Center — วิธีเปลี่ยนชื่อและรหัส Wi-Fi (Fibre home HG180)",
       "ssid_url": "https://ssid.ai/routers/ais-fibre-home-hg180"
+    },
+    {
+      "brand": "Araknis Networks",
+      "model": "AN-310-RT-4L2W",
+      "slug": "araknis-an-310-rt-router",
+      "default_username": "araknis",
+      "default_password": "araknis",
+      "source_url": "https://www.snapav.com/wcsstore/ExtendedSitesCatalogAssetStore/attachments/documents/Networking/ManualsAndGuides/AN-310-RT_QSG_180925-1550.pdf",
+      "source_name": "Araknis Networks AN-310-RT Series Quick Start Guide (SnapAV)",
+      "ssid_url": "https://ssid.ai/routers/araknis-an-310-rt-router"
+    },
+    {
+      "brand": "Araknis Networks",
+      "model": "AN-110-RT-2L1W",
+      "slug": "araknis-an-110-rt-router",
+      "default_username": "araknis",
+      "default_password": "araknis",
+      "source_url": "https://www.snapav.com/wcsstore/ExtendedSitesCatalogAssetStore/attachments/documents/Networking/ManualsAndGuides/AN-110-RT_QSG.pdf",
+      "source_name": "Araknis Networks AN-110-RT Series Quick Start Guide (SnapAV)",
+      "ssid_url": "https://ssid.ai/routers/araknis-an-110-rt-router"
+    },
+    {
+      "brand": "Araknis Networks",
+      "model": "AN-300-AP-I-N (in-ceiling access point)",
+      "slug": "araknis-an-300-ap-i-n",
+      "default_username": "araknis",
+      "default_password": "araknis",
+      "source_url": "https://www.snapav.com/wcsstore/ExtendedSitesCatalogAssetStore/attachments/documents/Networking/ManualsAndGuides/AN-AP_SWManual-022423.pdf",
+      "source_name": "Araknis Networks Wireless Access Point Software Manual (SnapAV)",
+      "ssid_url": "https://ssid.ai/routers/araknis-an-300-ap-i-n"
     },
     {
       "brand": "ARRIS",
@@ -1097,6 +1193,16 @@
       "source_url": "https://www.cisco.com/c/dam/en/us/td/docs/routers/csbr/RV345/Quick_start/EN/rv345_rv345P_qsg_en.pdf",
       "source_name": "Cisco RV345/RV345P Router Quick Start Guide (official)",
       "ssid_url": "https://ssid.ai/routers/cisco-rv345"
+    },
+    {
+      "brand": "Comcast Business",
+      "model": "Business Wireless Gateway (DPC3939B)",
+      "slug": "comcast-business-wireless-gateway-dpc3939b",
+      "default_username": "cusadmin",
+      "default_password": "highspeed",
+      "source_url": "https://secure.xfinity.com/anon.comcastonline2/support/helpandsupport/businessclass/help_articles/CB_BWG_QuickStartGuide_Rev%20%203%2014.pdf",
+      "source_name": "Comcast Business Wireless Gateway (DPC3939B) Quick Start Guide (official Xfinity/Comcast Business document host)",
+      "ssid_url": "https://ssid.ai/routers/comcast-business-wireless-gateway-dpc3939b"
     },
     {
       "brand": "Comfast",
@@ -1709,6 +1815,16 @@
       "ssid_url": "https://ssid.ai/routers/now-broadband-hub"
     },
     {
+      "brand": "O2 Czech Republic",
+      "model": "ZTE ZXHN H168N",
+      "slug": "o2-czech-zte-h168n",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.o2.cz/osobni/podpora/nastaveni-zte-zxhn-h168n",
+      "source_name": "O2 Czech Republic — Podpora (nastavení ZTE ZXHN H168N)",
+      "ssid_url": "https://ssid.ai/routers/o2-czech-zte-h168n"
+    },
+    {
       "brand": "Orange",
       "model": "Livebox 2.0 (Poland)",
       "slug": "orange-livebox-2-pl",
@@ -1717,6 +1833,16 @@
       "source_url": "https://www.orange.pl/b/binaries/PL/358544/Przewodnik_livebox_2.0_367149506.pdf",
       "source_name": "Orange Polska — Przewodnik instalacji modemu Livebox 2.0 (official installation guide PDF)",
       "ssid_url": "https://ssid.ai/routers/orange-livebox-2-pl"
+    },
+    {
+      "brand": "Pakedge (Control4/SnapAV)",
+      "model": "WR-1",
+      "slug": "pakedge-wr-1-router",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://docs.control4.com/docs/product/pakedge-wr-1/all-dealer-pakedge-quick-start-guide/english/latest/pakedge-wr-1-pakedge-quick-start-guide-rev-f.pdf",
+      "source_name": "Pakedge WR-1 Quick Start Guide (docs.control4.com — Control4/SnapAV official documentation host)",
+      "ssid_url": "https://ssid.ai/routers/pakedge-wr-1-router"
     },
     {
       "brand": "Peplink",
@@ -2119,6 +2245,16 @@
       "ssid_url": "https://ssid.ai/routers/vnpt-igate-gw040"
     },
     {
+      "brand": "Vodafone Egypt",
+      "model": "Home Wireless (4G Plus / 5G Plus router)",
+      "slug": "vodafone-egypt-home-wireless-router",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://web.vodafone.com.eg/en/wireless-net",
+      "source_name": "Vodafone Egypt (web.vodafone.com.eg) — Home Wireless Net support page",
+      "ssid_url": "https://ssid.ai/routers/vodafone-egypt-home-wireless-router"
+    },
+    {
       "brand": "WatchGuard",
       "model": "Firebox T20 / T20-W",
       "slug": "watchguard-firebox-t20-t20w",
@@ -2137,6 +2273,16 @@
       "source_url": "https://www.wavlink.com/en_us/faq/details/How-to-log-into-web-based-management-page-of-my-WAVLINK-router.html",
       "source_name": "Wavlink Official FAQ - How to log into the web-based management page of my WAVLINK router",
       "ssid_url": "https://ssid.ai/routers/wavlink-wl-wn533a8"
+    },
+    {
+      "brand": "WE (Telecom Egypt)",
+      "model": "WE Air (4G/5G Home Router, 290/690/1040/1270)",
+      "slug": "we-egypt-air-router",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://te.eg/en/w/we-air-1270",
+      "source_name": "Telecom Egypt (te.eg) — WE Air 1270 product page",
+      "ssid_url": "https://ssid.ai/routers/we-egypt-air-router"
     },
     {
       "brand": "Zain",
