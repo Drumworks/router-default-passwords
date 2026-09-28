@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-09-27",
+  "generated_at": "2026-09-28",
   "model_count": 467,
   "routers": [
     {
@@ -1443,7 +1443,7 @@
       "reset_steps": "No reset procedure is given beyond the initial login step in FPT's guide; if the on-label 'web password' field is illegible, contact the FPT Telecom hotline rather than blind-resetting, since a hardware reset also drops the line's PPPoE/GPON provisioning.",
       "source_url": "https://fpt.vn/storage/upload/files/documents/setting-guides/cig-g97rg6m/huong_dan_cai_dat_wifi_doi_mat_khau_wifi_doi_ten_wifi_modem_g97rg6m_cua_fpt_telecom.pdf",
       "source_name": "FPT Telecom — official setting guide (fpt.vn)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260927051131/https://fpt.vn/storage/upload/files/documents/setting-guides/cig-g97rg6m/huong_dan_cai_dat_wifi_doi_mat_khau_wifi_doi_ten_wifi_modem_g97rg6m_cua_fpt_telecom.pdf",
       "confidence": "high",
       "last_verified": "2026-09-25",
       "ssid_url": "https://ssid.ai/routers/fpt-cig-g97rg6m"
