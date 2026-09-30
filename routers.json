@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-09-29",
+  "generated_at": "2026-09-30",
   "model_count": 481,
   "routers": [
     {
@@ -143,7 +143,7 @@
       "reset_steps": "Simple Reboot: press the RESET button on the back of the router. Factory Default: press and hold RESET for 10-15 seconds until the status LEDs flash once; the router resets to factory default settings and reboots.",
       "source_url": "https://www.snapav.com/wcsstore/ExtendedSitesCatalogAssetStore/attachments/documents/Networking/ManualsAndGuides/AN-110-RT_QSG.pdf",
       "source_name": "Araknis Networks AN-110-RT Series Quick Start Guide (SnapAV)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260929051004/https://www.snapav.com/wcsstore/ExtendedSitesCatalogAssetStore/attachments/documents/Networking/ManualsAndGuides/AN-110-RT_QSG.pdf",
       "confidence": "high",
       "last_verified": "2026-09-28",
       "ssid_url": "https://ssid.ai/routers/araknis-an-110-rt-router"
@@ -183,7 +183,7 @@
       "reset_steps": "Simple Reboot: press the RESET button on the back of the router (router reboots, status lights flash). Factory Default: press and hold RESET for 10-15 seconds until the status LEDs flash once; the router resets to factory defaults and reboots.",
       "source_url": "https://www.snapav.com/wcsstore/ExtendedSitesCatalogAssetStore/attachments/documents/Networking/ManualsAndGuides/AN-310-RT_QSG_180925-1550.pdf",
       "source_name": "Araknis Networks AN-310-RT Series Quick Start Guide (SnapAV)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260929051052/https://www.snapav.com/wcsstore/ExtendedSitesCatalogAssetStore/attachments/documents/Networking/ManualsAndGuides/AN-310-RT_QSG_180925-1550.pdf",
       "confidence": "high",
       "last_verified": "2026-09-28",
       "ssid_url": "https://ssid.ai/routers/araknis-an-310-rt-router"
@@ -2283,7 +2283,7 @@
       "reset_steps": "Press and hold the Factory Reset button on the rear panel until the ACT LED blinks quickly, then browse to http://192.168.1.1 and log in with admin/admin.",
       "source_url": "https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2765_RF_V1.8.pdf",
       "source_name": "DrayTek Vigor2765 35b Series (RF Model) Quick Start Guide v1.8 (official)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20260929051131/https://www.draytek.com/assets/online_manuals/pdf/DrayTek_QS_Vigor2765_RF_V1.8.pdf",
       "confidence": "high",
       "last_verified": "2026-09-28",
       "ssid_url": "https://ssid.ai/routers/draytek-vigor2765vac"
