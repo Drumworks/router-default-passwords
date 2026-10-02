@@ -11,7 +11,7 @@ Published by [ssid.ai](https://ssid.ai). Licensed **CC BY 4.0** — use it comme
 it, build on it. Just credit ssid.ai.
 
 <!-- generated:generated-at -->
-Generated 2026-10-01 from the live directory at <https://ssid.ai/routers>.
+Generated 2026-10-02 from the live directory at <https://ssid.ai/routers>.
 <!-- /generated:generated-at -->
 
 ## Files
@@ -96,7 +96,7 @@ are models whose manufacturer publishes a hostname or a DHCP-assigned address in
 ## Which routers still ship a universal default password?
 
 <!-- generated:compliance -->
-**140 of 481 models (29%).** Put the other way: 71% no longer do, as of 2026-10-01. That number is
+**140 of 481 models (29%).** Put the other way: 71% no longer do, as of 2026-10-02. That number is
 the Router Default-Credential Compliance Index, and `compliance.json` carries the full breakdown
 plus every one of the 140 models with its username, password and source.
 
