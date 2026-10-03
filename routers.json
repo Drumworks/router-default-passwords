@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-03",
   "model_count": 481,
   "routers": [
     {
@@ -1463,7 +1463,7 @@
       "reset_steps": "Change the default password by navigating to Administration > Management > Password Reset option, per the official Quick Start Guide.",
       "source_url": "https://www.cambiumnetworks.com/wp-content/uploads/2021/07/cnPilot_R190_Quick_Start_Guide.pdf",
       "source_name": "Cambium Networks — cnPilot R190 Quick Start Guide (official PDF)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261002051057/https://www.cambiumnetworks.com/wp-content/uploads/2021/07/cnPilot_R190_Quick_Start_Guide.pdf",
       "confidence": "high",
       "last_verified": "2026-09-30",
       "ssid_url": "https://ssid.ai/routers/cambium-cnpilot-r190"
