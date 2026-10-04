@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-03",
+  "generated_at": "2026-10-04",
   "model_count": 481,
   "routers": [
     {
@@ -3143,7 +3143,7 @@
       "reset_steps": "Press and hold the RESET button for 7 seconds to restore factory default settings, then discover the AP via the GWN Discovery Tool or https://gwn_<MAC>.local/ and log in with admin plus the sticker password.",
       "source_url": "https://documentation.grandstream.com/knowledge-base/gwn7660e-quick-installation-guide/",
       "source_name": "Grandstream GWN7660E Quick Installation Guide — official",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261003051100/https://documentation.grandstream.com/knowledge-base/gwn7660e-quick-installation-guide/",
       "confidence": "high",
       "last_verified": "2026-09-30",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7660e"
@@ -3163,7 +3163,7 @@
       "reset_steps": "Press and hold the reset button until the unit reboots to factory defaults. Discover it via the GWN Discovery Tool or https://gwn_<MAC-address>.local/, then log in with 'admin' plus the random password printed on the back sticker.",
       "source_url": "https://documentation.grandstream.com/knowledge-base/gwn7660lr-quick-installation-guide/",
       "source_name": "Grandstream GWN7660LR Quick Installation Guide — documentation.grandstream.com (official)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261003051135/https://documentation.grandstream.com/knowledge-base/gwn7660lr-quick-installation-guide/",
       "confidence": "high",
       "last_verified": "2026-09-30",
       "ssid_url": "https://ssid.ai/routers/grandstream-gwn7660lr"
@@ -3203,7 +3203,7 @@
       "reset_steps": "No IP/web login exists for this device. Setup and any credential recovery happen entirely inside the 'Mi Gtd' app using the account holder's RUT and password (same login as their GTD virtual branch); if locked out, recover access via the Mi Gtd / Sucursal Virtual account or GTD support at 600 950 5000.",
       "source_url": "https://www.gtd.cl/media/pdf/guia_autoinstalacion_gtd.pdf",
       "source_name": "GTD Chile — Guía Rápida Autoinstalación Equipo Adicional eero (official PDF)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261003051208/https://www.gtd.cl/media/pdf/guia_autoinstalacion_gtd.pdf",
       "confidence": "high",
       "last_verified": "2026-09-30",
       "ssid_url": "https://ssid.ai/routers/gtd-manquehue-eero-router"
