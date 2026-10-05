@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-04",
+  "generated_at": "2026-10-05",
   "model_count": 481,
   "routers": [
     {
@@ -3223,7 +3223,7 @@
       "reset_steps": "Press and hold the Reset pinhole with a pointed object for more than 5 seconds until the status LED flashes rapidly, then release and wait for the device to restart.",
       "source_url": "https://www.h3c.com/cn/d_201507/885349_30005_0.htm",
       "source_name": "H3C official — Magic R1 300M无线路由器 用户手册",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261004051047/https://www.h3c.com/cn/d_201507/885349_30005_0.htm",
       "confidence": "high",
       "last_verified": "2026-09-30",
       "ssid_url": "https://ssid.ai/routers/h3c-magic-r1-300m"

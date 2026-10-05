@@ -11,7 +11,7 @@ Published by [ssid.ai](https://ssid.ai). Licensed **CC BY 4.0** — use it comme
 it, build on it. Just credit ssid.ai.
 
 <!-- generated:generated-at -->
-Generated 2026-10-04 from the live directory at <https://ssid.ai/routers>.
+Generated 2026-10-05 from the live directory at <https://ssid.ai/routers>.
 <!-- /generated:generated-at -->
 
 ## Files
@@ -96,7 +96,7 @@ are models whose manufacturer publishes a hostname or a DHCP-assigned address in
 ## Which routers still ship a universal default password?
 
 <!-- generated:compliance -->
-**140 of 481 models (29%).** Put the other way: 71% no longer do, as of 2026-10-04. That number is
+**140 of 481 models (29%).** Put the other way: 71% no longer do, as of 2026-10-05. That number is
 the Router Default-Credential Compliance Index, and `compliance.json` carries the full breakdown
 plus every one of the 140 models with its username, password and source.
 
@@ -140,9 +140,9 @@ their official manual PDF. Never a forum, never an aggregator, never another pas
   because hardware revisions of the same model differ. The `credential_note` says which.
 <!-- /generated:sourcing -->
 <!-- generated:archive-sourcing -->
-- 195 rows also carry `source_archive_url`, a Wayback Machine copy of the cited page, so the
+- 196 rows also carry `source_archive_url`, a Wayback Machine copy of the cited page, so the
   claim stays checkable after the manufacturer reorganises their site. A daily job works
-  through the rest, so the other 286 are queued rather than skipped. All 481 are sourced
+  through the rest, so the other 285 are queued rather than skipped. All 481 are sourced
   either way — the archive is a second copy of the evidence, never the only one.
 <!-- /generated:archive-sourcing -->
 - A null password is a real answer. Writing `admin` / `admin` for a router that forces a password
@@ -244,7 +244,7 @@ Where the data is thin, here is where:
 - **226 models have no `default_login_host`.** Most manufacturers publish only an IP.
 <!-- /generated:gaps -->
 <!-- generated:archive-gap -->
-- **286 of 481 rows have no `source_archive_url` yet.** A daily job archives a batch at a
+- **285 of 481 rows have no `source_archive_url` yet.** A daily job archives a batch at a
   time, so this shrinks steadily. Some never will: a handful of manufacturers block the
   Wayback crawler outright, and those rows keep their live `source_url` as the only citation.
 <!-- /generated:archive-gap -->
