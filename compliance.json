@@ -7,16 +7,16 @@
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
   "generated_at": "2026-10-05",
-  "model_count": 481,
+  "model_count": 504,
   "by_credential_type": {
-    "set-on-setup": 135,
-    "label-unique": 154,
+    "set-on-setup": 137,
+    "label-unique": 164,
     "app-only": 52,
-    "static": 140,
+    "static": 151,
     "unknown": 0
   },
-  "no_universal_default_pct": 71,
-  "universal_default_pct": 29,
+  "no_universal_default_pct": 70,
+  "universal_default_pct": 30,
   "by_brand": [
     {
       "brand": "Netgear",
@@ -103,6 +103,12 @@
       "no_universal_default": false
     },
     {
+      "brand": "SLT (Sri Lanka Telecom)",
+      "models": 3,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
       "brand": "Huawei",
       "models": 6,
       "universal_default_models": 2,
@@ -146,6 +152,24 @@
     },
     {
       "brand": "Sophos",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Juniper Networks",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Palo Alto Networks",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Spectranet",
       "models": 2,
       "universal_default_models": 2,
       "no_universal_default": false
@@ -218,6 +242,12 @@
     },
     {
       "brand": "O2 Czech Republic",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "StarHub (Singapore)",
       "models": 2,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -373,8 +403,14 @@
       "no_universal_default": false
     },
     {
+      "brand": "OPNsense (Deciso)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
       "brand": "AVM",
-      "models": 13,
+      "models": 16,
       "universal_default_models": 0,
       "no_universal_default": true
     },
@@ -487,6 +523,12 @@
       "no_universal_default": true
     },
     {
+      "brand": "Starry",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
       "brand": "Xiaomi",
       "models": 2,
       "universal_default_models": 0,
@@ -590,6 +632,12 @@
     },
     {
       "brand": "Amped Wireless",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Check Point",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -968,6 +1016,24 @@
     },
     {
       "brand": "GTD Manquehue",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "M1 (Singapore)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "2degrees (New Zealand)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Dialog (Sri Lanka)",
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -1455,6 +1521,26 @@
       "ssid_url": "https://ssid.ai/routers/entel-chile-huawei-b310"
     },
     {
+      "brand": "Juniper Networks",
+      "model": "SRX300",
+      "slug": "juniper-srx300",
+      "default_username": "root",
+      "default_password": null,
+      "source_url": "https://www.juniper.net/documentation/us/en/quick-start/srx300/id-step-2-up-and-running.html",
+      "source_name": "Juniper Networks — SRX300 Quick Start, \"Up and Running\"",
+      "ssid_url": "https://ssid.ai/routers/juniper-srx300"
+    },
+    {
+      "brand": "Juniper Networks",
+      "model": "SRX320",
+      "slug": "juniper-srx320",
+      "default_username": "root",
+      "default_password": null,
+      "source_url": "https://www.juniper.net/documentation/us/en/hardware/srx320/topics/topic-map/srx320-configuring-junos.html",
+      "source_name": "Juniper Networks — Configuring Junos OS on the SRX320",
+      "ssid_url": "https://ssid.ai/routers/juniper-srx320"
+    },
+    {
       "brand": "Linksys",
       "model": "EA7500 (Max-Stream AC1900)",
       "slug": "linksys-ea7500",
@@ -1825,6 +1911,16 @@
       "ssid_url": "https://ssid.ai/routers/o2-czech-zte-h168n"
     },
     {
+      "brand": "OPNsense (Deciso)",
+      "model": "OPNsense Firewall (Community Edition, factory default)",
+      "slug": "opnsense-community-edition",
+      "default_username": "root",
+      "default_password": "opnsense",
+      "source_url": "https://docs.opnsense.org/manual/install.html",
+      "source_name": "OPNsense — Initial Installation & Configuration",
+      "ssid_url": "https://ssid.ai/routers/opnsense-community-edition"
+    },
+    {
       "brand": "Orange",
       "model": "Livebox 2.0 (Poland)",
       "slug": "orange-livebox-2-pl",
@@ -1843,6 +1939,26 @@
       "source_url": "https://docs.control4.com/docs/product/pakedge-wr-1/all-dealer-pakedge-quick-start-guide/english/latest/pakedge-wr-1-pakedge-quick-start-guide-rev-f.pdf",
       "source_name": "Pakedge WR-1 Quick Start Guide (docs.control4.com — Control4/SnapAV official documentation host)",
       "ssid_url": "https://ssid.ai/routers/pakedge-wr-1-router"
+    },
+    {
+      "brand": "Palo Alto Networks",
+      "model": "PA-220",
+      "slug": "paloalto-pa-220",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-admin/getting-started/integrate-the-firewall-into-your-management-network/perform-initial-configuration",
+      "source_name": "Palo Alto Networks — Perform the Initial Setup and Configuration for NGFWs (PAN-OS Admin Guide)",
+      "ssid_url": "https://ssid.ai/routers/paloalto-pa-220"
+    },
+    {
+      "brand": "Palo Alto Networks",
+      "model": "PA-410",
+      "slug": "paloalto-pa-410",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://docs.paloaltonetworks.com/pan-os/11-0/pan-os-admin/getting-started/integrate-the-firewall-into-your-management-network/perform-initial-configuration",
+      "source_name": "Palo Alto Networks — Perform the Initial Setup and Configuration for NGFWs (PAN-OS Admin Guide)",
+      "ssid_url": "https://ssid.ai/routers/paloalto-pa-410"
     },
     {
       "brand": "Peplink",
@@ -1985,6 +2101,36 @@
       "ssid_url": "https://ssid.ai/routers/sasktel-huawei-b2268h"
     },
     {
+      "brand": "SLT (Sri Lanka Telecom)",
+      "model": "TP-Link TD-W8951ND",
+      "slug": "slt-tp-link-td-w8951nd",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.slt.lk/sites/default/files/files/downloads/general_downloads/TpLink-TD-W8951ND-English.pdf",
+      "source_name": "Sri Lanka Telecom (SLT) — TP-Link TD-W8951ND Setup Guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/slt-tp-link-td-w8951nd"
+    },
+    {
+      "brand": "SLT (Sri Lanka Telecom)",
+      "model": "ZTE ZXVN10 W300",
+      "slug": "slt-zte-zxvn10-w300",
+      "default_username": "admin",
+      "default_password": "$LT@sltbb",
+      "source_url": "https://www.slt.lk/sites/default/files/files/downloads/general_downloads/ZTE-ZXVN10-W300-English.pdf",
+      "source_name": "Sri Lanka Telecom (SLT) — ZTE ZXVN10 W300 Setup Guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/slt-zte-zxvn10-w300"
+    },
+    {
+      "brand": "SLT (Sri Lanka Telecom)",
+      "model": "ZTE ZXHN H108L",
+      "slug": "slt-zte-zxhn-h108l",
+      "default_username": "admin",
+      "default_password": "$LT@sltbb",
+      "source_url": "https://www.slt.lk/sites/default/files/files/downloads/general_downloads/ZTE-ZXHN-H108L-English.pdf",
+      "source_name": "Sri Lanka Telecom (SLT) — ZTE ZXHN H108L Setup Guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/slt-zte-zxhn-h108l"
+    },
+    {
       "brand": "SoftBank",
       "model": "Air Terminal 5 (also covers 2/3/4/4 NEXT)",
       "slug": "softbank-air-terminal-5",
@@ -2023,6 +2169,36 @@
       "source_url": "https://www.spark.co.nz/help/internet/broadband-help/spark-smart-modem-2-support/change-wifi-name-password/",
       "source_name": "Spark NZ — Spark Smart Modem 2 support",
       "ssid_url": "https://ssid.ai/routers/spark-smart-modem-2"
+    },
+    {
+      "brand": "Spectranet",
+      "model": "ACE MiFi",
+      "slug": "spectranet-ace-mifi",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://spectranet.com.ng/changewifipassword",
+      "source_name": "Spectranet Nigeria — Change WiFi Password (Device Guide)",
+      "ssid_url": "https://ssid.ai/routers/spectranet-ace-mifi"
+    },
+    {
+      "brand": "Spectranet",
+      "model": "FLYT CPE",
+      "slug": "spectranet-flyt-cpe",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://spectranet.com.ng/changewifipassword",
+      "source_name": "Spectranet Nigeria — Change WiFi Password (Device Guide)",
+      "ssid_url": "https://ssid.ai/routers/spectranet-flyt-cpe"
+    },
+    {
+      "brand": "StarHub (Singapore)",
+      "model": "PR39 Mobile Broadband Wireless Modem",
+      "slug": "starhub-pr39-mobile-broadband-modem",
+      "default_username": "root",
+      "default_password": "1234",
+      "source_url": "https://www.starhub.com/content/dam/business/support/Internet/userguides/PDF/PR39_UserGuide.pdf",
+      "source_name": "StarHub — PR39 Mobile Broadband Modem User Guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/starhub-pr39-mobile-broadband-modem"
     },
     {
       "brand": "Technicolor",
