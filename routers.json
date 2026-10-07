@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-07",
   "model_count": 504,
   "routers": [
     {
@@ -23,7 +23,7 @@
       "reset_steps": "Browse to http://fritz.box (fallback http://192.168.178.1 or http://169.254.1.1). If this is a FRITZ!box 7490 on first login, you'll be prompted to create a password. Otherwise check the bottom of the modem for the printed 'FRITZ!Box password' and enter it — there is no separate username field.",
       "source_url": "https://www.2degrees.nz/help/broadband-help/getting-started/passwords-and-settings",
       "source_name": "2degrees — Passwords & settings help for your broadband services",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261006051005/https://www.2degrees.nz/help/broadband-help/getting-started/passwords-and-settings",
       "confidence": "high",
       "last_verified": "2026-10-05",
       "ssid_url": "https://ssid.ai/routers/2degrees-fritzbox"
@@ -183,7 +183,7 @@
       "reset_steps": "Using a paper clip or other small, blunt tool, press the reset button on top of the access point for 30 seconds; after two to four minutes the AP reboots to factory defaults.",
       "source_url": "https://www.snapav.com/wcsstore/ExtendedSitesCatalogAssetStore/attachments/documents/Networking/ManualsAndGuides/AN-AP_SWManual-022423.pdf",
       "source_name": "Araknis Networks Wireless Access Point Software Manual (SnapAV)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261006051139/https://www.snapav.com/wcsstore/ExtendedSitesCatalogAssetStore/attachments/documents/Networking/ManualsAndGuides/AN-AP_SWManual-022423.pdf",
       "confidence": "high",
       "last_verified": "2026-10-05",
       "ssid_url": "https://ssid.ai/routers/araknis-an-300-ap-i-n"
