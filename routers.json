@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-08",
+  "generated_at": "2026-10-09",
   "model_count": 504,
   "routers": [
     {
@@ -1603,7 +1603,7 @@
       "reset_steps": "Connect a PC to a LAN port, browse to https://192.168.1.1:4434 to launch the First Time Configuration Wizard. Default admin login name is 'admin'; a new password must be created during the wizard (no static default password). Factory reset via the hardware reset button or Gaia CLI 'reboot_to_factory_defaults'.",
       "source_url": "https://sc1.checkpoint.com/documents/SMB_R81.10.X/AdminGuides_Locally_Managed/EN/Content/Topics/Setting-up-Quantum-Spark-Appliance.htm",
       "source_name": "Check Point — Quantum Spark 1500/1600/1800/1900/2000 Locally Managed Admin Guide (R81.10.X), \"Setting Up the Spark Firewall Appliance\"",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261008051026/https://sc1.checkpoint.com/documents/SMB_R81.10.X/AdminGuides_Locally_Managed/EN/Content/Topics/Setting-up-Quantum-Spark-Appliance.htm",
       "confidence": "high",
       "last_verified": "2026-10-07",
       "ssid_url": "https://ssid.ai/routers/checkpoint-quantum-spark-1800"
