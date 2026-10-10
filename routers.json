@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-09",
+  "generated_at": "2026-10-10",
   "model_count": 504,
   "routers": [
     {
@@ -2363,7 +2363,7 @@
       "reset_steps": "Hold the recessed reset button on the router for ~10 seconds to restore factory defaults. Browse to http://192.168.8.1 and log in using the username/password printed on the sticker on the back of the router — Dialog's FAQ clarifies this is a distinct credential from the Wi-Fi key printed on the same label.",
       "source_url": "https://dialog.lk/home-broadband/router-setup",
       "source_name": "Dialog Axiata PLC — How To Setup Home Broadband Router",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261009051008/https://dialog.lk/home-broadband/router-setup",
       "confidence": "high",
       "last_verified": "2026-10-07",
       "ssid_url": "https://ssid.ai/routers/dialog-4g-wireless-router"
@@ -2823,7 +2823,7 @@
       "reset_steps": "Setup/pairing and factory reset are driven from the Firewalla app; the hardware reset varies by model (Gold Pro has a dedicated Reset button, others reset via SD-card reflash) — see Firewalla's 'How to reset Firewalla box' article.",
       "source_url": "https://help.firewalla.com/hc/en-us/articles/360046669734-Firewalla-Gold-Series-Installation-Guide",
       "source_name": "Firewalla Help Center — Firewalla Gold Series Installation Guide",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261009051049/https://help.firewalla.com/hc/en-us/articles/360046669734-Firewalla-Gold-Series-Installation-Guide",
       "confidence": "high",
       "last_verified": "2026-10-07",
       "ssid_url": "https://ssid.ai/routers/firewalla-gold"
@@ -2843,7 +2843,7 @@
       "reset_steps": "Pairing and factory reset are handled through the Firewalla app; see Firewalla's 'How to reset Firewalla box' article for the hardware reset procedure.",
       "source_url": "https://help.firewalla.com/hc/en-us/articles/4408013495059-Web-Interfaces-for-Firewalla",
       "source_name": "Firewalla Help Center — Web Interfaces for Firewalla",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261009051127/https://help.firewalla.com/hc/en-us/articles/4408013495059-Web-Interfaces-for-Firewalla",
       "confidence": "high",
       "last_verified": "2026-10-07",
       "ssid_url": "https://ssid.ai/routers/firewalla-purple"
