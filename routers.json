@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-10",
+  "generated_at": "2026-10-11",
   "model_count": 504,
   "routers": [
     {
@@ -2783,7 +2783,7 @@
       "reset_steps": "Connect to the router by LAN or Wi-Fi, open http://192.168.2.1 in a browser, and sign in with username admin and password admin (Etisalat's documented default for this unit). Complete Internet setup with the PPPoE credentials from your e-Life card. To factory reset, hold the recessed RESET button for about 10 seconds until the unit reboots, then log back in at 192.168.2.1 and set a new admin password under System > Password.",
       "source_url": "https://support.etisalat.ae/en/system/docs/personal/manual/AztechHW550_3G_DetailedConfigurationManual_Normal.pdf",
       "source_name": "Etisalat UAE — Aztech HW550-3G Configuration Manual",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261010051125/https://support.etisalat.ae/en/system/docs/personal/manual/AztechHW550_3G_DetailedConfigurationManual_Normal.pdf",
       "confidence": "high",
       "last_verified": "2026-10-07",
       "ssid_url": "https://ssid.ai/routers/etisalat-aztech-hw550-3g"
