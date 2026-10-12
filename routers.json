@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-12",
   "model_count": 504,
   "routers": [
     {
@@ -2763,7 +2763,7 @@
       "reset_steps": "Hold the recessed reset pinhole on the rear for ~10 seconds until it restarts, then browse to 192.168.1.1 and re-run Etisalat's Setup Wizard; the router-admin User Name/Password screen can be left blank per Etisalat's own guide.",
       "source_url": "https://support.etisalat.ae/ar/system/docs/personal/guides/Setup-ADSL-Aztech605EW.pdf",
       "source_name": "Etisalat UAE — ADSL Routers Configuration guide (Aztech 605EW, ADSL & GPON, official)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261011051009/https://support.etisalat.ae/ar/system/docs/personal/guides/Setup-ADSL-Aztech605EW.pdf",
       "confidence": "high",
       "last_verified": "2026-10-07",
       "ssid_url": "https://ssid.ai/routers/etisalat-aztech-605ew"
@@ -3023,7 +3023,7 @@
       "reset_steps": "Reset: with the router powered on, press and hold the RESET button for about 10 seconds until the LEDs flash, then release and wait for reboot. Rejoin the label's wireless network, open 192.168.8.1, pick a language, and create your admin password.",
       "source_url": "https://docs.gl-inet.com/router/en/4/user_guide/gl-mt3000/",
       "source_name": "GL.iNet Official Docs - Beryl AX (GL-MT3000) User Guide",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261011051057/https://docs.gl-inet.com/router/en/4/user_guide/gl-mt3000/",
       "confidence": "high",
       "last_verified": "2026-10-07",
       "ssid_url": "https://ssid.ai/routers/gl-inet-gl-mt3000-beryl-ax"
