@@ -6,17 +6,17 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-12",
-  "model_count": 504,
+  "generated_at": "2026-10-13",
+  "model_count": 525,
   "by_credential_type": {
-    "set-on-setup": 137,
-    "label-unique": 164,
-    "app-only": 52,
-    "static": 151,
+    "set-on-setup": 139,
+    "label-unique": 169,
+    "app-only": 53,
+    "static": 164,
     "unknown": 0
   },
-  "no_universal_default_pct": 70,
-  "universal_default_pct": 30,
+  "no_universal_default_pct": 69,
+  "universal_default_pct": 31,
   "by_brand": [
     {
       "brand": "Netgear",
@@ -25,14 +25,14 @@
       "no_universal_default": false
     },
     {
-      "brand": "Linksys",
-      "models": 16,
-      "universal_default_models": 9,
+      "brand": "Peplink",
+      "models": 10,
+      "universal_default_models": 10,
       "no_universal_default": false
     },
     {
-      "brand": "Peplink",
-      "models": 9,
+      "brand": "Linksys",
+      "models": 16,
       "universal_default_models": 9,
       "no_universal_default": false
     },
@@ -109,6 +109,12 @@
       "no_universal_default": false
     },
     {
+      "brand": "Altice Dominicana",
+      "models": 3,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
       "brand": "Huawei",
       "models": 6,
       "universal_default_models": 2,
@@ -175,6 +181,18 @@
       "no_universal_default": false
     },
     {
+      "brand": "Megacable (Mexico)",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Entel (Bolivia)",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
       "brand": "ASUS",
       "models": 27,
       "universal_default_models": 1,
@@ -188,6 +206,12 @@
     },
     {
       "brand": "Orange",
+      "models": 3,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Ruckus",
       "models": 3,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -223,12 +247,6 @@
       "no_universal_default": false
     },
     {
-      "brand": "Ruckus",
-      "models": 2,
-      "universal_default_models": 1,
-      "no_universal_default": false
-    },
-    {
       "brand": "Edimax",
       "models": 2,
       "universal_default_models": 1,
@@ -248,6 +266,12 @@
     },
     {
       "brand": "StarHub (Singapore)",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Digicel",
       "models": 2,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -404,6 +428,30 @@
     },
     {
       "brand": "OPNsense (Deciso)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "SonicWall",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Orange (Spain)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Tigo (Paraguay)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Orange (Côte d'Ivoire)",
       "models": 1,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -1037,6 +1085,42 @@
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
+    },
+    {
+      "brand": "WorldLink (Nepal)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Vodafone (Spain)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Magenta Telekom (Austria)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Vodafone (Portugal)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Cosmote/OTE (Greece)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Orange (Morocco)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
     }
   ],
   "still_shipping_universal_default": [
@@ -1069,6 +1153,36 @@
       "source_url": "https://aiscallcenter.ais.co.th/fb-man-00/",
       "source_name": "AIS Call Center — วิธีเปลี่ยนชื่อและรหัส Wi-Fi (Fibre home HG180)",
       "ssid_url": "https://ssid.ai/routers/ais-fibre-home-hg180"
+    },
+    {
+      "brand": "Altice Dominicana",
+      "model": "Ubee UBC1319B",
+      "slug": "altice-dominicana-ubee-ubc1319b",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.altice.com.do/sites/default/files/2020-08/Instructivo%20configuraci%C3%B3n%20Modem%20Ubee%201319B.pdf",
+      "source_name": "Altice Dominicana — official Ubee 1319B configuration guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/altice-dominicana-ubee-ubc1319b"
+    },
+    {
+      "brand": "Altice Dominicana",
+      "model": "Huawei Flybox B315s-22",
+      "slug": "altice-dominicana-huawei-flybox-b315s-22",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.altice.com.do/sites/default/files/assets/docs/cambio_de_clave_flybox.pdf",
+      "source_name": "Altice Dominicana — official Flybox (Huawei B315s-22) WiFi configuration guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/altice-dominicana-huawei-flybox-b315s-22"
+    },
+    {
+      "brand": "Altice Dominicana",
+      "model": "Arris TG862G EMTA Cable Modem",
+      "slug": "altice-dominicana-arris-tg862g",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://www.altice.com.do/sites/default/files/assets/docs/instructivo_configuracion_wifi_emta_arris.pdf",
+      "source_name": "Altice Dominicana — official EMTA Arris TG862G WiFi configuration guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/altice-dominicana-arris-tg862g"
     },
     {
       "brand": "Araknis Networks",
@@ -1371,6 +1485,16 @@
       "ssid_url": "https://ssid.ai/routers/d-link-dir-x3260"
     },
     {
+      "brand": "Digicel",
+      "model": "Digicel+ Home Modem",
+      "slug": "digicel-home-modem",
+      "default_username": "Digicel",
+      "default_password": "Digicel",
+      "source_url": "https://www.digicelgroup.com/api/assets/digicel-personal/1387066b-8888-42b9-9591-03c018a72119/digicel-getting-started-guide-jan25-1-1-2-compressed.pdf",
+      "source_name": "Digicel — official 'More For Your Home' Digicel+ Home getting-started guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/digicel-home-modem"
+    },
+    {
       "brand": "DrayTek",
       "model": "Vigor2927",
       "slug": "draytek-vigor2927",
@@ -1459,6 +1583,26 @@
       "source_url": "https://doctorengenius.engeniustech.com/en/articles/6708892-what-is-the-default-ip-username-and-password-for-engenius-devices",
       "source_name": "Doctor EnGenius Help Center (default IP, username and password)",
       "ssid_url": "https://ssid.ai/routers/engenius-standalone-ap"
+    },
+    {
+      "brand": "Entel (Bolivia)",
+      "model": "Huawei HG8245H (fiber ONT)",
+      "slug": "entel-bolivia-huawei-hg8245h",
+      "default_username": "root",
+      "default_password": "admin",
+      "source_url": "https://institucional.entel.bo/inicio3.0/files/preguntas_frecuentes/GUIA%20PARA%20CAMBIAR%20NOMBRE%20Y%20CONTRASENA%20DE%20WI%20FI.pdf",
+      "source_name": "Entel Bolivia — official 'Guía para cambiar nombre y contraseña de WiFi' (PDF)",
+      "ssid_url": "https://ssid.ai/routers/entel-bolivia-huawei-hg8245h"
+    },
+    {
+      "brand": "Entel (Bolivia)",
+      "model": "ZTE ZXHN F670L (dual-band fiber ONT)",
+      "slug": "entel-bolivia-zte-zxhn-f670l",
+      "default_username": "user",
+      "default_password": "user",
+      "source_url": "https://institucional.entel.bo/inicio3.0/files/preguntas_frecuentes/GUIA%20PARA%20CAMBIAR%20NOMBRE%20Y%20CONTRASENA%20DE%20WI%20FI.pdf",
+      "source_name": "Entel Bolivia — official 'Guía para cambiar nombre y contraseña de WiFi' (PDF)",
+      "ssid_url": "https://ssid.ai/routers/entel-bolivia-zte-zxhn-f670l"
     },
     {
       "brand": "Etisalat by e&",
@@ -1629,6 +1773,26 @@
       "source_url": "https://support.linksys.com/kb/article/3762-en/",
       "source_name": "Linksys Support — Linksys E9450 FAQs (official)",
       "ssid_url": "https://ssid.ai/routers/linksys-e9450"
+    },
+    {
+      "brand": "Megacable (Mexico)",
+      "model": "Arris TG1652A",
+      "slug": "megacable-arris-tg1652a",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://megacable.com.mx/images/soporte-tecnico/megasoporte/arris-tg1652a_i1549067794.pdf",
+      "source_name": "Megacable — official Arris TG1652A configuration guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/megacable-arris-tg1652a"
+    },
+    {
+      "brand": "Megacable (Mexico)",
+      "model": "Motorola SBG900 Cable Modem Gateway",
+      "slug": "megacable-motorola-sbg900",
+      "default_username": "admin",
+      "default_password": "motorola",
+      "source_url": "https://www.megacable.com.mx/files/manuales/e_sbg900.pdf",
+      "source_name": "Megacable — official SBG900 configuration guide (PDF)",
+      "ssid_url": "https://ssid.ai/routers/megacable-motorola-sbg900"
     },
     {
       "brand": "MikroTik",
@@ -1931,6 +2095,26 @@
       "ssid_url": "https://ssid.ai/routers/orange-livebox-2-pl"
     },
     {
+      "brand": "Orange (Côte d'Ivoire)",
+      "model": "Flybox",
+      "slug": "orange-cote-divoire-flybox",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.orange.ci/fr/assistance/interface-administrateur-flybox.html",
+      "source_name": "Orange Côte d'Ivoire — official support page on accessing the Flybox admin interface",
+      "ssid_url": "https://ssid.ai/routers/orange-cote-divoire-flybox"
+    },
+    {
+      "brand": "Orange (Spain)",
+      "model": "Livebox Next",
+      "slug": "orange-livebox-next-es",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://ayuda.orange.es/dispositivos-y-routers/manuales-y-especificaciones/livebox-next/1707-accede-a-la-interfaz-del-livebox-next-para-configurarlo",
+      "source_name": "Orange España — Ayuda Orange: Accede a la interfaz del Livebox Next (official support page)",
+      "ssid_url": "https://ssid.ai/routers/orange-livebox-next-es"
+    },
+    {
       "brand": "Pakedge (Control4/SnapAV)",
       "model": "WR-1",
       "slug": "pakedge-wr-1-router",
@@ -2051,6 +2235,16 @@
       "ssid_url": "https://ssid.ai/routers/peplink-max-br2-pro"
     },
     {
+      "brand": "Peplink",
+      "model": "MAX Transit Duo Pro",
+      "slug": "peplink-max-transit-duo-pro",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://download.peplink.com/manual/pepwave_max_firmware_manual-fw7.1.1.pdf",
+      "source_name": "Pepwave MAX Series Firmware Manual fw7.1.1 (download.peplink.com, official)",
+      "ssid_url": "https://ssid.ai/routers/peplink-max-transit-duo-pro"
+    },
+    {
       "brand": "Prolink",
       "model": "Hurricane 6300G (Globe At Home)",
       "slug": "globe-prolink-hurricane-6300g",
@@ -2139,6 +2333,16 @@
       "source_url": "https://www.softbank.jp/support/faq/view/18966",
       "source_name": "SoftBank official FAQ — SoftBank Airセットアップメニューにアクセスできない場合の対処方法",
       "ssid_url": "https://ssid.ai/routers/softbank-air-terminal-5"
+    },
+    {
+      "brand": "SonicWall",
+      "model": "TZ370",
+      "slug": "sonicwall-tz370",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://assets-cms.sonicwall.com/technical-documentation/pdf/tz270-370-470-series-quick-start-guide/tz270-370-470-series-quick-start-guide.pdf",
+      "source_name": "SonicWall TZ270/TZ370/TZ470 Series Quick Start Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/sonicwall-tz370"
     },
     {
       "brand": "Sophos",
@@ -2249,6 +2453,16 @@
       "source_url": "https://www.telstra.com.au/support/internet-and-home-phone/access-modem-settings",
       "source_name": "Telstra Official Support — How do I access and use my modem settings?",
       "ssid_url": "https://ssid.ai/routers/telstra-smart-modem-gen-2"
+    },
+    {
+      "brand": "Tigo (Paraguay)",
+      "model": "Arris TG2482 Cable Modem",
+      "slug": "tigo-paraguay-arris-tg2482",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://ayuda.tigo.com.py/hc/centro-de-ayuda/articles/1414174965550911-como-instalo-mi-cablemodem-de-tigo-yo-mismo-a",
+      "source_name": "Tigo Paraguay — Centro de Ayuda (official support site)",
+      "ssid_url": "https://ssid.ai/routers/tigo-paraguay-arris-tg2482"
     },
     {
       "brand": "Totalplay",
