@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "model_count": 525,
   "routers": [
     {
@@ -103,7 +103,7 @@
       "reset_steps": "Hold the reset button on the rear of the modem for ~10 seconds. Alternate access address 192.168.1.100 also applies to this model per the official guide.",
       "source_url": "https://www.altice.com.do/sites/default/files/assets/docs/instructivo_configuracion_wifi_emta_arris.pdf",
       "source_name": "Altice Dominicana — official EMTA Arris TG862G WiFi configuration guide (PDF)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261013051005/https://www.altice.com.do/sites/default/files/assets/docs/instructivo_configuracion_wifi_emta_arris.pdf",
       "confidence": "high",
       "last_verified": "2026-10-12",
       "ssid_url": "https://ssid.ai/routers/altice-dominicana-arris-tg862g"
@@ -143,7 +143,7 @@
       "reset_steps": "Hold the recessed reset button on the back of the modem for ~10 seconds.",
       "source_url": "https://www.altice.com.do/sites/default/files/2020-08/Instructivo%20configuraci%C3%B3n%20Modem%20Ubee%201319B.pdf",
       "source_name": "Altice Dominicana — official Ubee 1319B configuration guide (PDF)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261013051103/https://www.altice.com.do/sites/default/files/2020-08/Instructivo%20configuraci%C3%B3n%20Modem%20Ubee%201319B.pdf",
       "confidence": "high",
       "last_verified": "2026-10-12",
       "ssid_url": "https://ssid.ai/routers/altice-dominicana-ubee-ubc1319b"
