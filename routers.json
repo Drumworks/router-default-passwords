@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-15",
+  "generated_at": "2026-10-16",
   "model_count": 525,
   "routers": [
     {
@@ -1283,7 +1283,7 @@
       "reset_steps": "Type http://fritz.repeater into any browser; this address resolves locally even with no internet. Asked for a password? It's the code on the 3000's bottom label — a single lowercase word followed by four digits, no symbols. Missing or wrong? Create a fresh password right there on first access, or reuse whatever your Mesh Master already has set. A full wipe happens via the UI's System > Backup > Factory settings page, or the unit's physical reset button, after which the same login steps apply again.",
       "source_url": "https://uk.fritz.com/service/knowledge-base/dok/FRITZ-Repeater-3000/3531_Determining-the-password-for-the-FRITZ-Repeater-user-interface/",
       "source_name": "AVM FRITZ! — Determining the password for the FRITZ!Repeater user interface (FRITZ!Repeater 3000)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261015051007/https://uk.fritz.com/service/knowledge-base/dok/FRITZ-Repeater-3000/3531_Determining-the-password-for-the-FRITZ-Repeater-user-interface/",
       "confidence": "high",
       "last_verified": "2026-10-12",
       "ssid_url": "https://ssid.ai/routers/avm-fritz-repeater-3000"
