@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-18",
+  "generated_at": "2026-10-19",
   "model_count": 525,
   "routers": [
     {
@@ -2903,7 +2903,7 @@
       "reset_steps": "Hold the reset button on the ONT for ~10 seconds to restore factory settings.",
       "source_url": "https://institucional.entel.bo/inicio3.0/files/preguntas_frecuentes/GUIA%20PARA%20CAMBIAR%20NOMBRE%20Y%20CONTRASENA%20DE%20WI%20FI.pdf",
       "source_name": "Entel Bolivia — official 'Guía para cambiar nombre y contraseña de WiFi' (PDF)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261018051007/https://institucional.entel.bo/inicio3.0/files/preguntas_frecuentes/GUIA%20PARA%20CAMBIAR%20NOMBRE%20Y%20CONTRASENA%20DE%20WI%20FI.pdf",
       "confidence": "high",
       "last_verified": "2026-10-18",
       "ssid_url": "https://ssid.ai/routers/entel-bolivia-zte-zxhn-f670l"
@@ -2963,7 +2963,7 @@
       "reset_steps": "Pairing and factory reset are handled entirely through the Firewalla app; there is no on-box web-admin credential to reset.",
       "source_url": "https://help.firewalla.com/hc/en-us/articles/4408013495059-Web-Interfaces-for-Firewalla",
       "source_name": "Firewalla Help Center — Web Interfaces for Firewalla (official)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261018051032/https://help.firewalla.com/hc/en-us/articles/4408013495059-Web-Interfaces-for-Firewalla",
       "confidence": "medium",
       "last_verified": "2026-10-18",
       "ssid_url": "https://ssid.ai/routers/firewalla-blue-plus"
@@ -3623,7 +3623,7 @@
       "reset_steps": "Press and hold the physical reset button (or trigger factory reset via the Honor Smart Space app) until the indicator light changes; the router reboots to an open, unsecured default Wi-Fi network requiring the setup wizard to be completed again at 192.168.3.1.",
       "source_url": "https://www.honor.com/cn/support/content/zh-cn15811423/",
       "source_name": "Honor Official Support — 路由器 Web 配置界面的登录密码",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261018051108/https://www.honor.com/cn/support/content/zh-cn15811423/",
       "confidence": "high",
       "last_verified": "2026-10-18",
       "ssid_url": "https://ssid.ai/routers/honor-router-3-se"
