@@ -6,17 +6,17 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-19",
-  "model_count": 525,
+  "generated_at": "2026-10-20",
+  "model_count": 550,
   "by_credential_type": {
-    "set-on-setup": 139,
-    "label-unique": 169,
+    "set-on-setup": 141,
+    "label-unique": 177,
     "app-only": 53,
-    "static": 164,
+    "static": 179,
     "unknown": 0
   },
-  "no_universal_default_pct": 69,
-  "universal_default_pct": 31,
+  "no_universal_default_pct": 67,
+  "universal_default_pct": 33,
   "by_brand": [
     {
       "brand": "Netgear",
@@ -44,8 +44,8 @@
     },
     {
       "brand": "DrayTek",
-      "models": 7,
-      "universal_default_models": 7,
+      "models": 8,
+      "universal_default_models": 8,
       "no_universal_default": false
     },
     {
@@ -85,6 +85,12 @@
       "no_universal_default": false
     },
     {
+      "brand": "Zain",
+      "models": 4,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
       "brand": "Hitron",
       "models": 3,
       "universal_default_models": 3,
@@ -98,6 +104,18 @@
     },
     {
       "brand": "Araknis Networks",
+      "models": 3,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Juniper Networks",
+      "models": 3,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Palo Alto Networks",
       "models": 3,
       "universal_default_models": 3,
       "no_universal_default": false
@@ -139,13 +157,13 @@
       "no_universal_default": false
     },
     {
-      "brand": "Buffalo",
-      "models": 2,
+      "brand": "TIM (Brasil)",
+      "models": 3,
       "universal_default_models": 2,
       "no_universal_default": false
     },
     {
-      "brand": "Zain",
+      "brand": "Buffalo",
       "models": 2,
       "universal_default_models": 2,
       "no_universal_default": false
@@ -157,19 +175,13 @@
       "no_universal_default": false
     },
     {
+      "brand": "WatchGuard",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
       "brand": "Sophos",
-      "models": 2,
-      "universal_default_models": 2,
-      "no_universal_default": false
-    },
-    {
-      "brand": "Juniper Networks",
-      "models": 2,
-      "universal_default_models": 2,
-      "no_universal_default": false
-    },
-    {
-      "brand": "Palo Alto Networks",
       "models": 2,
       "universal_default_models": 2,
       "no_universal_default": false
@@ -385,12 +397,6 @@
       "no_universal_default": false
     },
     {
-      "brand": "WatchGuard",
-      "models": 1,
-      "universal_default_models": 1,
-      "no_universal_default": false
-    },
-    {
       "brand": "Barracuda",
       "models": 1,
       "universal_default_models": 1,
@@ -452,6 +458,54 @@
     },
     {
       "brand": "Orange (Côte d'Ivoire)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "WOM (Chile)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Tigo (Honduras)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "TIM (Italy)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "T-Mobile Poland",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Telia (Norway)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Telia (Finland)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Biznet (Indonesia)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Chunghwa Telecom (Taiwan)",
       "models": 1,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -571,6 +625,12 @@
       "no_universal_default": true
     },
     {
+      "brand": "Fortinet",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
       "brand": "Starry",
       "models": 3,
       "universal_default_models": 0,
@@ -613,6 +673,12 @@
       "no_universal_default": true
     },
     {
+      "brand": "Cisco Meraki",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
       "brand": "Aruba (HPE)",
       "models": 2,
       "universal_default_models": 0,
@@ -649,13 +715,13 @@
       "no_universal_default": true
     },
     {
-      "brand": "Inseego",
+      "brand": "Vodacom",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
     },
     {
-      "brand": "Fortinet",
+      "brand": "Inseego",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -764,12 +830,6 @@
     },
     {
       "brand": "Nokia",
-      "models": 1,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
-      "brand": "Cisco Meraki",
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -985,12 +1045,6 @@
       "no_universal_default": true
     },
     {
-      "brand": "Vodacom",
-      "models": 1,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
       "brand": "Singtel",
       "models": 1,
       "universal_default_models": 0,
@@ -1118,6 +1172,36 @@
     },
     {
       "brand": "Orange (Morocco)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Cell C",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Sunrise (Switzerland)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Salt (Switzerland)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "VOO (Belgium)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Delta (Netherlands)",
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -1305,6 +1389,16 @@
       "ssid_url": "https://ssid.ai/routers/belkin-n-ac-legacy"
     },
     {
+      "brand": "Biznet (Indonesia)",
+      "model": "Huawei EchoLife HG8245H5",
+      "slug": "biznet-huawei-hg8245h5",
+      "default_username": "telecomadmin",
+      "default_password": "admintelecom",
+      "source_url": "https://www.biznetnetworks.com/assets/marketing-brand/buku-panduan-biznet-home---8-jul-2022.pdf",
+      "source_name": "Biznet Home — Buku Panduan (official user guide, 8 Jul 2022)",
+      "ssid_url": "https://ssid.ai/routers/biznet-huawei-hg8245h5"
+    },
+    {
       "brand": "BSNL",
       "model": "Broadband ADSL Modem (Type-2 WA3002-G4)",
       "slug": "bsnl-wa3002-g4",
@@ -1343,6 +1437,16 @@
       "source_url": "https://www.cambiumnetworks.com/wp-content/uploads/2021/07/cnPilot_R190_Quick_Start_Guide.pdf",
       "source_name": "Cambium Networks — cnPilot R190 Quick Start Guide (official PDF)",
       "ssid_url": "https://ssid.ai/routers/cambium-cnpilot-r190"
+    },
+    {
+      "brand": "Chunghwa Telecom (Taiwan)",
+      "model": "Arcadyan WG620443-TC (HiNet mesh)",
+      "slug": "cht-hinet-wg620443-tc",
+      "default_username": "user",
+      "default_password": "user",
+      "source_url": "https://www.cht.com.tw/home/campaign/broadbandHomeWi-Fi/download/Wi-Fi6_4T4R_WG620443-TC.pdf",
+      "source_name": "Chunghwa Telecom — WG620443-TC 家用無線區域網路接取器 設備說明書_快速安裝指南",
+      "ssid_url": "https://ssid.ai/routers/cht-hinet-wg620443-tc"
     },
     {
       "brand": "Cisco",
@@ -1565,6 +1669,16 @@
       "ssid_url": "https://ssid.ai/routers/draytek-vigor2765vac"
     },
     {
+      "brand": "DrayTek",
+      "model": "Vigor2962",
+      "slug": "draytek-vigor2962",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.draytek.co.uk/support/guides/kb-defaultpassword",
+      "source_name": "DrayTek UK Support — What is the default password?",
+      "ssid_url": "https://ssid.ai/routers/draytek-vigor2962"
+    },
+    {
       "brand": "Edimax",
       "model": "BR-6428nS V5",
       "slug": "edimax-br-6428ns-v5",
@@ -1683,6 +1797,16 @@
       "source_url": "https://www.juniper.net/documentation/us/en/hardware/srx320/topics/topic-map/srx320-configuring-junos.html",
       "source_name": "Juniper Networks — Configuring Junos OS on the SRX320",
       "ssid_url": "https://ssid.ai/routers/juniper-srx320"
+    },
+    {
+      "brand": "Juniper Networks",
+      "model": "SRX340",
+      "slug": "juniper-srx340",
+      "default_username": "root",
+      "default_password": null,
+      "source_url": "https://www.juniper.net/documentation/us/en/quick-start/hardware/qsg/srx340/topics/topic-map/step-2-up-and-running.html",
+      "source_name": "Juniper Networks — SRX340 Quick Start Guide",
+      "ssid_url": "https://ssid.ai/routers/juniper-srx340"
     },
     {
       "brand": "Linksys",
@@ -2145,6 +2269,16 @@
       "ssid_url": "https://ssid.ai/routers/paloalto-pa-410"
     },
     {
+      "brand": "Palo Alto Networks",
+      "model": "PA-440",
+      "slug": "paloalto-pa-440",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://docs.paloaltonetworks.com/hardware/pa-400-hardware-reference/install-the-pa-400-firewall/set-up-a-connection-to-the-firewall",
+      "source_name": "Palo Alto Networks — PA-400 Series Hardware Reference: Set Up a Connection to the Firewall",
+      "ssid_url": "https://ssid.ai/routers/paloalto-pa-440"
+    },
+    {
       "brand": "Peplink",
       "model": "Balance 20X",
       "slug": "peplink-balance-20x",
@@ -2405,6 +2539,16 @@
       "ssid_url": "https://ssid.ai/routers/starhub-pr39-mobile-broadband-modem"
     },
     {
+      "brand": "T-Mobile Poland",
+      "model": "Huawei E5180",
+      "slug": "t-mobile-pl-huawei-e5180",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.t-mobile.pl/blog/archiwum/huawei-e5180-jak-skonfigurowac-router-lte",
+      "source_name": "T-Mobile Polska Blog — Huawei E5180 — jak skonfigurować router LTE",
+      "ssid_url": "https://ssid.ai/routers/t-mobile-pl-huawei-e5180"
+    },
+    {
       "brand": "Technicolor",
       "model": "Vivo Fibra Router (Technicolor variant)",
       "slug": "vivo-brasil-technicolor-router",
@@ -2423,6 +2567,26 @@
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
       "ssid_url": "https://ssid.ai/routers/izzi-technicolor-tc8305c"
+    },
+    {
+      "brand": "Telia (Finland)",
+      "model": "Huawei B315",
+      "slug": "telia-fi-huawei-b315",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.telia.fi/asiakastuki/laitteet/huawei-b315-reititin",
+      "source_name": "Telia Finland Asiakastuki — Huawei B315-reitittimen käyttöohje",
+      "ssid_url": "https://ssid.ai/routers/telia-fi-huawei-b315"
+    },
+    {
+      "brand": "Telia (Norway)",
+      "model": "Sagemcom 3686",
+      "slug": "telia-no-sagemcom-3686",
+      "default_username": "home",
+      "default_password": "home",
+      "source_url": "https://www.telia.no/internett/wifi/rutere/sagemcom-3686/",
+      "source_name": "Telia Norge — Sagemcom 3686 ruterguide",
+      "ssid_url": "https://ssid.ai/routers/telia-no-sagemcom-3686"
     },
     {
       "brand": "Telkom",
@@ -2455,6 +2619,16 @@
       "ssid_url": "https://ssid.ai/routers/telstra-smart-modem-gen-2"
     },
     {
+      "brand": "Tigo (Honduras)",
+      "model": "Hitron CGNV2 Cable Modem",
+      "slug": "tigo-honduras-hitron-cgnv2",
+      "default_username": "cusadmin",
+      "default_password": "password",
+      "source_url": "https://ayuda.tigo.com.hn/hc/centro-de-ayuda/articles/1740437398-manual-para-la-autoinstalacion-y-configuracion-de-tu-cable-modem-hitron",
+      "source_name": "Tigo Honduras Centro de Ayuda — Manual de autoinstalación Cable Modem Hitron",
+      "ssid_url": "https://ssid.ai/routers/tigo-honduras-hitron-cgnv2"
+    },
+    {
       "brand": "Tigo (Paraguay)",
       "model": "Arris TG2482 Cable Modem",
       "slug": "tigo-paraguay-arris-tg2482",
@@ -2463,6 +2637,36 @@
       "source_url": "https://ayuda.tigo.com.py/hc/centro-de-ayuda/articles/1414174965550911-como-instalo-mi-cablemodem-de-tigo-yo-mismo-a",
       "source_name": "Tigo Paraguay — Centro de Ayuda (official support site)",
       "ssid_url": "https://ssid.ai/routers/tigo-paraguay-arris-tg2482"
+    },
+    {
+      "brand": "TIM (Brasil)",
+      "model": "Sagemcom F@st 4310",
+      "slug": "tim-brasil-sagemcom-fast-4310",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.tim.com.br/ajuda/perguntas-frequentes/internet-e-telefone-fixo/tim-fibra/suporte-e-dicas",
+      "source_name": "TIM Brasil — Suporte e dicas TIM Fibra",
+      "ssid_url": "https://ssid.ai/routers/tim-brasil-sagemcom-fast-4310"
+    },
+    {
+      "brand": "TIM (Brasil)",
+      "model": "ZTE 931",
+      "slug": "tim-brasil-zte-931",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.tim.com.br/ajuda/perguntas-frequentes/internet-e-telefone-fixo/tim-fibra/suporte-e-dicas",
+      "source_name": "TIM Brasil — Suporte e dicas TIM Fibra",
+      "ssid_url": "https://ssid.ai/routers/tim-brasil-zte-931"
+    },
+    {
+      "brand": "TIM (Italy)",
+      "model": "TIM HUB",
+      "slug": "tim-hub-modem-it",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://www.tim.it/assistenza/assistenza-tecnica/guide-manuali/modem-timhub/password",
+      "source_name": "TIM Assistenza Tecnica — Modem TIM HUB, impostazioni password",
+      "ssid_url": "https://ssid.ai/routers/tim-hub-modem-it"
     },
     {
       "brand": "Totalplay",
@@ -2655,6 +2859,16 @@
       "ssid_url": "https://ssid.ai/routers/watchguard-firebox-t20-t20w"
     },
     {
+      "brand": "WatchGuard",
+      "model": "Firebox T40 / T40-W",
+      "slug": "watchguard-firebox-t40",
+      "default_username": "admin",
+      "default_password": "readwrite",
+      "source_url": "https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/basicadmin/factory_default_about_c.html",
+      "source_name": "WatchGuard Help Center — About Factory-Default Settings",
+      "ssid_url": "https://ssid.ai/routers/watchguard-firebox-t40"
+    },
+    {
       "brand": "Wavlink",
       "model": "WL-WN533A8 (AC1200)",
       "slug": "wavlink-wl-wn533a8",
@@ -2675,6 +2889,16 @@
       "ssid_url": "https://ssid.ai/routers/we-egypt-air-router"
     },
     {
+      "brand": "WOM (Chile)",
+      "model": "Alcatel MW45 (LinkZone) 4G Mobile WiFi Modem",
+      "slug": "wom-chile-alcatel-mw45",
+      "default_username": null,
+      "default_password": "admin",
+      "source_url": "https://www.wom.cl/centro-de-ayuda/como-accedo-a-la-configuracion-de-mi-modem-alcatel/",
+      "source_name": "WOM Chile Centro de Ayuda — Configuración modem Alcatel",
+      "ssid_url": "https://ssid.ai/routers/wom-chile-alcatel-mw45"
+    },
+    {
       "brand": "Zain",
       "model": "Huawei B520 (Zain Fiber CPE, Speed4G)",
       "slug": "zain-ksa-huawei-b520",
@@ -2693,6 +2917,16 @@
       "source_url": "https://sa.zain.com/sites/default/files/2020-03/Zain-Fiber-CPEs-configuration-DG8245W2.pdf",
       "source_name": "Zain KSA — Zain Fiber CPE Activation: DG8245W2/DG8245V First Time Configuration (official PDF)",
       "ssid_url": "https://ssid.ai/routers/zain-ksa-huawei-dg8245v"
+    },
+    {
+      "brand": "Zain",
+      "model": "Huawei B315 4G Router (Zain Fiber CPE)",
+      "slug": "zain-ksa-huawei-b315",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://sa.zain.com/sites/default/files/2020-03/Zain-Fiber-CPEs-configuration-B315.pdf",
+      "source_name": "Zain KSA — Zain Fiber-CPE Activation: B315 First Time Configuration",
+      "ssid_url": "https://ssid.ai/routers/zain-ksa-huawei-b315"
     },
     {
       "brand": "ZTE",
