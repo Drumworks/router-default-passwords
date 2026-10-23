@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-22",
+  "generated_at": "2026-10-23",
   "model_count": 550,
   "routers": [
     {
@@ -1723,7 +1723,7 @@
       "reset_steps": "Hold the rear Reset button for 6+ seconds for a partial reset or 10+ seconds for a full factory reset; holding the WPS button for 6+ seconds resets only the admin login password.",
       "source_url": "https://www.cht.com.tw/home/campaign/broadbandHomeWi-Fi/download/Wi-Fi6_4T4R_WG620443-TC.pdf",
       "source_name": "Chunghwa Telecom — WG620443-TC 家用無線區域網路接取器 設備說明書_快速安裝指南",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261022051005/https://www.cht.com.tw/home/campaign/broadbandHomeWi-Fi/download/Wi-Fi6_4T4R_WG620443-TC.pdf",
       "confidence": "high",
       "last_verified": "2026-10-21",
       "ssid_url": "https://ssid.ai/routers/cht-hinet-wg620443-tc"
@@ -1843,7 +1843,7 @@
       "reset_steps": "Hold the recessed reset button for about 20 seconds to factory-reset; the local status page then accepts the device serial (printed on the pull-tab label) as username with a blank password, until the unit is claimed into a Meraki dashboard network.",
       "source_url": "https://documentation.meraki.com/SASE_and_SD-WAN/MX/Install_and_Get_Started/Installation_Guides/MX64_Installation_Guide",
       "source_name": "Cisco Meraki Documentation — MX64 Installation Guide",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261022051026/https://documentation.meraki.com/SASE_and_SD-WAN/MX/Install_and_Get_Started/Installation_Guides/MX64_Installation_Guide",
       "confidence": "high",
       "last_verified": "2026-10-21",
       "ssid_url": "https://ssid.ai/routers/cisco-meraki-mx64"
@@ -1963,7 +1963,7 @@
       "reset_steps": "Hold the Reset button for 2-5 seconds for a soft reset; holding for 15 seconds or more restores full factory default settings (any changed passwords, content controls, or firewall settings are lost).",
       "source_url": "https://secure.xfinity.com/anon.comcastonline2/support/helpandsupport/businessclass/help_articles/CB_BWG_QuickStartGuide_Rev%20%203%2014.pdf",
       "source_name": "Comcast Business Wireless Gateway (DPC3939B) Quick Start Guide (official Xfinity/Comcast Business document host)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261022051053/https://secure.xfinity.com/anon.comcastonline2/support/helpandsupport/businessclass/help_articles/CB_BWG_QuickStartGuide_Rev%20%203%2014.pdf",
       "confidence": "high",
       "last_verified": "2026-10-21",
       "ssid_url": "https://ssid.ai/routers/comcast-business-wireless-gateway-dpc3939b"
@@ -2383,7 +2383,7 @@
       "reset_steps": "Factory-reset procedure not detailed in the official installation manual.",
       "source_url": "https://media.umbraco.io/deltafiber/elnf3cu3/handleiding-sagemcom-3890.pdf",
       "source_name": "Delta — Installatiehandleiding WiFi-modem F@ST 3890v3 (official PDF)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261022051115/https://media.umbraco.io/deltafiber/elnf3cu3/handleiding-sagemcom-3890.pdf",
       "confidence": "high",
       "last_verified": "2026-10-21",
       "ssid_url": "https://ssid.ai/routers/delta-sagemcom-fast-3890v3"
@@ -2703,7 +2703,7 @@
       "reset_steps": "Hold the Factory Reset pinhole button for about 10 seconds until all LEDs flash, to restore admin/admin at 192.168.1.1.",
       "source_url": "https://www.draytek.co.uk/support/guides/kb-defaultpassword",
       "source_name": "DrayTek UK Support — What is the default password?",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261022051139/https://www.draytek.co.uk/support/guides/kb-defaultpassword",
       "confidence": "high",
       "last_verified": "2026-10-21",
       "ssid_url": "https://ssid.ai/routers/draytek-vigor2962"
