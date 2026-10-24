@@ -140,9 +140,9 @@ their official manual PDF. Never a forum, never an aggregator, never another pas
   because hardware revisions of the same model differ. The `credential_note` says which.
 <!-- /generated:sourcing -->
 <!-- generated:archive-sourcing -->
-- 230 rows also carry `source_archive_url`, a Wayback Machine copy of the cited page, so the
+- 232 rows also carry `source_archive_url`, a Wayback Machine copy of the cited page, so the
   claim stays checkable after the manufacturer reorganises their site. A daily job works
-  through the rest, so the other 320 are queued rather than skipped. All 550 are sourced
+  through the rest, so the other 318 are queued rather than skipped. All 550 are sourced
   either way — the archive is a second copy of the evidence, never the only one.
 <!-- /generated:archive-sourcing -->
 - A null password is a real answer. Writing `admin` / `admin` for a router that forces a password
@@ -244,7 +244,7 @@ Where the data is thin, here is where:
 - **243 models have no `default_login_host`.** Most manufacturers publish only an IP.
 <!-- /generated:gaps -->
 <!-- generated:archive-gap -->
-- **320 of 550 rows have no `source_archive_url` yet.** A daily job archives a batch at a
+- **318 of 550 rows have no `source_archive_url` yet.** A daily job archives a batch at a
   time, so this shrinks steadily. Some never will: a handful of manufacturers block the
   Wayback crawler outright, and those rows keep their live `source_url` as the only citation.
 <!-- /generated:archive-gap -->
