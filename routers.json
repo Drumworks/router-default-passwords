@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-26",
+  "generated_at": "2026-10-27",
   "model_count": 550,
   "routers": [
     {
@@ -343,7 +343,7 @@
       "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-arris-tg1652"
@@ -363,7 +363,7 @@
       "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-arris-tg3442"
@@ -383,7 +383,7 @@
       "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-arris-tg862"
@@ -3683,7 +3683,7 @@
       "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-hitron-cgnv5"
@@ -3703,7 +3703,7 @@
       "reset_steps": "Change the default 'cusadmin'/'password' credentials immediately after first login; use the physical reset button to restore factory defaults if changed and forgotten.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "izzi Ayuda — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-hitron-chita-3-1"
@@ -4023,7 +4023,7 @@
       "reset_steps": "Not a forgot-password reset flow — view the current Admin password directly on the device's own touchscreen: Home screen icon > Wi-Fi Name/Password, or Help > Admin Website.",
       "source_url": "https://inseego.com/resources/product-documentation/mifi-x-pro/user-guide/admin-web-ui/overview/admin-password/",
       "source_name": "Inseego MiFi X Pro User Guide — Admin Password (official)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051005/https://inseego.com/resources/product-documentation/mifi-x-pro/user-guide/admin-web-ui/overview/admin-password/",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/inseego-mifi-x-pro"
@@ -4043,7 +4043,7 @@
       "reset_steps": "JioFiber is managed from the MyJio app, not a web admin page. Open MyJio, sign in with your JioFiber number, choose your Fiber account, and change the Wi-Fi name/password under the device / Wi-Fi settings (JioAirFiber uses the JioHome app with mobile number + OTP). To hard reset the ONT, hold the recessed RESET pinhole on the back for about 10 seconds until it reboots, then reconfigure Wi-Fi from the app. There is no admin/admin web login to sign into.",
       "source_url": "https://www.jio.com/help/faq/jiofiber/manage-jiofiber/device/how-to-change-jiofiber-router-wifissid-password-received-with-jiofiber-connection/",
       "source_name": "Jio Help — Change JioFiber Router (Wi-Fi/SSID) password",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051503/https://www.jio.com/help/faq/jiofiber/manage-jiofiber/device/how-to-change-jiofiber-router-wifissid-password-received-with-jiofiber-connection/",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/jio-jiofiber"
@@ -7103,7 +7103,7 @@
       "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-sagemcom-fast3890"
@@ -7923,7 +7923,7 @@
       "reset_steps": "Password is unique per device, printed on the modem's label; if lost, contact izzi support or use the physical reset button to restore factory settings.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "izzi Ayuda — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-technicolor-cga4233"
@@ -7943,7 +7943,7 @@
       "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-technicolor-tc8305c"
@@ -9603,7 +9603,7 @@
       "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings. If user/user fails, the documented fallback is admin/admin.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-ubee-dvw324"
@@ -10783,7 +10783,7 @@
       "reset_steps": "Press and hold the reset button for 30 seconds to restore the ONT to factory settings.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261026051039/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/izzi-zte-f689-ont"
