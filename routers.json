@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-10-28",
+  "generated_at": "2026-10-29",
   "model_count": 550,
   "routers": [
     {
@@ -3943,7 +3943,7 @@
       "reset_steps": "With a pin, hold the recessed RESET button until the indicator light goes out/blinks, then wait for the router to restart to factory defaults.",
       "source_url": "https://consumer.huawei.com/en/support/content/en-us15902572/",
       "source_name": "Huawei official support (router web management login)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261028051123/https://consumer.huawei.com/en/support/content/en-us15902572/",
       "confidence": "high",
       "last_verified": "2026-10-25",
       "ssid_url": "https://ssid.ai/routers/huawei-wifi-ax3"
