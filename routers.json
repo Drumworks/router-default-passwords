@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-11-03",
+  "generated_at": "2026-11-04",
   "model_count": 550,
   "routers": [
     {
@@ -4123,7 +4123,7 @@
       "reset_steps": "A short press-and-release of the reset button restarts the modem without changes; press and hold for 30 seconds to restore factory settings.",
       "source_url": "https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "source_name": "Ayuda izzi — Conoce tu usuario y contraseña de tu módem izzi",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261103051113/https://ayudaizzi.izzi.mx/hc/es/articles/4407983712666-Conoce-tu-usuario-y-contrase%C3%B1a-de-tu-m%C3%B3dem-izzi",
       "confidence": "high",
       "last_verified": "2026-11-01",
       "ssid_url": "https://ssid.ai/routers/izzi-kaon-cg3000"
