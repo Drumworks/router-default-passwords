@@ -7,20 +7,20 @@
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
   "generated_at": "2026-11-09",
-  "model_count": 550,
+  "model_count": 577,
   "by_credential_type": {
-    "set-on-setup": 141,
-    "label-unique": 177,
+    "set-on-setup": 145,
+    "label-unique": 185,
     "app-only": 53,
-    "static": 179,
+    "static": 194,
     "unknown": 0
   },
-  "no_universal_default_pct": 67,
-  "universal_default_pct": 33,
+  "no_universal_default_pct": 66,
+  "universal_default_pct": 34,
   "by_brand": [
     {
       "brand": "Netgear",
-      "models": 40,
+      "models": 41,
       "universal_default_models": 16,
       "no_universal_default": false
     },
@@ -32,13 +32,13 @@
     },
     {
       "brand": "Linksys",
-      "models": 16,
+      "models": 17,
       "universal_default_models": 9,
       "no_universal_default": false
     },
     {
       "brand": "D-Link",
-      "models": 14,
+      "models": 15,
       "universal_default_models": 8,
       "no_universal_default": false
     },
@@ -67,13 +67,31 @@
       "no_universal_default": false
     },
     {
+      "brand": "Palo Alto Networks",
+      "models": 5,
+      "universal_default_models": 5,
+      "no_universal_default": false
+    },
+    {
       "brand": "TP-Link",
-      "models": 43,
+      "models": 44,
       "universal_default_models": 4,
       "no_universal_default": false
     },
     {
       "brand": "Belkin",
+      "models": 4,
+      "universal_default_models": 4,
+      "no_universal_default": false
+    },
+    {
+      "brand": "WatchGuard",
+      "models": 4,
+      "universal_default_models": 4,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Juniper Networks",
       "models": 4,
       "universal_default_models": 4,
       "no_universal_default": false
@@ -109,18 +127,6 @@
       "no_universal_default": false
     },
     {
-      "brand": "Juniper Networks",
-      "models": 3,
-      "universal_default_models": 3,
-      "no_universal_default": false
-    },
-    {
-      "brand": "Palo Alto Networks",
-      "models": 3,
-      "universal_default_models": 3,
-      "no_universal_default": false
-    },
-    {
       "brand": "SLT (Sri Lanka Telecom)",
       "models": 3,
       "universal_default_models": 3,
@@ -133,6 +139,12 @@
       "no_universal_default": false
     },
     {
+      "brand": "Partner (Israel)",
+      "models": 3,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
       "brand": "Huawei",
       "models": 6,
       "universal_default_models": 2,
@@ -140,6 +152,12 @@
     },
     {
       "brand": "SaskTel",
+      "models": 4,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "TRENDnet",
       "models": 4,
       "universal_default_models": 2,
       "no_universal_default": false
@@ -175,19 +193,25 @@
       "no_universal_default": false
     },
     {
-      "brand": "WatchGuard",
-      "models": 2,
-      "universal_default_models": 2,
-      "no_universal_default": false
-    },
-    {
       "brand": "Sophos",
       "models": 2,
       "universal_default_models": 2,
       "no_universal_default": false
     },
     {
+      "brand": "Cambium Networks",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
       "brand": "Spectranet",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
+      "brand": "SonicWall",
       "models": 2,
       "universal_default_models": 2,
       "no_universal_default": false
@@ -206,7 +230,7 @@
     },
     {
       "brand": "ASUS",
-      "models": 27,
+      "models": 28,
       "universal_default_models": 1,
       "no_universal_default": false
     },
@@ -224,12 +248,6 @@
     },
     {
       "brand": "Ruckus",
-      "models": 3,
-      "universal_default_models": 1,
-      "no_universal_default": false
-    },
-    {
-      "brand": "TRENDnet",
       "models": 3,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -403,12 +421,6 @@
       "no_universal_default": false
     },
     {
-      "brand": "Cambium Networks",
-      "models": 1,
-      "universal_default_models": 1,
-      "no_universal_default": false
-    },
-    {
       "brand": "WE (Telecom Egypt)",
       "models": 1,
       "universal_default_models": 1,
@@ -434,12 +446,6 @@
     },
     {
       "brand": "OPNsense (Deciso)",
-      "models": 1,
-      "universal_default_models": 1,
-      "no_universal_default": false
-    },
-    {
-      "brand": "SonicWall",
       "models": 1,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -506,6 +512,30 @@
     },
     {
       "brand": "Chunghwa Telecom (Taiwan)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Digi (RCS-RDS)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Claro Colombia",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "NURO (Sony Network Communications)",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "3BB (Triple T Broadband)",
       "models": 1,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -589,6 +619,18 @@
       "no_universal_default": true
     },
     {
+      "brand": "Fortinet",
+      "models": 4,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Xfinity (Comcast)",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
       "brand": "AT&T",
       "models": 3,
       "universal_default_models": 0,
@@ -596,6 +638,12 @@
     },
     {
       "brand": "Virgin Media",
+      "models": 3,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Cisco Meraki",
       "models": 3,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -625,12 +673,6 @@
       "no_universal_default": true
     },
     {
-      "brand": "Fortinet",
-      "models": 3,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
       "brand": "Starry",
       "models": 3,
       "universal_default_models": 0,
@@ -649,12 +691,6 @@
       "no_universal_default": true
     },
     {
-      "brand": "Xfinity (Comcast)",
-      "models": 2,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
       "brand": "Plusnet",
       "models": 2,
       "universal_default_models": 0,
@@ -668,12 +704,6 @@
     },
     {
       "brand": "TalkTalk",
-      "models": 2,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
-      "brand": "Cisco Meraki",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -1205,9 +1235,43 @@
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
+    },
+    {
+      "brand": "Orange (Jordan)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Rakuten Mobile",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Tele2 (Sweden)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "TIME (Malaysia)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
     }
   ],
   "still_shipping_universal_default": [
+    {
+      "brand": "3BB (Triple T Broadband)",
+      "model": "NT3bb-4PWN-137 (Huawei ADSL2+ Router)",
+      "slug": "3bb-thailand-nt3bb-4pwn-137",
+      "default_username": "admin",
+      "default_password": "3bb",
+      "source_url": "https://www.3bb.co.th/supportcenter/uploads/Manual/NT3bb-4PWN-137_240418.pdf",
+      "source_name": "3BB (Triple T Broadband) — NT3bb-4PWN-137 คู่มือการใช้งาน (official user manual PDF)",
+      "ssid_url": "https://ssid.ai/routers/3bb-thailand-nt3bb-4pwn-137"
+    },
     {
       "brand": "Actiontec",
       "model": "MI424WR (Verizon FiOS)",
@@ -1439,6 +1503,16 @@
       "ssid_url": "https://ssid.ai/routers/cambium-cnpilot-r190"
     },
     {
+      "brand": "Cambium Networks",
+      "model": "cnPilot r201 (Home & Small Business Wireless Router)",
+      "slug": "cambium-cnpilot-r201",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.cambiumnetworks.com/wp-content/uploads/2021/07/cnPilot-Home-Router_User-Guide_System-Release-4.8.pdf",
+      "source_name": "Cambium Networks — cnPilot Home Router User Guide, System Release 4.8 (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/cambium-cnpilot-r201"
+    },
+    {
       "brand": "Chunghwa Telecom (Taiwan)",
       "model": "Arcadyan WG620443-TC (HiNet mesh)",
       "slug": "cht-hinet-wg620443-tc",
@@ -1477,6 +1551,16 @@
       "source_url": "https://www.cisco.com/c/dam/en/us/td/docs/routers/csbr/RV345/Quick_start/EN/rv345_rv345P_qsg_en.pdf",
       "source_name": "Cisco RV345/RV345P Router Quick Start Guide (official)",
       "ssid_url": "https://ssid.ai/routers/cisco-rv345"
+    },
+    {
+      "brand": "Claro Colombia",
+      "model": "Cisco DPC2320/EPC2320 DOCSIS Wireless Residential Gateway",
+      "slug": "claro-colombia-cisco-dpc2320",
+      "default_username": null,
+      "default_password": null,
+      "source_url": "https://www.claro.com.co/portal/co/pdf/manualDPC2320.pdf",
+      "source_name": "Claro Colombia — Cisco DPC2320/EPC2320 Guía de usuario (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/claro-colombia-cisco-dpc2320"
     },
     {
       "brand": "Comcast Business",
@@ -1587,6 +1671,16 @@
       "source_url": "https://support.dlink.com/resource/products/DIR-X3260/REVA/DIR-X3260_REVA1_QIG_v1.01_(WW).pdf",
       "source_name": "D-Link DIR-X3260 REV A1 Quick Installation Guide v1.01 — official PDF",
       "ssid_url": "https://ssid.ai/routers/d-link-dir-x3260"
+    },
+    {
+      "brand": "Digi (RCS-RDS)",
+      "model": "Huawei HG8147X6",
+      "slug": "digi-romania-huawei-hg8147x6",
+      "default_username": "user",
+      "default_password": "digi",
+      "source_url": "https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwcyUzQSUyRiUy/RnN0b3JhZ2VkaWdpcm8xLnJjcy1yZHMu/cm8lMkZzdG9yYWdlJTJGMjAyMyUyRjAz/JTJGMDglMkYxNjkxNTUwXzE2OTE1NTBf/UG9ydF9Gb3J3YXJkaW5nX0h1YXdlaS1I/RzgxNDdYNi5wZGYmaGFzaD0yZTE2OTAz/NzQ5M2Y3NGFmZDdkZTMyZTU1MmE0ZmQzMQ==.pdf",
+      "source_name": "Digi Romania — Configurare Port Forwarding Huawei HG8147X6 (official PDF, s.digi.ro)",
+      "ssid_url": "https://ssid.ai/routers/digi-romania-huawei-hg8147x6"
     },
     {
       "brand": "Digicel",
@@ -1807,6 +1901,16 @@
       "source_url": "https://www.juniper.net/documentation/us/en/quick-start/hardware/qsg/srx340/topics/topic-map/step-2-up-and-running.html",
       "source_name": "Juniper Networks — SRX340 Quick Start Guide",
       "ssid_url": "https://ssid.ai/routers/juniper-srx340"
+    },
+    {
+      "brand": "Juniper Networks",
+      "model": "SRX380",
+      "slug": "juniper-srx380",
+      "default_username": "root",
+      "default_password": null,
+      "source_url": "https://www.juniper.net/documentation/us/en/quick-start/hardware/qsg/srx380/topics/topic-map/step-2-up-and-running.html",
+      "source_name": "Juniper Networks — SRX380 Quick Start, \"Up and Running\"",
+      "ssid_url": "https://ssid.ai/routers/juniper-srx380"
     },
     {
       "brand": "Linksys",
@@ -2189,6 +2293,16 @@
       "ssid_url": "https://ssid.ai/routers/now-broadband-hub"
     },
     {
+      "brand": "NURO (Sony Network Communications)",
+      "model": "Huawei HG8045Q GPON ONU",
+      "slug": "nuro-huawei-hg8045q",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://support.nuro.jp/faqsupport/nuro/web/knowledge11336.html",
+      "source_name": "NURO (Sony Network Communications) — ONU管理画面へのログイン・利用方法を知りたい (official support FAQ)",
+      "ssid_url": "https://ssid.ai/routers/nuro-huawei-hg8045q"
+    },
+    {
       "brand": "O2 Czech Republic",
       "model": "ZTE ZXHN H168N",
       "slug": "o2-czech-zte-h168n",
@@ -2277,6 +2391,56 @@
       "source_url": "https://docs.paloaltonetworks.com/hardware/pa-400-hardware-reference/install-the-pa-400-firewall/set-up-a-connection-to-the-firewall",
       "source_name": "Palo Alto Networks — PA-400 Series Hardware Reference: Set Up a Connection to the Firewall",
       "ssid_url": "https://ssid.ai/routers/paloalto-pa-440"
+    },
+    {
+      "brand": "Palo Alto Networks",
+      "model": "PA-415",
+      "slug": "paloalto-pa-415",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://docs.paloaltonetworks.com/hardware/pa-400-hardware-reference/install-the-pa-400-firewall/set-up-a-connection-to-the-firewall",
+      "source_name": "Palo Alto Networks — PA-400 Series Hardware Reference: Set Up a Connection to the Firewall",
+      "ssid_url": "https://ssid.ai/routers/paloalto-pa-415"
+    },
+    {
+      "brand": "Palo Alto Networks",
+      "model": "PA-450",
+      "slug": "paloalto-pa-450",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://docs.paloaltonetworks.com/hardware/pa-400-hardware-reference/install-the-pa-400-firewall/set-up-a-connection-to-the-firewall",
+      "source_name": "Palo Alto Networks — PA-400 Series Hardware Reference: Set Up a Connection to the Firewall",
+      "ssid_url": "https://ssid.ai/routers/paloalto-pa-450"
+    },
+    {
+      "brand": "Partner (Israel)",
+      "model": "T&W T128 ADSL/VDSL Self-Install Gateway",
+      "slug": "partner-israel-tw-t128",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://www.partner.co.il/globalassets/documents/guides/5275_10499-hoveret_natavim_t128_a5.pdf?id=122461",
+      "source_name": "Partner Israel — T&W T128 Self-Install User Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/partner-israel-tw-t128"
+    },
+    {
+      "brand": "Partner (Israel)",
+      "model": "Smart box (DSL/Cable Self-Install Gateway)",
+      "slug": "partner-israel-orange-smartbox",
+      "default_username": "home",
+      "default_password": "12345678",
+      "source_url": "https://www.partner.co.il/contentassets/e9ef64a117f1486b852861b384c1ed50/87185-smartbox.pdf",
+      "source_name": "Partner Israel — Smart box Self-Install User Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/partner-israel-orange-smartbox"
+    },
+    {
+      "brand": "Partner (Israel)",
+      "model": "D-Link 256 (DSL-G256DG VDSL2 Gigabit Modem Router)",
+      "slug": "partner-israel-dlink-256",
+      "default_username": "home",
+      "default_password": "12345678",
+      "source_url": "https://www.partner.co.il/globalassets/documents/guides/5184_10203_d-link_256_madrih_mishtamesh_a5.pdf?id=121181",
+      "source_name": "Partner Israel — D-Link 256 Self-Install User Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/partner-israel-dlink-256"
     },
     {
       "brand": "Peplink",
@@ -2477,6 +2641,16 @@
       "source_url": "https://assets-cms.sonicwall.com/technical-documentation/pdf/tz270-370-470-series-quick-start-guide/tz270-370-470-series-quick-start-guide.pdf",
       "source_name": "SonicWall TZ270/TZ370/TZ470 Series Quick Start Guide (official PDF)",
       "ssid_url": "https://ssid.ai/routers/sonicwall-tz370"
+    },
+    {
+      "brand": "SonicWall",
+      "model": "TZ670",
+      "slug": "sonicwall-tz670",
+      "default_username": "admin",
+      "default_password": "password",
+      "source_url": "https://assets-cms.sonicwall.com/technical-documentation/pdf/TZ670-570-570W-570P-QuickStartGuide/TZ670-570-570W-570P-QuickStartGuide.pdf",
+      "source_name": "SonicWall TZ670/TZ570/TZ570W/TZ570P Quick Start Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/sonicwall-tz670"
     },
     {
       "brand": "Sophos",
@@ -2739,6 +2913,16 @@
       "ssid_url": "https://ssid.ai/routers/trendnet-tew-712br"
     },
     {
+      "brand": "TRENDnet",
+      "model": "TEW-825DAP",
+      "slug": "trendnet-tew-825dap",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://downloads.trendnet.com/tew-825dap/qig/sp_web_tew-825dap(v1).pdf",
+      "source_name": "TRENDnet — TEW-825DAP(V1) Quick Installation Guide (official PDF, downloads.trendnet.com)",
+      "ssid_url": "https://ssid.ai/routers/trendnet-tew-825dap"
+    },
+    {
       "brand": "Türk Telekom",
       "model": "Home Gateway (factory default)",
       "slug": "turk-telekom-home-gateway",
@@ -2867,6 +3051,26 @@
       "source_url": "https://www.watchguard.com/help/docs/help-center/en-US/Content/en-US/Fireware/basicadmin/factory_default_about_c.html",
       "source_name": "WatchGuard Help Center — About Factory-Default Settings",
       "ssid_url": "https://ssid.ai/routers/watchguard-firebox-t40"
+    },
+    {
+      "brand": "WatchGuard",
+      "model": "Firebox T25 / T25-W",
+      "slug": "watchguard-firebox-t25-t25w",
+      "default_username": "admin",
+      "default_password": "readwrite",
+      "source_url": "https://www.watchguard.com/help/docs/quick_start_guides/Firebox_T25_quickstartguide.pdf",
+      "source_name": "WatchGuard — Firebox T25/T25-W Quick Start Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/watchguard-firebox-t25-t25w"
+    },
+    {
+      "brand": "WatchGuard",
+      "model": "Firebox T45",
+      "slug": "watchguard-firebox-t45",
+      "default_username": "admin",
+      "default_password": "readwrite",
+      "source_url": "https://www.watchguard.com/help/docs/quick_start_guides/Firebox_T45_quickstartguide.pdf",
+      "source_name": "WatchGuard — Firebox T45 Quick Start Guide (official PDF)",
+      "ssid_url": "https://ssid.ai/routers/watchguard-firebox-t45"
     },
     {
       "brand": "Wavlink",
