@@ -5,7 +5,7 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-11-21",
+  "generated_at": "2026-11-22",
   "model_count": 577,
   "routers": [
     {
@@ -4483,7 +4483,7 @@
       "reset_steps": "Factory-reset via the reset button on the modem; after reset, log in at http://192.168.254.254 with the admin password printed on the side-label sticker (unique per unit).",
       "source_url": "https://www.gokinetic.com/support/internet-security/faq-t3200-t3260-t3280-t4220-kinetic-by-windstream",
       "source_name": "Kinetic by Windstream — official support FAQ (Actiontec T3200/T3260/T3280/T4220)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261121051043/https://www.gokinetic.com/support/internet-security/faq-t3200-t3260-t3280-t4220-kinetic-by-windstream",
       "confidence": "high",
       "last_verified": "2026-11-20",
       "ssid_url": "https://ssid.ai/routers/kinetic-windstream-actiontec-t3200"
@@ -4503,7 +4503,7 @@
       "reset_steps": "Factory-reset via the recessed reset button on the device; after reset, log in with the Administrator Password on the bottom-label sticker (unique per unit).",
       "source_url": "https://www.gokinetic.com/support/internet-security/faq-zyxel-vmg4927-b50a-kinetic-by-windstream",
       "source_name": "Kinetic by Windstream — official support FAQ (Zyxel VMG4927-B50A)",
-      "source_archive_url": null,
+      "source_archive_url": "https://web.archive.org/web/20261121051124/https://www.gokinetic.com/support/internet-security/faq-zyxel-vmg4927-b50a-kinetic-by-windstream",
       "confidence": "high",
       "last_verified": "2026-11-20",
       "ssid_url": "https://ssid.ai/routers/kinetic-windstream-zyxel-vmg4927-b50a"
