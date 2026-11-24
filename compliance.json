@@ -6,13 +6,13 @@
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-11-23",
-  "model_count": 577,
+  "generated_at": "2026-11-24",
+  "model_count": 596,
   "by_credential_type": {
-    "set-on-setup": 145,
-    "label-unique": 185,
-    "app-only": 53,
-    "static": 194,
+    "set-on-setup": 146,
+    "label-unique": 192,
+    "app-only": 57,
+    "static": 201,
     "unknown": 0
   },
   "no_universal_default_pct": 66,
@@ -145,6 +145,12 @@
       "no_universal_default": false
     },
     {
+      "brand": "Teltonika Networks",
+      "models": 3,
+      "universal_default_models": 3,
+      "no_universal_default": false
+    },
+    {
       "brand": "Huawei",
       "models": 6,
       "universal_default_models": 2,
@@ -229,6 +235,12 @@
       "no_universal_default": false
     },
     {
+      "brand": "Umniah",
+      "models": 2,
+      "universal_default_models": 2,
+      "no_universal_default": false
+    },
+    {
       "brand": "ASUS",
       "models": 28,
       "universal_default_models": 1,
@@ -302,6 +314,12 @@
     },
     {
       "brand": "Digicel",
+      "models": 2,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
+      "brand": "Nayatel",
       "models": 2,
       "universal_default_models": 1,
       "no_universal_default": false
@@ -541,6 +559,12 @@
       "no_universal_default": false
     },
     {
+      "brand": "Vivint",
+      "models": 1,
+      "universal_default_models": 1,
+      "no_universal_default": false
+    },
+    {
       "brand": "AVM",
       "models": 16,
       "universal_default_models": 0,
@@ -565,14 +589,14 @@
       "no_universal_default": true
     },
     {
-      "brand": "Keenetic",
+      "brand": "Vodafone",
       "models": 6,
       "universal_default_models": 0,
       "no_universal_default": true
     },
     {
-      "brand": "Vodafone",
-      "models": 5,
+      "brand": "Keenetic",
+      "models": 6,
       "universal_default_models": 0,
       "no_universal_default": true
     },
@@ -585,6 +609,12 @@
     {
       "brand": "Honor",
       "models": 5,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Virgin Media",
+      "models": 4,
       "universal_default_models": 0,
       "no_universal_default": true
     },
@@ -632,12 +662,6 @@
     },
     {
       "brand": "AT&T",
-      "models": 3,
-      "universal_default_models": 0,
-      "no_universal_default": true
-    },
-    {
-      "brand": "Virgin Media",
       "models": 3,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -782,6 +806,18 @@
     },
     {
       "brand": "Check Point",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Community Fibre",
+      "models": 2,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Open Mesh (Datto Networking)",
       "models": 2,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -1256,6 +1292,36 @@
     },
     {
       "brand": "TIME (Malaysia)",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Zen Internet",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Safaricom",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Calix",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Wyze",
+      "models": 1,
+      "universal_default_models": 0,
+      "no_universal_default": true
+    },
+    {
+      "brand": "Plume",
       "models": 1,
       "universal_default_models": 0,
       "no_universal_default": true
@@ -2053,6 +2119,16 @@
       "ssid_url": "https://ssid.ai/routers/mtn-nigeria-broadband-router"
     },
     {
+      "brand": "Nayatel",
+      "model": "Huawei GPON Dual-Band ONT (EG8147X6/EG8145V5)",
+      "slug": "nayatel-huawei-eg8147x6-dual-band-ont",
+      "default_username": "Epuser",
+      "default_password": "userEp",
+      "source_url": "https://appstorage.nayatel.com/NayatelWebsiteMedia/Doc/dual_band_onts.pdf",
+      "source_name": "Nayatel — official Huawei GPON (Dual band ONT) User Manual (EG8147X6/EG8145V5), PDF",
+      "ssid_url": "https://ssid.ai/routers/nayatel-huawei-eg8147x6-dual-band-ont"
+    },
+    {
       "brand": "NetComm",
       "model": "NF18ACV",
       "slug": "netcomm-nf18acv",
@@ -2793,6 +2869,36 @@
       "ssid_url": "https://ssid.ai/routers/telstra-smart-modem-gen-2"
     },
     {
+      "brand": "Teltonika Networks",
+      "model": "RUT241 (Compact Industrial 4G LTE Cat4 Router)",
+      "slug": "teltonika-rut241",
+      "default_username": "admin",
+      "default_password": "admin01",
+      "source_url": "https://wiki.teltonika-networks.com/view/RUT241_Device_Recovery_Options",
+      "source_name": "Teltonika Networks Wiki — RUT241 Device Recovery Options (official)",
+      "ssid_url": "https://ssid.ai/routers/teltonika-rut241"
+    },
+    {
+      "brand": "Teltonika Networks",
+      "model": "RUTX11 (5-Port Dual-SIM LTE Router w/ GNSS)",
+      "slug": "teltonika-rutx11",
+      "default_username": "admin",
+      "default_password": "admin01",
+      "source_url": "https://wiki.teltonika-networks.com/view/RUTX11_Device_Recovery_Options",
+      "source_name": "Teltonika Networks Wiki — RUTX11 Device Recovery Options (official)",
+      "ssid_url": "https://ssid.ai/routers/teltonika-rutx11"
+    },
+    {
+      "brand": "Teltonika Networks",
+      "model": "RUTX50 (5G Sub-6 Industrial Router)",
+      "slug": "teltonika-rutx50",
+      "default_username": "admin",
+      "default_password": "admin01",
+      "source_url": "https://wiki.teltonika-networks.com/view/RUTX50_Device_Recovery_Options",
+      "source_name": "Teltonika Networks Wiki — RUTX50 Device Recovery Options (official)",
+      "ssid_url": "https://ssid.ai/routers/teltonika-rutx50"
+    },
+    {
       "brand": "Tigo (Honduras)",
       "model": "Hitron CGNV2 Cable Modem",
       "slug": "tigo-honduras-hitron-cgnv2",
@@ -3001,6 +3107,36 @@
       "source_url": "https://dl.ui.com/qsg/ER-8-XG/ER-8-XG_EN.html",
       "source_name": "Ubiquiti EdgeRouter Infinity (ER-8-XG) Quick Start Guide (official, dl.ui.com)",
       "ssid_url": "https://ssid.ai/routers/ubiquiti-edgerouter-infinity"
+    },
+    {
+      "brand": "Umniah",
+      "model": "Home 4G Router",
+      "slug": "umniah-home-4g-router",
+      "default_username": "user",
+      "default_password": "user",
+      "source_url": "https://www.umniah.com/faqs/",
+      "source_name": "Umniah — official FAQs (umniah.com)",
+      "ssid_url": "https://ssid.ai/routers/umniah-home-4g-router"
+    },
+    {
+      "brand": "Umniah",
+      "model": "Wingle / 4G Router / MiFi",
+      "slug": "umniah-wingle-4g-router-mifi",
+      "default_username": "Admin",
+      "default_password": "Admin",
+      "source_url": "https://www.umniah.com/faqs/",
+      "source_name": "Umniah — official FAQs (umniah.com)",
+      "ssid_url": "https://ssid.ai/routers/umniah-wingle-4g-router-mifi"
+    },
+    {
+      "brand": "Vivint",
+      "model": "Vivint Wireless Router",
+      "slug": "vivint-wireless-router",
+      "default_username": "admin",
+      "default_password": "admin",
+      "source_url": "https://images.vivintcdn.com/global/vivint.com/Support/HowTo/Internet/vivint-router-user-guide.pdf",
+      "source_name": "Vivint — Router User Guide (official PDF, vivintcdn.com)",
+      "ssid_url": "https://ssid.ai/routers/vivint-wireless-router"
     },
     {
       "brand": "Vivo (Telefônica Brasil)",
