@@ -1,12 +1,12 @@
 {
-  "name": "Router Default-Credential Compliance Index",
+  "name": "Router Default-Password Compliance Index",
   "description": "Share of tracked router models that no longer ship a universal default password. `static` is the pattern the UK PSTI Act (in force April 2024) prohibits on consumer connectable products and the EU Cyber Resilience Act targets.",
   "source": "https://ssid.ai/compliance",
   "live_feed": "https://ssid.ai/compliance/data.json",
   "license": "CC-BY-4.0",
   "license_url": "https://creativecommons.org/licenses/by/4.0/",
   "attribution": "ssid.ai router default-credential directory (https://ssid.ai/routers)",
-  "generated_at": "2026-11-24",
+  "generated_at": "2026-11-25",
   "model_count": 596,
   "by_credential_type": {
     "set-on-setup": 146,

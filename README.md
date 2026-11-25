@@ -11,7 +11,7 @@ Published by [ssid.ai](https://ssid.ai). Licensed **CC BY 4.0** — use it comme
 it, build on it. Just credit ssid.ai.
 
 <!-- generated:generated-at -->
-Generated 2026-11-24 from the live directory at <https://ssid.ai/routers>.
+Generated 2026-11-25 from the live directory at <https://ssid.ai/routers>.
 <!-- /generated:generated-at -->
 
 ## Files
@@ -21,7 +21,7 @@ Generated 2026-11-24 from the live directory at <https://ssid.ai/routers>.
 | --- | --- |
 | `routers.csv` | 596 rows, 18 columns, RFC 4180, LF line endings |
 | `routers.json` | The same 596 rows, with a licence and provenance header |
-| `compliance.json` | The Router Default-Credential Compliance Index: share of models with no universal default password, by brand |
+| `compliance.json` | The Router Default-Password Compliance Index: share of models with no universal default password, by brand |
 | `SCHEMA.md` | Every field defined, including the four `credential_type` values |
 | `LICENSE` | CC BY 4.0, and what attribution means here |
 <!-- /generated:files-table -->
@@ -96,8 +96,8 @@ are models whose manufacturer publishes a hostname or a DHCP-assigned address in
 ## Which routers still ship a universal default password?
 
 <!-- generated:compliance -->
-**201 of 596 models (34%).** Put the other way: 66% no longer do, as of 2026-11-24. That number is
-the Router Default-Credential Compliance Index, and `compliance.json` carries the full breakdown
+**201 of 596 models (34%).** Put the other way: 66% no longer do, as of 2026-11-25. That number is
+the Router Default-Password Compliance Index, and `compliance.json` carries the full breakdown
 plus every one of the 201 models with its username, password and source.
 
 Brands with the most models still shipping a universal default:

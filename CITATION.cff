@@ -11,8 +11,8 @@ authors:
     country: AE
 repository-code: https://github.com/Drumworks/router-default-passwords
 url: https://ssid.ai/routers
-date-released: 2026-11-24
-version: 2026-11-24
+date-released: 2026-11-25
+version: 2026-11-25
 abstract: >-
   An open dataset of 596 router, gateway, mesh and access-point models with, for
   each one, the default login IP, the default admin username, the default
@@ -21,7 +21,7 @@ abstract: >-
   Every row is sourced from the manufacturer's own documentation across 245
   distinct domains; a model that cannot be verified against an official source
   is excluded rather than guessed at. 201 of the 596 models still ship a
-  universal default password. Includes the Router Default-Credential Compliance
+  universal default password. Includes the Router Default-Password Compliance
   Index, which measures the share of tracked models that no longer ship one.
 keywords:
   - router default password
